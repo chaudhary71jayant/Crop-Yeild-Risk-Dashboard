@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is the backend of Crop yeild project",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayant Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
