@@ -4,10 +4,37 @@
 // Get a free hosted Postgres database in seconds: `npx create-db`
 
 generator client {
-  provider = "prisma-client"
-  output   = "../src/generated/prisma"
+  provider = "prisma-client-js"
 }
 
 datasource db {
   provider = "postgresql"
+}
+
+model DistrictData {
+  id           Int         @id @default(autoincrement())
+  district     String
+  state        String
+  crop         String
+  year         Int
+  rainfallMm   Float       @map("rainfall_mm")
+  avgPrice     Float       @map("avg_price")
+  areaHectares Float       @map("area_hectateres")
+  yieldTonnes  Float       @map("yield_tonnes")
+  riskScores   RiskScore[]
+
+  @@map("district_data")
+}
+
+model RiskScore {
+  id           Int          @id @default(autoincrement())
+  districtId   Int          @map("district_id")
+  district     DistrictData @relation(fields: [districtId], references: [id])
+  riskScore    Float        @map("risk_score")
+  topDriver1   String?      @map("top_driver_1")
+  topDriver2   String?      @map("top_driver_2")
+  topDriver3   String?      @map("top_driver_3")
+  modelVersion String?      @map("model_version")
+
+  @@map("risk_scores")
 }
