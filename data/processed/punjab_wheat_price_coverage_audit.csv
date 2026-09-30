@@ -1,0 +1,93 @@
+State,District,Crop,Year,Months_Available,_merge
+Punjab,Amritsar,Wheat,2021-22,2.0,both
+Punjab,Amritsar,Wheat,2022-23,2.0,both
+Punjab,Amritsar,Wheat,2023-24,4.0,both
+Punjab,Amritsar,Wheat,2024-25,3.0,both
+Punjab,Barnala,Wheat,2021-22,2.0,both
+Punjab,Barnala,Wheat,2022-23,2.0,both
+Punjab,Barnala,Wheat,2023-24,2.0,both
+Punjab,Barnala,Wheat,2024-25,3.0,both
+Punjab,Bathinda,Wheat,2021-22,2.0,both
+Punjab,Bathinda,Wheat,2022-23,3.0,both
+Punjab,Bathinda,Wheat,2023-24,2.0,both
+Punjab,Bathinda,Wheat,2024-25,2.0,both
+Punjab,Faridkot,Wheat,2021-22,2.0,both
+Punjab,Faridkot,Wheat,2022-23,2.0,both
+Punjab,Faridkot,Wheat,2023-24,2.0,both
+Punjab,Faridkot,Wheat,2024-25,2.0,both
+Punjab,Fatehgarh Sahib,Wheat,2021-22,2.0,both
+Punjab,Fatehgarh Sahib,Wheat,2022-23,2.0,both
+Punjab,Fatehgarh Sahib,Wheat,2023-24,2.0,both
+Punjab,Fatehgarh Sahib,Wheat,2024-25,2.0,both
+Punjab,Fazilka,Wheat,2021-22,2.0,both
+Punjab,Fazilka,Wheat,2022-23,2.0,both
+Punjab,Fazilka,Wheat,2023-24,2.0,both
+Punjab,Fazilka,Wheat,2024-25,2.0,both
+Punjab,Ferozepur,Wheat,2021-22,2.0,both
+Punjab,Ferozepur,Wheat,2022-23,2.0,both
+Punjab,Ferozepur,Wheat,2023-24,2.0,both
+Punjab,Ferozepur,Wheat,2024-25,2.0,both
+Punjab,Gurdaspur,Wheat,2021-22,2.0,both
+Punjab,Gurdaspur,Wheat,2022-23,2.0,both
+Punjab,Gurdaspur,Wheat,2023-24,2.0,both
+Punjab,Gurdaspur,Wheat,2024-25,2.0,both
+Punjab,Hoshiarpur,Wheat,2021-22,2.0,both
+Punjab,Hoshiarpur,Wheat,2022-23,2.0,both
+Punjab,Hoshiarpur,Wheat,2023-24,2.0,both
+Punjab,Hoshiarpur,Wheat,2024-25,2.0,both
+Punjab,Jalandhar,Wheat,2021-22,2.0,both
+Punjab,Jalandhar,Wheat,2022-23,2.0,both
+Punjab,Jalandhar,Wheat,2023-24,2.0,both
+Punjab,Jalandhar,Wheat,2024-25,4.0,both
+Punjab,Kapurthala,Wheat,2021-22,2.0,both
+Punjab,Kapurthala,Wheat,2022-23,2.0,both
+Punjab,Kapurthala,Wheat,2023-24,2.0,both
+Punjab,Kapurthala,Wheat,2024-25,2.0,both
+Punjab,Ludhiana,Wheat,2021-22,2.0,both
+Punjab,Ludhiana,Wheat,2022-23,2.0,both
+Punjab,Ludhiana,Wheat,2023-24,2.0,both
+Punjab,Ludhiana,Wheat,2024-25,4.0,both
+Punjab,Malerkotla,Wheat,2021-22,2.0,both
+Punjab,Malerkotla,Wheat,2022-23,2.0,both
+Punjab,Malerkotla,Wheat,2023-24,2.0,both
+Punjab,Malerkotla,Wheat,2024-25,2.0,both
+Punjab,Mansa,Wheat,2021-22,2.0,both
+Punjab,Mansa,Wheat,2022-23,2.0,both
+Punjab,Mansa,Wheat,2023-24,2.0,both
+Punjab,Mansa,Wheat,2024-25,2.0,both
+Punjab,Moga,Wheat,2021-22,2.0,both
+Punjab,Moga,Wheat,2022-23,2.0,both
+Punjab,Moga,Wheat,2023-24,2.0,both
+Punjab,Moga,Wheat,2024-25,2.0,both
+Punjab,Pathankot,Wheat,2021-22,,left_only
+Punjab,Pathankot,Wheat,2022-23,,left_only
+Punjab,Pathankot,Wheat,2023-24,,left_only
+Punjab,Pathankot,Wheat,2024-25,,left_only
+Punjab,Patiala,Wheat,2021-22,2.0,both
+Punjab,Patiala,Wheat,2022-23,2.0,both
+Punjab,Patiala,Wheat,2023-24,2.0,both
+Punjab,Patiala,Wheat,2024-25,3.0,both
+Punjab,Rupnagar,Wheat,2021-22,0.0,both
+Punjab,Rupnagar,Wheat,2022-23,,left_only
+Punjab,Rupnagar,Wheat,2023-24,2.0,both
+Punjab,Rupnagar,Wheat,2024-25,2.0,both
+Punjab,S.A.S Nagar,Wheat,2021-22,1.0,both
+Punjab,S.A.S Nagar,Wheat,2022-23,3.0,both
+Punjab,S.A.S Nagar,Wheat,2023-24,3.0,both
+Punjab,S.A.S Nagar,Wheat,2024-25,7.0,both
+Punjab,Sangrur,Wheat,2021-22,2.0,both
+Punjab,Sangrur,Wheat,2022-23,2.0,both
+Punjab,Sangrur,Wheat,2023-24,2.0,both
+Punjab,Sangrur,Wheat,2024-25,2.0,both
+Punjab,Shahid Bhagat Singh Nagar,Wheat,2021-22,5.0,both
+Punjab,Shahid Bhagat Singh Nagar,Wheat,2022-23,2.0,both
+Punjab,Shahid Bhagat Singh Nagar,Wheat,2023-24,3.0,both
+Punjab,Shahid Bhagat Singh Nagar,Wheat,2024-25,8.0,both
+Punjab,Sri Muktsar Sahib,Wheat,2021-22,2.0,both
+Punjab,Sri Muktsar Sahib,Wheat,2022-23,2.0,both
+Punjab,Sri Muktsar Sahib,Wheat,2023-24,2.0,both
+Punjab,Sri Muktsar Sahib,Wheat,2024-25,2.0,both
+Punjab,Tarn Taran,Wheat,2021-22,2.0,both
+Punjab,Tarn Taran,Wheat,2022-23,2.0,both
+Punjab,Tarn Taran,Wheat,2023-24,2.0,both
+Punjab,Tarn Taran,Wheat,2024-25,2.0,both

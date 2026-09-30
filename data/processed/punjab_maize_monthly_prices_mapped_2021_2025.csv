@@ -1,0 +1,449 @@
+State,Crop,Calendar_Year,Month,Month_Date,Market,Monthly_Price,Market_Key,District
+Punjab,Maize,2021,5,2021-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1774.89,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,6,2021-06-01,Adampur APMC,,adampur,Jalandhar
+Punjab,Maize,2021,6,2021-06-01,Ahmedgarh APMC,1504.58,ahmedgarh,Sangrur
+Punjab,Maize,2021,6,2021-06-01,Baghapurana APMC,,baghapurana,Moga
+Punjab,Maize,2021,6,2021-06-01,Garhshankar(Saila Khurd) APMC,968.31,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2021,6,2021-06-01,Gehri(Jandiala mandi) APMC,1491.74,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2021,6,2021-06-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2021,6,2021-06-01,Jalandhar City APMC,1191.86,jalandhar city,Jalandhar
+Punjab,Maize,2021,6,2021-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1259.13,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,6,2021-06-01,Majitha APMC,1475.0,majitha,Amritsar
+Punjab,Maize,2021,6,2021-06-01,Malout APMC,1048.39,malout,Sri Muktsar Sahib
+Punjab,Maize,2021,6,2021-06-01,Nabha APMC,1308.84,nabha,Patiala
+Punjab,Maize,2021,6,2021-06-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Maize,2021,6,2021-06-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Maize,2021,6,2021-06-01,Rayya APMC,,rayya,Amritsar
+Punjab,Maize,2021,6,2021-06-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Maize,2021,6,2021-06-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Maize,2021,7,2021-07-01,Ahmedgarh APMC,1546.46,ahmedgarh,Sangrur
+Punjab,Maize,2021,7,2021-07-01,Amritsar APMC,,amritsar,Amritsar
+Punjab,Maize,2021,7,2021-07-01,Baghapurana APMC,,baghapurana,Moga
+Punjab,Maize,2021,7,2021-07-01,Dharamkot APMC,,dharamkot,Moga
+Punjab,Maize,2021,7,2021-07-01,Dhilwan APMC,1356.38,dhilwan,Kapurthala
+Punjab,Maize,2021,7,2021-07-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2021,7,2021-07-01,Gehri(Jandiala mandi) APMC,1549.0,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2021,7,2021-07-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2021,7,2021-07-01,Jalandhar City APMC,1393.8,jalandhar city,Jalandhar
+Punjab,Maize,2021,7,2021-07-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1455.04,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,7,2021-07-01,Majitha APMC,,majitha,Amritsar
+Punjab,Maize,2021,7,2021-07-01,Malerkotla APMC,,malerkotla,Sangrur
+Punjab,Maize,2021,7,2021-07-01,Malout APMC,896.1,malout,Sri Muktsar Sahib
+Punjab,Maize,2021,7,2021-07-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Maize,2021,7,2021-07-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Maize,2021,7,2021-07-01,Nabha APMC,,nabha,Patiala
+Punjab,Maize,2021,7,2021-07-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Maize,2021,7,2021-07-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Maize,2021,7,2021-07-01,Nawan Shahar(MandiRaho) APMC,1200.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Maize,2021,7,2021-07-01,Rajpura APMC,1253.7,rajpura,Patiala
+Punjab,Maize,2021,7,2021-07-01,Rayya APMC,,rayya,Amritsar
+Punjab,Maize,2021,7,2021-07-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Maize,2021,7,2021-07-01,Sidhwan Bet APMC,1512.13,sidhwan bet,Ludhiana
+Punjab,Maize,2021,7,2021-07-01,Sultanpur APMC,1629.98,sultanpur,Sangrur
+Punjab,Maize,2021,7,2021-07-01,Sultanpur Lodhi (Tibba) APMC,1540.0,sultanpur lodhi (tibba),Kapurthala
+Punjab,Maize,2021,7,2021-07-01,Tapa(Tapa Mandi) APMC,,tapa(tapa mandi),Barnala
+Punjab,Maize,2021,7,2021-07-01,Tarantaran APMC,1600.0,tarantaran,Amritsar
+Punjab,Maize,2021,7,2021-07-01,Zira APMC,,zira,Ferozepur
+Punjab,Maize,2021,8,2021-08-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Maize,2021,8,2021-08-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Maize,2021,8,2021-08-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2021,8,2021-08-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2021,8,2021-08-01,Jalandhar City APMC,1651.17,jalandhar city,Jalandhar
+Punjab,Maize,2021,8,2021-08-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1690.54,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,8,2021-08-01,Malout APMC,821.05,malout,Sri Muktsar Sahib
+Punjab,Maize,2021,8,2021-08-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Maize,2021,8,2021-08-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Maize,2021,8,2021-08-01,Rajpura APMC,1512.22,rajpura,Patiala
+Punjab,Maize,2021,8,2021-08-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Maize,2021,8,2021-08-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Maize,2021,8,2021-08-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Maize,2021,8,2021-08-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Maize,2021,9,2021-09-01,Garhshankar(Saila Khurd) APMC,1051.2,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2021,9,2021-09-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2021,9,2021-09-01,Jalandhar City APMC,1751.77,jalandhar city,Jalandhar
+Punjab,Maize,2021,9,2021-09-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1754.05,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,9,2021-09-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Maize,2021,9,2021-09-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Maize,2021,9,2021-09-01,Rajpura APMC,1545.94,rajpura,Patiala
+Punjab,Maize,2021,9,2021-09-01,Sultanpur APMC,1757.0,sultanpur,Sangrur
+Punjab,Maize,2021,10,2021-10-01,Garhshankar(Saila Khurd) APMC,1000.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2021,10,2021-10-01,Jalandhar City APMC,1951.14,jalandhar city,Jalandhar
+Punjab,Maize,2021,10,2021-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1848.41,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,10,2021-10-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Maize,2021,10,2021-10-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Maize,2021,10,2021-10-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Maize,2021,11,2021-11-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2021,11,2021-11-01,Jalandhar City APMC,1842.6,jalandhar city,Jalandhar
+Punjab,Maize,2021,11,2021-11-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2021,12,2021-12-01,Jalandhar City APMC,1929.7,jalandhar city,Jalandhar
+Punjab,Maize,2021,12,2021-12-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1925.13,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2022,4,2022-04-01,Jalandhar Cantt. APMC,2015.0,jalandhar cantt.,Jalandhar
+Punjab,Maize,2022,4,2022-04-01,Nawanshahar APMC,2150.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,6,2022-06-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Maize,2022,6,2022-06-01,Bilga (Talwan ) APMC,2085.0,bilga (talwan ),Ludhiana
+Punjab,Maize,2022,6,2022-06-01,Bilga APMC,1284.3,bilga,Ludhiana
+Punjab,Maize,2022,6,2022-06-01,Dhilwan APMC,1246.39,dhilwan,Kapurthala
+Punjab,Maize,2022,6,2022-06-01,Garhshankar(Saila Khurd) APMC,1727.97,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2022,6,2022-06-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2022,6,2022-06-01,Jalandhar City APMC,2031.74,jalandhar city,Jalandhar
+Punjab,Maize,2022,6,2022-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2022,6,2022-06-01,Majitha APMC,,majitha,Amritsar
+Punjab,Maize,2022,6,2022-06-01,Malout APMC,1334.41,malout,Sri Muktsar Sahib
+Punjab,Maize,2022,6,2022-06-01,Nabha APMC,2000.0,nabha,Patiala
+Punjab,Maize,2022,6,2022-06-01,Nawan Shahar(MandiRaho) APMC,1433.33,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,6,2022-06-01,Nawanshahar APMC,1604.38,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,6,2022-06-01,Rajpura APMC,1627.76,rajpura,Patiala
+Punjab,Maize,2022,6,2022-06-01,Shahkot APMC,1449.07,shahkot,Jalandhar
+Punjab,Maize,2022,6,2022-06-01,Shakot (Malsian) APMC,1589.31,shakot (malsian),Jalandhar
+Punjab,Maize,2022,6,2022-06-01,Sidhwan Bet APMC,1861.13,sidhwan bet,Ludhiana
+Punjab,Maize,2022,6,2022-06-01,Sirhind APMC,1372.86,sirhind,Fatehgarh Sahib
+Punjab,Maize,2022,6,2022-06-01,Sultanpur APMC,1914.7,sultanpur,Sangrur
+Punjab,Maize,2022,7,2022-07-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Maize,2022,7,2022-07-01,Bilga (Talwan ) APMC,2060.0,bilga (talwan ),Ludhiana
+Punjab,Maize,2022,7,2022-07-01,Bilga APMC,1933.45,bilga,Ludhiana
+Punjab,Maize,2022,7,2022-07-01,Dhilwan APMC,1350.0,dhilwan,Kapurthala
+Punjab,Maize,2022,7,2022-07-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2022,7,2022-07-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2022,7,2022-07-01,Jagraon APMC,1812.86,jagraon,Ludhiana
+Punjab,Maize,2022,7,2022-07-01,Jalandhar City APMC,2005.78,jalandhar city,Jalandhar
+Punjab,Maize,2022,7,2022-07-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2005.49,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2022,7,2022-07-01,Majitha APMC,1980.97,majitha,Amritsar
+Punjab,Maize,2022,7,2022-07-01,Malout APMC,1083.84,malout,Sri Muktsar Sahib
+Punjab,Maize,2022,7,2022-07-01,Nabha APMC,,nabha,Patiala
+Punjab,Maize,2022,7,2022-07-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,7,2022-07-01,Nawanshahar APMC,1669.91,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,7,2022-07-01,Rajpura APMC,1823.58,rajpura,Patiala
+Punjab,Maize,2022,7,2022-07-01,Shahkot APMC,1637.72,shahkot,Jalandhar
+Punjab,Maize,2022,7,2022-07-01,Shakot (Malsian) APMC,1659.37,shakot (malsian),Jalandhar
+Punjab,Maize,2022,7,2022-07-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Maize,2022,7,2022-07-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Maize,2022,7,2022-07-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Maize,2022,7,2022-07-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Maize,2022,7,2022-07-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Maize,2022,8,2022-08-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Maize,2022,8,2022-08-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Maize,2022,8,2022-08-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Maize,2022,8,2022-08-01,Jagraon APMC,1895.29,jagraon,Ludhiana
+Punjab,Maize,2022,8,2022-08-01,Jalandhar City APMC,2160.32,jalandhar city,Jalandhar
+Punjab,Maize,2022,8,2022-08-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2168.57,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2022,8,2022-08-01,Majitha APMC,2100.0,majitha,Amritsar
+Punjab,Maize,2022,8,2022-08-01,Malout APMC,937.59,malout,Sri Muktsar Sahib
+Punjab,Maize,2022,8,2022-08-01,Nawanshahar APMC,1912.61,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,8,2022-08-01,Rajpura APMC,1800.0,rajpura,Patiala
+Punjab,Maize,2022,8,2022-08-01,Shahkot APMC,1633.91,shahkot,Jalandhar
+Punjab,Maize,2022,8,2022-08-01,Shakot (Malsian) APMC,2100.0,shakot (malsian),Jalandhar
+Punjab,Maize,2022,9,2022-09-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2022,9,2022-09-01,Jagraon APMC,1925.0,jagraon,Ludhiana
+Punjab,Maize,2022,9,2022-09-01,Jalandhar City APMC,2249.21,jalandhar city,Jalandhar
+Punjab,Maize,2022,9,2022-09-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2279.05,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2022,9,2022-09-01,Majitha APMC,,majitha,Amritsar
+Punjab,Maize,2022,9,2022-09-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Maize,2022,9,2022-09-01,Nawanshahar APMC,1622.07,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,9,2022-09-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Maize,2022,9,2022-09-01,Shahkot APMC,2301.92,shahkot,Jalandhar
+Punjab,Maize,2022,9,2022-09-01,Shakot (Malsian) APMC,2305.0,shakot (malsian),Jalandhar
+Punjab,Maize,2022,9,2022-09-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Maize,2022,10,2022-10-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2022,10,2022-10-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2022,10,2022-10-01,Jalandhar City APMC,2060.0,jalandhar city,Jalandhar
+Punjab,Maize,2022,10,2022-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2060.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2022,10,2022-10-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2022,10,2022-10-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Maize,2022,10,2022-10-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Maize,2023,4,2023-04-01,Jalandhar Cantt. APMC,2125.0,jalandhar cantt.,Jalandhar
+Punjab,Maize,2023,4,2023-04-01,Jalandhar City APMC,2125.0,jalandhar city,Jalandhar
+Punjab,Maize,2023,4,2023-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2125.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2023,4,2023-04-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2023,6,2023-06-01,Ahmedgarh APMC,1557.31,ahmedgarh,Sangrur
+Punjab,Maize,2023,6,2023-06-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Maize,2023,6,2023-06-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Maize,2023,6,2023-06-01,Dhilwan APMC,1338.57,dhilwan,Kapurthala
+Punjab,Maize,2023,6,2023-06-01,Garhshankar(Saila Khurd) APMC,992.53,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2023,6,2023-06-01,Gehri(Jandiala mandi) APMC,1468.23,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2023,6,2023-06-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Maize,2023,6,2023-06-01,Kurali APMC,1137.31,kurali,S.A.S Nagar
+Punjab,Maize,2023,6,2023-06-01,Malerkotla APMC,1385.65,malerkotla,Sangrur
+Punjab,Maize,2023,6,2023-06-01,Malout APMC,1400.0,malout,Sri Muktsar Sahib
+Punjab,Maize,2023,6,2023-06-01,Mehta APMC,1075.0,mehta,Amritsar
+Punjab,Maize,2023,6,2023-06-01,Nabha APMC,,nabha,Patiala
+Punjab,Maize,2023,6,2023-06-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Maize,2023,6,2023-06-01,Nawanshahar APMC,1206.55,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2023,6,2023-06-01,Rajpura APMC,1138.62,rajpura,Patiala
+Punjab,Maize,2023,6,2023-06-01,Rayya APMC,1688.01,rayya,Amritsar
+Punjab,Maize,2023,6,2023-06-01,Sahnewal APMC,1679.18,sahnewal,Ludhiana
+Punjab,Maize,2023,6,2023-06-01,Samrala APMC,1610.0,samrala,Ludhiana
+Punjab,Maize,2023,6,2023-06-01,Shahkot APMC,1247.37,shahkot,Jalandhar
+Punjab,Maize,2023,6,2023-06-01,Shakot (Malsian) APMC,1288.82,shakot (malsian),Jalandhar
+Punjab,Maize,2023,6,2023-06-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Maize,2023,6,2023-06-01,Sirhind APMC,1071.29,sirhind,Fatehgarh Sahib
+Punjab,Maize,2023,6,2023-06-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Maize,2023,6,2023-06-01,Tarantaran APMC,1563.46,tarantaran,Amritsar
+Punjab,Maize,2023,6,2023-06-01,Zira APMC,1675.0,zira,Ferozepur
+Punjab,Maize,2023,7,2023-07-01,Ahmedgarh APMC,1597.72,ahmedgarh,Sangrur
+Punjab,Maize,2023,7,2023-07-01,Amloh APMC,1698.12,amloh,Fatehgarh Sahib
+Punjab,Maize,2023,7,2023-07-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Dhilwan APMC,1219.09,dhilwan,Kapurthala
+Punjab,Maize,2023,7,2023-07-01,Garhshankar(Saila Khurd) APMC,1029.43,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2023,7,2023-07-01,Gehri(Jandiala mandi) APMC,1538.92,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2023,7,2023-07-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Maize,2023,7,2023-07-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2023,7,2023-07-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Maize,2023,7,2023-07-01,Majitha APMC,,majitha,Amritsar
+Punjab,Maize,2023,7,2023-07-01,Malerkotla APMC,,malerkotla,Sangrur
+Punjab,Maize,2023,7,2023-07-01,Malout APMC,1030.72,malout,Sri Muktsar Sahib
+Punjab,Maize,2023,7,2023-07-01,Mehta APMC,1635.0,mehta,Amritsar
+Punjab,Maize,2023,7,2023-07-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2023,7,2023-07-01,Rajpura APMC,1232.77,rajpura,Patiala
+Punjab,Maize,2023,7,2023-07-01,Rayya APMC,1650.01,rayya,Amritsar
+Punjab,Maize,2023,7,2023-07-01,Sahnewal APMC,1640.0,sahnewal,Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Shahkot APMC,1302.04,shahkot,Jalandhar
+Punjab,Maize,2023,7,2023-07-01,Shakot (Malsian) APMC,1453.84,shakot (malsian),Jalandhar
+Punjab,Maize,2023,7,2023-07-01,Sidhwan Bet (Lodhiwala) APMC,1655.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Sidhwan Bet APMC,1670.0,sidhwan bet,Ludhiana
+Punjab,Maize,2023,7,2023-07-01,Sirhind APMC,1335.0,sirhind,Fatehgarh Sahib
+Punjab,Maize,2023,7,2023-07-01,Tarantaran APMC,1563.0,tarantaran,Amritsar
+Punjab,Maize,2023,7,2023-07-01,Zira APMC,1679.3,zira,Ferozepur
+Punjab,Maize,2023,8,2023-08-01,Ahmedgarh APMC,1732.55,ahmedgarh,Sangrur
+Punjab,Maize,2023,8,2023-08-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Maize,2023,8,2023-08-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Maize,2023,8,2023-08-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2023,8,2023-08-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2023,8,2023-08-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2023,8,2023-08-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Maize,2023,8,2023-08-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2023,8,2023-08-01,Majitha APMC,,majitha,Amritsar
+Punjab,Maize,2023,8,2023-08-01,Malout APMC,900.0,malout,Sri Muktsar Sahib
+Punjab,Maize,2023,8,2023-08-01,Mehta APMC,,mehta,Amritsar
+Punjab,Maize,2023,8,2023-08-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2023,8,2023-08-01,Rajpura APMC,1217.59,rajpura,Patiala
+Punjab,Maize,2023,8,2023-08-01,Rayya APMC,,rayya,Amritsar
+Punjab,Maize,2023,8,2023-08-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Maize,2023,8,2023-08-01,Shahkot APMC,1485.0,shahkot,Jalandhar
+Punjab,Maize,2023,8,2023-08-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Maize,2023,8,2023-08-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2023,8,2023-08-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Maize,2023,8,2023-08-01,Sirhind APMC,1100.0,sirhind,Fatehgarh Sahib
+Punjab,Maize,2023,8,2023-08-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Maize,2023,8,2023-08-01,Zira APMC,1725.0,zira,Ferozepur
+Punjab,Maize,2023,9,2023-09-01,Ahmedgarh APMC,1857.15,ahmedgarh,Sangrur
+Punjab,Maize,2023,9,2023-09-01,Garhshankar(Saila Khurd) APMC,1200.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2023,9,2023-09-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Maize,2023,9,2023-09-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Maize,2023,9,2023-09-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2023,9,2023-09-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Maize,2023,9,2023-09-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2023,9,2023-09-01,Rajpura APMC,1225.0,rajpura,Patiala
+Punjab,Maize,2023,9,2023-09-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Maize,2023,9,2023-09-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Maize,2023,9,2023-09-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Maize,2023,9,2023-09-01,Zira APMC,1800.0,zira,Ferozepur
+Punjab,Maize,2023,10,2023-10-01,Ahmedgarh APMC,1995.0,ahmedgarh,Sangrur
+Punjab,Maize,2023,10,2023-10-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2023,10,2023-10-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Maize,2023,10,2023-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2023,10,2023-10-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Maize,2023,10,2023-10-01,Zira APMC,,zira,Ferozepur
+Punjab,Maize,2024,2,2024-02-01,Fazilka APMC,2500.0,fazilka,Fazilka
+Punjab,Maize,2024,3,2024-03-01,Fazilka APMC,,fazilka,Fazilka
+Punjab,Maize,2024,3,2024-03-01,Zira APMC,2500.0,zira,Ferozepur
+Punjab,Maize,2024,4,2024-04-01,Fazilka APMC,2000.0,fazilka,Fazilka
+Punjab,Maize,2024,4,2024-04-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Maize,2024,4,2024-04-01,Jalandhar City APMC,2525.0,jalandhar city,Jalandhar
+Punjab,Maize,2024,4,2024-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2275.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,4,2024-04-01,Khanna APMC,2200.0,khanna,Ludhiana
+Punjab,Maize,2024,4,2024-04-01,Zira APMC,,zira,Ferozepur
+Punjab,Maize,2024,5,2024-05-01,Fazilka APMC,,fazilka,Fazilka
+Punjab,Maize,2024,5,2024-05-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Maize,2024,5,2024-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2275.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,5,2024-05-01,Khanna APMC,2000.0,khanna,Ludhiana
+Punjab,Maize,2024,5,2024-05-01,Tarantaran APMC,2000.0,tarantaran,Amritsar
+Punjab,Maize,2024,6,2024-06-01,Ahmedgarh APMC,2202.29,ahmedgarh,Sangrur
+Punjab,Maize,2024,6,2024-06-01,Amargarh APMC,2155.96,amargarh,Malerkotla
+Punjab,Maize,2024,6,2024-06-01,Amloh APMC,2118.61,amloh,Fatehgarh Sahib
+Punjab,Maize,2024,6,2024-06-01,Amloh(Gobind Garh Mandi) APMC,2101.1,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Maize,2024,6,2024-06-01,Chanarthal APMC,2173.16,chanarthal,Bathinda
+Punjab,Maize,2024,6,2024-06-01,Dhilwan APMC,1290.93,dhilwan,Kapurthala
+Punjab,Maize,2024,6,2024-06-01,Garhshankar(Saila Khurd) APMC,1231.76,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2024,6,2024-06-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2024,6,2024-06-01,Jalandhar City APMC,2054.73,jalandhar city,Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2075.45,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Khanna APMC,1903.78,khanna,Ludhiana
+Punjab,Maize,2024,6,2024-06-01,Kurali APMC,1450.0,kurali,S.A.S Nagar
+Punjab,Maize,2024,6,2024-06-01,Majitha APMC,2040.0,majitha,Amritsar
+Punjab,Maize,2024,6,2024-06-01,Malerkotla APMC,,malerkotla,Sangrur
+Punjab,Maize,2024,6,2024-06-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Maize,2024,6,2024-06-01,Mehta APMC,,mehta,Amritsar
+Punjab,Maize,2024,6,2024-06-01,Nakodar APMC,2154.53,nakodar,Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Nakodar(Sarih) APMC,2163.99,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Nawan Shahar(Mandi Jadla) APMC,1450.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,6,2024-06-01,Nawanshahar APMC,1662.28,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,6,2024-06-01,Noor Mehal APMC,1356.52,noor mehal,Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Rajpura APMC,1615.77,rajpura,Patiala
+Punjab,Maize,2024,6,2024-06-01,Rayya APMC,2022.97,rayya,Amritsar
+Punjab,Maize,2024,6,2024-06-01,Sahnewal APMC,2132.22,sahnewal,Ludhiana
+Punjab,Maize,2024,6,2024-06-01,Samrala APMC,2076.76,samrala,Ludhiana
+Punjab,Maize,2024,6,2024-06-01,Shahkot APMC,2090.0,shahkot,Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Maize,2024,6,2024-06-01,Sidhwan Bet (Lodhiwala) APMC,2148.39,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2024,6,2024-06-01,Sidhwan Bet APMC,2149.8,sidhwan bet,Ludhiana
+Punjab,Maize,2024,6,2024-06-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Maize,2024,6,2024-06-01,Tapa(Tapa Mandi) APMC,1899.13,tapa(tapa mandi),Barnala
+Punjab,Maize,2024,6,2024-06-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Maize,2024,6,2024-06-01,Zira APMC,2155.47,zira,Ferozepur
+Punjab,Maize,2024,7,2024-07-01,Ahmedgarh APMC,2227.35,ahmedgarh,Sangrur
+Punjab,Maize,2024,7,2024-07-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Maize,2024,7,2024-07-01,Amloh APMC,2251.85,amloh,Fatehgarh Sahib
+Punjab,Maize,2024,7,2024-07-01,Amloh(Gobind Garh Mandi) APMC,2235.46,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Maize,2024,7,2024-07-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Maize,2024,7,2024-07-01,Dhilwan APMC,1671.52,dhilwan,Kapurthala
+Punjab,Maize,2024,7,2024-07-01,Garhshankar(Saila Khurd) APMC,1200.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2024,7,2024-07-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Maize,2024,7,2024-07-01,Jalandhar City APMC,2192.94,jalandhar city,Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2183.94,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Khanna APMC,2011.76,khanna,Ludhiana
+Punjab,Maize,2024,7,2024-07-01,Kurali APMC,1700.0,kurali,S.A.S Nagar
+Punjab,Maize,2024,7,2024-07-01,Majitha APMC,2230.0,majitha,Amritsar
+Punjab,Maize,2024,7,2024-07-01,Malout APMC,1286.52,malout,Sri Muktsar Sahib
+Punjab,Maize,2024,7,2024-07-01,Mehta APMC,,mehta,Amritsar
+Punjab,Maize,2024,7,2024-07-01,Nakodar APMC,2235.79,nakodar,Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Nakodar(Sarih) APMC,2261.47,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Nawan Shahar(Mandi Jadla) APMC,1500.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,7,2024-07-01,Nawanshahar APMC,1874.3,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,7,2024-07-01,Noor Mehal APMC,2222.46,noor mehal,Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Rajpura APMC,1740.86,rajpura,Patiala
+Punjab,Maize,2024,7,2024-07-01,Rayya APMC,2170.6,rayya,Amritsar
+Punjab,Maize,2024,7,2024-07-01,Sahnewal APMC,2135.97,sahnewal,Ludhiana
+Punjab,Maize,2024,7,2024-07-01,Samrala APMC,2165.32,samrala,Ludhiana
+Punjab,Maize,2024,7,2024-07-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Maize,2024,7,2024-07-01,Sidhwan Bet (Lodhiwala) APMC,2163.42,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2024,7,2024-07-01,Sidhwan Bet APMC,2148.53,sidhwan bet,Ludhiana
+Punjab,Maize,2024,7,2024-07-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Maize,2024,7,2024-07-01,Tapa(Tapa Mandi) APMC,,tapa(tapa mandi),Barnala
+Punjab,Maize,2024,7,2024-07-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Maize,2024,7,2024-07-01,Zira APMC,2101.3,zira,Ferozepur
+Punjab,Maize,2024,8,2024-08-01,Ahmedgarh APMC,2339.59,ahmedgarh,Sangrur
+Punjab,Maize,2024,8,2024-08-01,Amloh APMC,2300.0,amloh,Fatehgarh Sahib
+Punjab,Maize,2024,8,2024-08-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Maize,2024,8,2024-08-01,Dhilwan APMC,1656.95,dhilwan,Kapurthala
+Punjab,Maize,2024,8,2024-08-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2024,8,2024-08-01,Jalandhar City APMC,2370.62,jalandhar city,Jalandhar
+Punjab,Maize,2024,8,2024-08-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2347.65,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,8,2024-08-01,Khanna APMC,2202.67,khanna,Ludhiana
+Punjab,Maize,2024,8,2024-08-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Maize,2024,8,2024-08-01,Majitha APMC,,majitha,Amritsar
+Punjab,Maize,2024,8,2024-08-01,Malout APMC,1200.0,malout,Sri Muktsar Sahib
+Punjab,Maize,2024,8,2024-08-01,Nakodar APMC,2329.89,nakodar,Jalandhar
+Punjab,Maize,2024,8,2024-08-01,Nakodar(Sarih) APMC,2375.0,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,8,2024-08-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,8,2024-08-01,Nawanshahar APMC,2379.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,8,2024-08-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Maize,2024,8,2024-08-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Maize,2024,8,2024-08-01,Rayya APMC,1887.5,rayya,Amritsar
+Punjab,Maize,2024,8,2024-08-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Maize,2024,8,2024-08-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Maize,2024,8,2024-08-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Maize,2024,8,2024-08-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2024,8,2024-08-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Maize,2024,8,2024-08-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Maize,2024,8,2024-08-01,Talwandi Bhai APMC,1600.0,talwandi bhai,Ferozepur
+Punjab,Maize,2024,8,2024-08-01,Tapa(Tapa Mandi) APMC,2200.0,tapa(tapa mandi),Barnala
+Punjab,Maize,2024,8,2024-08-01,Zira APMC,2095.0,zira,Ferozepur
+Punjab,Maize,2024,9,2024-09-01,Ahmedgarh APMC,2320.78,ahmedgarh,Sangrur
+Punjab,Maize,2024,9,2024-09-01,Amloh APMC,2425.0,amloh,Fatehgarh Sahib
+Punjab,Maize,2024,9,2024-09-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Maize,2024,9,2024-09-01,Garhshankar(Saila Khurd) APMC,1700.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2024,9,2024-09-01,Jalandhar City APMC,2566.5,jalandhar city,Jalandhar
+Punjab,Maize,2024,9,2024-09-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2561.16,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,9,2024-09-01,Khanna APMC,2362.84,khanna,Ludhiana
+Punjab,Maize,2024,9,2024-09-01,Malout APMC,1200.0,malout,Sri Muktsar Sahib
+Punjab,Maize,2024,9,2024-09-01,Nakodar APMC,2323.99,nakodar,Jalandhar
+Punjab,Maize,2024,9,2024-09-01,Nakodar(Sarih) APMC,2416.96,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,9,2024-09-01,Nawanshahar APMC,2456.73,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,9,2024-09-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Maize,2024,9,2024-09-01,Rayya APMC,,rayya,Amritsar
+Punjab,Maize,2024,9,2024-09-01,Talwandi Bhai APMC,,talwandi bhai,Ferozepur
+Punjab,Maize,2024,9,2024-09-01,Tapa(Tapa Mandi) APMC,2356.55,tapa(tapa mandi),Barnala
+Punjab,Maize,2024,9,2024-09-01,Zira APMC,2400.0,zira,Ferozepur
+Punjab,Maize,2024,10,2024-10-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Maize,2024,10,2024-10-01,Amargarh APMC,2320.0,amargarh,Malerkotla
+Punjab,Maize,2024,10,2024-10-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Maize,2024,10,2024-10-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2024,10,2024-10-01,Jalandhar City APMC,2417.86,jalandhar city,Jalandhar
+Punjab,Maize,2024,10,2024-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2587.5,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,10,2024-10-01,Khanna APMC,2400.0,khanna,Ludhiana
+Punjab,Maize,2024,10,2024-10-01,Malout APMC,1200.0,malout,Sri Muktsar Sahib
+Punjab,Maize,2024,10,2024-10-01,Mansura APMC,2320.0,mansura,Ludhiana
+Punjab,Maize,2024,10,2024-10-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Maize,2024,10,2024-10-01,Nakodar(Sarih) APMC,2320.0,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,10,2024-10-01,Nawanshahar APMC,2635.95,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,10,2024-10-01,Nurpurbet APMC,2320.0,nurpurbet,Ludhiana
+Punjab,Maize,2024,10,2024-10-01,Purain APMC,2320.0,purain,Ludhiana
+Punjab,Maize,2024,10,2024-10-01,Sidhwan Bet (Lodhiwala) APMC,2320.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2024,10,2024-10-01,Tapa(Tapa Mandi) APMC,,tapa(tapa mandi),Barnala
+Punjab,Maize,2024,10,2024-10-01,Zira APMC,,zira,Ferozepur
+Punjab,Maize,2024,11,2024-11-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Maize,2024,11,2024-11-01,Jalandhar City APMC,2900.0,jalandhar city,Jalandhar
+Punjab,Maize,2024,11,2024-11-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2320.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,11,2024-11-01,Khanna APMC,,khanna,Ludhiana
+Punjab,Maize,2024,11,2024-11-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Maize,2024,11,2024-11-01,Mansura APMC,,mansura,Ludhiana
+Punjab,Maize,2024,11,2024-11-01,Nakodar(Sarih) APMC,2320.0,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,11,2024-11-01,Nawanshahar APMC,2440.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,11,2024-11-01,Nurpurbet APMC,,nurpurbet,Ludhiana
+Punjab,Maize,2024,11,2024-11-01,Purain APMC,,purain,Ludhiana
+Punjab,Maize,2024,11,2024-11-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2024,11,2024-11-01,Zira APMC,2350.0,zira,Ferozepur
+Punjab,Maize,2024,12,2024-12-01,Ahmedgarh APMC,1250.0,ahmedgarh,Sangrur
+Punjab,Maize,2024,12,2024-12-01,Jalandhar City APMC,2615.9,jalandhar city,Jalandhar
+Punjab,Maize,2024,12,2024-12-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2642.27,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2024,12,2024-12-01,Kurali APMC,2450.0,kurali,S.A.S Nagar
+Punjab,Maize,2024,12,2024-12-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Maize,2024,12,2024-12-01,Nawanshahar APMC,2539.27,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2024,12,2024-12-01,Zira APMC,,zira,Ferozepur
+Punjab,Maize,2025,1,2025-01-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Maize,2025,1,2025-01-01,Jalandhar City APMC,2645.0,jalandhar city,Jalandhar
+Punjab,Maize,2025,1,2025-01-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2645.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2025,1,2025-01-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Maize,2025,1,2025-01-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2025,4,2025-04-01,Fazilka APMC,,fazilka,Fazilka
+Punjab,Maize,2025,4,2025-04-01,Jalandhar City APMC,2430.0,jalandhar city,Jalandhar
+Punjab,Maize,2025,4,2025-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2425.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2025,4,2025-04-01,Khanna APMC,,khanna,Ludhiana
+Punjab,Maize,2025,5,2025-05-01,Jalandhar City APMC,2426.31,jalandhar city,Jalandhar
+Punjab,Maize,2025,5,2025-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2025,5,2025-05-01,Khanna APMC,,khanna,Ludhiana
+Punjab,Maize,2025,5,2025-05-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Maize,2025,6,2025-06-01,Abohar APMC,1979.62,abohar,Fazilka
+Punjab,Maize,2025,6,2025-06-01,Ahmedgarh APMC,2032.63,ahmedgarh,Sangrur
+Punjab,Maize,2025,6,2025-06-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Maize,2025,6,2025-06-01,Amloh APMC,2114.27,amloh,Fatehgarh Sahib
+Punjab,Maize,2025,6,2025-06-01,Amloh(Gobind Garh Mandi) APMC,2059.42,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Maize,2025,6,2025-06-01,Attari APMC,1766.37,attari,Amritsar
+Punjab,Maize,2025,6,2025-06-01,Chanarthal APMC,2138.47,chanarthal,Bathinda
+Punjab,Maize,2025,6,2025-06-01,Dhilwan APMC,1300.0,dhilwan,Kapurthala
+Punjab,Maize,2025,6,2025-06-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Maize,2025,6,2025-06-01,Jalandhar City APMC,1699.76,jalandhar city,Jalandhar
+Punjab,Maize,2025,6,2025-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1929.03,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Maize,2025,6,2025-06-01,Khanna APMC,,khanna,Ludhiana
+Punjab,Maize,2025,6,2025-06-01,Kurali APMC,1456.08,kurali,S.A.S Nagar
+Punjab,Maize,2025,6,2025-06-01,Majitha APMC,2117.05,majitha,Amritsar
+Punjab,Maize,2025,6,2025-06-01,Mullanpur Dakha (Sawadi) APMC,2000.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Maize,2025,6,2025-06-01,Nabha APMC,2700.0,nabha,Patiala
+Punjab,Maize,2025,6,2025-06-01,Nakodar APMC,2147.05,nakodar,Jalandhar
+Punjab,Maize,2025,6,2025-06-01,Nakodar(Sarih) APMC,2147.0,nakodar(sarih),Jalandhar
+Punjab,Maize,2025,6,2025-06-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Maize,2025,6,2025-06-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Maize,2025,6,2025-06-01,Noor Mehal APMC,1500.0,noor mehal,Jalandhar
+Punjab,Maize,2025,6,2025-06-01,Rajpura APMC,1528.58,rajpura,Patiala
+Punjab,Maize,2025,6,2025-06-01,Rayya APMC,2094.14,rayya,Amritsar
+Punjab,Maize,2025,6,2025-06-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Maize,2025,6,2025-06-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Maize,2025,6,2025-06-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Maize,2025,6,2025-06-01,Sidhwan Bet (Lodhiwala) APMC,1874.45,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Maize,2025,6,2025-06-01,Sidhwan Bet APMC,1868.14,sidhwan bet,Ludhiana
+Punjab,Maize,2025,6,2025-06-01,Tapa(Tapa Mandi) APMC,2038.89,tapa(tapa mandi),Barnala
+Punjab,Maize,2025,6,2025-06-01,Zira APMC,2131.08,zira,Ferozepur
