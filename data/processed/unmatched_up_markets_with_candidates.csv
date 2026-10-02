@@ -1,0 +1,54 @@
+Market,Market_Key,Price_Rows,First_Date,Last_Date,Search_Name,Suggested_District,Geocoded_Address
+Gadaura APMC,gadaura,30,2021-01-01,2021-01-31,Gadaura,,
+Khaga APMC,khaga,29,2021-01-01,2021-01-31,Khaga,Fatehpur,"Khaga, Fatehpur, Uttar Pradesh, India"
+Dhanaura APMC,dhanaura,27,2021-01-01,2021-01-31,Dhanaura,Amroha,"Dhanaura, Amroha, Uttar Pradesh, India"
+Firozabad APMC,firozabad,27,2021-01-01,2021-01-31,Firozabad,Firozabad,"Firozabad, Uttar Pradesh, India"
+Etah APMC,etah,27,2021-01-01,2021-01-31,Etah,Etah,"Etah, Uttar Pradesh, India"
+Haldaur APMC,haldaur,27,2021-01-01,2021-01-27,Haldaur,Bijnor,"Haldaur, Bijnor, Uttar Pradesh, 246726, India"
+Mahoba APMC,mahoba,27,2021-01-01,2021-01-31,Mahoba,Mahoba,"Mahoba, Uttar Pradesh, India"
+Maharajganj APMC,maharajganj,26,2021-01-01,2021-01-30,Maharajganj,Raebareli,"Maharajganj, Raebareli, Uttar Pradesh, India"
+Karvi APMC,karvi,26,2021-01-01,2021-01-31,Karvi,,
+Bharuasumerpur APMC,bharuasumerpur,26,2021-01-01,2021-01-31,Bharuasumerpur,,
+Ghaziabad APMC,ghaziabad,26,2021-01-01,2021-01-31,Ghaziabad,Ghaziabad,"Ghaziabad, Uttar Pradesh, India"
+Banda APMC,banda,26,2021-01-01,2021-01-31,Banda,Banda,"Banda, Uttar Pradesh, India"
+Muskara APMC,muskara,26,2021-01-01,2021-01-31,Muskara,Mahoba,"Muskara Mahoba Charkhari Road, Charkhari, Mahoba, Uttar Pradesh, 210421, India"
+Mohamadabad APMC,mohamadabad,26,2021-01-01,2021-01-31,Mohamadabad,,
+Bilsi APMC,bilsi,26,2021-01-01,2021-01-31,Bilsi,Badaun,"Bilsi, Badaun, Uttar Pradesh, India"
+Chandoli APMC,chandoli,25,2021-01-01,2021-01-30,Chandoli,,
+Etawah APMC,etawah,25,2021-01-01,2021-01-30,Etawah,Etawah,"Etawah, Uttar Pradesh, India"
+Achnera APMC,achnera,25,2021-01-01,2021-01-31,Achnera,Agra,"Achhnera, Kiraoli, Agra, Uttar Pradesh, India"
+Barhaj APMC,barhaj,25,2021-01-01,2021-01-30,Barhaj,Deoria,"Barhaj, Deoria, Uttar Pradesh, India"
+Tulsipur APMC,tulsipur,25,2021-01-02,2021-01-31,Tulsipur,Balrampur,"Tulsipur, MDR10E, Tulsīpur, Tulsipur, Balrampur, Uttar Pradesh, 271208, India"
+Balrampur APMC,balrampur,25,2021-01-02,2021-01-30,Balrampur,Balrampur,"Balrampur, Uttar Pradesh, India"
+Saharanpur APMC,saharanpur,25,2021-01-01,2021-01-30,Saharanpur,Saharanpur,"Saharanpur, Uttar Pradesh, India"
+Gazipur APMC,gazipur,25,2021-01-01,2021-01-30,Gazipur,Azamgarh,"gazipur road, Sidhari, Azamgarh, Uttar Pradesh, 276001, India"
+Khairagarh APMC,khairagarh,25,2021-01-01,2021-01-31,Khairagarh,,
+Ballia APMC,ballia,24,2021-01-01,2021-01-28,Ballia,Ballia,"Ballia, Uttar Pradesh, India"
+Meerut APMC,meerut,24,2021-01-01,2021-01-30,Meerut,Meerut,"Meerut, Uttar Pradesh, India"
+Gurusarai APMC,gurusarai,24,2021-01-01,2021-01-31,Gurusarai,,
+Sikandraraau APMC,sikandraraau,24,2021-01-02,2021-01-30,Sikandraraau,,
+Paliakala APMC,paliakala,24,2021-01-01,2021-01-30,Paliakala,,
+Chorichora APMC,chorichora,24,2021-01-01,2021-01-30,Chorichora,,
+Buland Shahr APMC,buland shahr,23,2021-01-01,2021-01-30,Buland Shahr,,
+Achalda APMC,achalda,23,2021-01-01,2021-01-30,Achalda,,
+Raath APMC,raath,22,2021-01-01,2021-01-31,Raath,Hamirpur,"CHC, Raath, SH42, Rath, Hamirpur, Uttar Pradesh, 210431, India"
+Rasda APMC,rasda,22,2021-01-01,2021-01-30,Rasda,,
+Chitwadagaon APMC,chitwadagaon,22,2021-01-01,2021-01-29,Chitwadagaon,,
+Bijnaur APMC,bijnaur,20,2021-01-02,2021-01-30,Bijnaur,,
+Salon APMC,salon,20,2021-01-02,2021-01-30,Salon,Raebareli,"Salon, Raebareli, Uttar Pradesh, India"
+Kurara APMC,kurara,20,2021-01-02,2021-01-31,Kurara,Hamirpur,"Kurara, Hamirpur, Uttar Pradesh, 210505, India"
+Tundla APMC,tundla,19,2021-01-04,2021-01-30,Tundla,Firozabad,"Tundla, Firozabad, Uttar Pradesh, 283204, India"
+Mugrabaadshahpur APMC,mugrabaadshahpur,19,2021-01-01,2021-01-29,Mugrabaadshahpur,,
+Kishunpur APMC,kishunpur,18,2021-01-02,2021-01-31,Kishunpur,Bahraich,"SubCentre, Kishunpur Mitha, Mahasi, Bahraich, Uttar Pradesh, 271851, India"
+Orai APMC,orai,18,2021-01-01,2021-01-31,Orai,Jalaun,"Orai, Jalaun, Uttar Pradesh, India"
+Baberu APMC,baberu,17,2021-01-01,2021-01-30,Baberu,Banda,"Baberu, Banda, Uttar Pradesh, India"
+Kalpi APMC,kalpi,16,2021-01-02,2021-01-25,Kalpi,Jalaun,"Kalpi, Jalaun, Uttar Pradesh, 285204, India"
+Mawana APMC,mawana,16,2021-01-01,2021-01-29,Mawana,Meerut,"Mawana, Meerut, Uttar Pradesh, India"
+Gonda APMC,gonda,14,2021-01-01,2021-01-30,Gonda,Gonda,"Gonda, Uttar Pradesh, India"
+Chirgaon APMC,chirgaon,11,2021-01-12,2021-01-31,Chirgaon,Jhansi,"Chirgaon, Tahrauli, Jhansi, Uttar Pradesh, 284801, India"
+Mirzapur APMC,mirzapur,8,2021-01-01,2021-01-28,Mirzapur,Mirzapur,"Mirzapur, Uttar Pradesh, India"
+Jagnair APMC,jagnair,4,2021-01-02,2021-01-28,Jagnair,,
+Hamirpur APMC,hamirpur,2,2021-01-15,2021-01-30,Hamirpur,Hamirpur,"Hamirpur, Uttar Pradesh, India"
+Fatehabad APMC,fatehabad,2,2021-01-16,2021-01-28,Fatehabad,Agra,"Fatehabad, Agra, Uttar Pradesh, India"
+Tikonia APMC,tikonia,2,2021-01-21,2021-01-22,Tikonia,,
+Bansi APMC,bansi,1,2021-01-29,2021-01-29,Bansi,Siddharthnagar,"Bansi, Siddharthnagar, Uttar Pradesh, India"
