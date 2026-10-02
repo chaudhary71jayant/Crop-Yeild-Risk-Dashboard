@@ -1,0 +1,1201 @@
+State,Crop,Calendar_Year,Month,Month_Date,Market,Monthly_Price,Market_Key,District
+Punjab,Rice,2021,1,2021-01-01,Budalada APMC,2700.0,budalada,Mansa
+Punjab,Rice,2021,1,2021-01-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Rice,2021,1,2021-01-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,1,2021-01-01,Talwandi Sabo APMC,,talwandi sabo,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Abohar APMC,1960.0,abohar,Fazilka
+Punjab,Rice,2021,10,2021-10-01,Amargarh APMC,1960.0,amargarh,Malerkotla
+Punjab,Rice,2021,10,2021-10-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Rice,2021,10,2021-10-01,Amritsar APMC,,amritsar,Amritsar
+Punjab,Rice,2021,10,2021-10-01,Badhni Kalan APMC,1960.0,badhni kalan,Moga
+Punjab,Rice,2021,10,2021-10-01,Badhni Kallan (Bilaspur) APMC,1960.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2021,10,2021-10-01,Banga (Kataria) APMC,1960.0,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,10,2021-10-01,Bareta APMC,1960.0,bareta,Mansa
+Punjab,Rice,2021,10,2021-10-01,Bassi Pathana APMC,1960.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2021,10,2021-10-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Rice,2021,10,2021-10-01,Bhawanigarh APMC,1960.0,bhawanigarh,Sangrur
+Punjab,Rice,2021,10,2021-10-01,Bhikhi APMC,1960.0,bhikhi,Mansa
+Punjab,Rice,2021,10,2021-10-01,Bhikhiwind (Algo) APMC,1960.0,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Bhikhiwind (Basarke) APMC,1960.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Bhikhiwind (Marrimegha) APMC,1960.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Bhikhiwind (Sursingh) APMC,1960.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Bhikhiwind APMC,1960.0,bhikhiwind,Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Bhikhiwind(Khalra) APMC,1960.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Bhucho APMC,1960.0,bhucho,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Bhulath (Nadala) APMC,1960.0,bhulath (nadala),Kapurthala
+Punjab,Rice,2021,10,2021-10-01,Bhulath APMC,1960.0,bhulath,Kapurthala
+Punjab,Rice,2021,10,2021-10-01,Bilga (Talwan ) APMC,1960.0,bilga (talwan ),Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Bilga APMC,1960.0,bilga,Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Boha APMC,1960.0,boha,Mansa
+Punjab,Rice,2021,10,2021-10-01,Budalada APMC,1960.0,budalada,Mansa
+Punjab,Rice,2021,10,2021-10-01,Budhlada (Phaphre Bhaike) APMC,1960.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2021,10,2021-10-01,Chabhal APMC,1960.0,chabhal,Amritsar
+Punjab,Rice,2021,10,2021-10-01,Chanarthal APMC,1960.0,chanarthal,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Dakala APMC,1960.0,dakala,Patiala
+Punjab,Rice,2021,10,2021-10-01,Dasuya APMC,1960.0,dasuya,Hoshiarpur
+Punjab,Rice,2021,10,2021-10-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Rice,2021,10,2021-10-01,Dhanula (Kaleke) APMC,,dhanula (kaleke),Barnala
+Punjab,Rice,2021,10,2021-10-01,Dhilwan APMC,1960.0,dhilwan,Kapurthala
+Punjab,Rice,2021,10,2021-10-01,Dinanagar APMC,1960.0,dinanagar,Gurdaspur
+Punjab,Rice,2021,10,2021-10-01,Dirba APMC,1960.0,dirba,Sangrur
+Punjab,Rice,2021,10,2021-10-01,Dudhansadhan APMC,1960.0,dudhansadhan,Patiala
+Punjab,Rice,2021,10,2021-10-01,Faridkot (Machakikalan) APMC,,faridkot (machakikalan),Faridkot
+Punjab,Rice,2021,10,2021-10-01,Faridkot APMC,,faridkot,Faridkot
+Punjab,Rice,2021,10,2021-10-01,Firozepur City APMC,1960.0,firozepur city,Ferozepur
+Punjab,Rice,2021,10,2021-10-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Rice,2021,10,2021-10-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2021,10,2021-10-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Rice,2021,10,2021-10-01,Garhshankar(Saila Khurd) APMC,1960.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2021,10,2021-10-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Rice,2021,10,2021-10-01,Giddarbaha APMC,1960.0,giddarbaha,Sri Muktsar Sahib
+Punjab,Rice,2021,10,2021-10-01,Goniana APMC,1960.0,goniana,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Guru Har Sahai APMC,1960.0,guru har sahai,Ferozepur
+Punjab,Rice,2021,10,2021-10-01,Hathur APMC,1960.28,hathur,Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Jaitu APMC,1960.0,jaitu,Faridkot
+Punjab,Rice,2021,10,2021-10-01,Jaitu(Bajakhana) APMC,1960.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2021,10,2021-10-01,Jalalabad APMC,1960.0,jalalabad,Fazilka
+Punjab,Rice,2021,10,2021-10-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,1958.99,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Jalandhar Cantt. APMC,1960.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Jalandhar City APMC,1960.0,jalandhar city,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Jalandhar City(Faintan Ganj) APMC,1960.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1960.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Kahnuwan APMC,1960.0,kahnuwan,Gurdaspur
+Punjab,Rice,2021,10,2021-10-01,Kharar APMC,1960.0,kharar,S.A.S Nagar
+Punjab,Rice,2021,10,2021-10-01,Kot ise Khan APMC,1965.0,kot ise khan,Moga
+Punjab,Rice,2021,10,2021-10-01,Ludhiana(Mandi gill Road) APMC,,ludhiana(mandi gill road),Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Ludhiana(Salem Tabri) APMC,,ludhiana(salem tabri),Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Majitha APMC,1960.01,majitha,Amritsar
+Punjab,Rice,2021,10,2021-10-01,Mallanwala (KhosaDalSinghwala) APMC,1960.0,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Rice,2021,10,2021-10-01,Mallanwala APMC,1960.0,mallanwala,Ferozepur
+Punjab,Rice,2021,10,2021-10-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2021,10,2021-10-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2021,10,2021-10-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Rice,2021,10,2021-10-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Rice,2021,10,2021-10-01,Mansa APMC,1960.0,mansa,Mansa
+Punjab,Rice,2021,10,2021-10-01,Mansa(Ubha Buraj Dhilwan) APMC,1962.62,mansa(ubha buraj dhilwan),Mansa
+Punjab,Rice,2021,10,2021-10-01,Maur APMC,1960.0,maur,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Mehal Kalan APMC,1960.0,mehal kalan,Barnala
+Punjab,Rice,2021,10,2021-10-01,Mehal Kallan (ChananWal) APMC,1960.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2021,10,2021-10-01,Mehatpur APMC,1960.0,mehatpur,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Mehta APMC,1960.0,mehta,Amritsar
+Punjab,Rice,2021,10,2021-10-01,Morinda APMC,1961.13,morinda,Rupnagar
+Punjab,Rice,2021,10,2021-10-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2021,10,2021-10-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Nabha APMC,,nabha,Patiala
+Punjab,Rice,2021,10,2021-10-01,Nakodar APMC,1960.0,nakodar,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Nakodar(Sarih) APMC,1960.0,nakodar(sarih),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Narot J Singh APMC,,narot j singh,Pathankot
+Punjab,Rice,2021,10,2021-10-01,Naushera Pannua (Dhotian) APMC,1960.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Naushera Pannuan APMC,1960.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Nawan Shahar(Mandi Aur) APMC,,nawan shahar(mandi aur),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,10,2021-10-01,Nawan Shahar(Mandi Jadla) APMC,1960.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,10,2021-10-01,Nawan Shahar(MandiRaho) APMC,1960.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,10,2021-10-01,Nawanshahar APMC,1960.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,10,2021-10-01,Noor Mehal APMC,1960.0,noor mehal,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Noor Mehal(Kot Badal Khan) APMC,1960.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Patiala(Anaj Mandi Sanaur Road) APMC,,patiala(anaj mandi sanaur road),Patiala
+Punjab,Rice,2021,10,2021-10-01,Patiala(New Anaj Mandi) APMC,1960.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2021,10,2021-10-01,Patran APMC,1960.0,patran,Patiala
+Punjab,Rice,2021,10,2021-10-01,Patran(Ghagga Mandi) APMC,1960.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2021,10,2021-10-01,Patti APMC,1960.0,patti,Tarn Taran
+Punjab,Rice,2021,10,2021-10-01,Phillaur APMC,1960.0,phillaur,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Phillaur(Apra Mandi) APMC,1960.0,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Rajpura APMC,1960.0,rajpura,Patiala
+Punjab,Rice,2021,10,2021-10-01,Raman APMC,1960.0,raman,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rampura Phul APMC,1960.0,rampura phul,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rampuraphul(Bhai Rupan) APMC,1960.0,rampuraphul(bhai rupan),Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rampuraphul(Chowke) APMC,1960.0,rampuraphul(chowke),Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rampuraphul(Dhapali) APMC,1960.0,rampuraphul(dhapali),Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rampuraphul(Mehraj) APMC,1960.0,rampuraphul(mehraj),Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rampuraphul(Nabha Mandi) APMC,1960.0,rampuraphul(nabha mandi),Bathinda
+Punjab,Rice,2021,10,2021-10-01,Rayya APMC,1958.75,rayya,Amritsar
+Punjab,Rice,2021,10,2021-10-01,Rayya(Sathiala) APMC,1960.0,rayya(sathiala),Amritsar
+Punjab,Rice,2021,10,2021-10-01,Ropar APMC,1960.0,ropar,Rupnagar
+Punjab,Rice,2021,10,2021-10-01,Sadiq APMC,1960.0,sadiq,Faridkot
+Punjab,Rice,2021,10,2021-10-01,Sahnewal APMC,1960.0,sahnewal,Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Samana APMC,1960.0,samana,Patiala
+Punjab,Rice,2021,10,2021-10-01,Samana(Gajewas) APMC,1960.0,samana(gajewas),Patiala
+Punjab,Rice,2021,10,2021-10-01,Samana(Kakrala) APMC,1960.0,samana(kakrala),Patiala
+Punjab,Rice,2021,10,2021-10-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Sandaur APMC,,sandaur,Malerkotla
+Punjab,Rice,2021,10,2021-10-01,Sangat APMC,1960.0,sangat,Bathinda
+Punjab,Rice,2021,10,2021-10-01,Sangrur APMC,1960.0,sangrur,Sangrur
+Punjab,Rice,2021,10,2021-10-01,Shahkot APMC,1960.0,shahkot,Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Shakot (Malsian) APMC,1960.0,shakot (malsian),Jalandhar
+Punjab,Rice,2021,10,2021-10-01,Sherpur APMC,1960.0,sherpur,Gurdaspur
+Punjab,Rice,2021,10,2021-10-01,Sidhwan Bet (Lodhiwala) APMC,1960.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Sidhwan Bet APMC,1960.0,sidhwan bet,Ludhiana
+Punjab,Rice,2021,10,2021-10-01,Sirhind APMC,1960.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2021,10,2021-10-01,Sulargharat APMC,1960.0,sulargharat,Sangrur
+Punjab,Rice,2021,10,2021-10-01,Sultanpur APMC,1960.14,sultanpur,Sangrur
+Punjab,Rice,2021,10,2021-10-01,Sultanpur Lodhi (Tibba) APMC,1960.0,sultanpur lodhi (tibba),Kapurthala
+Punjab,Rice,2021,10,2021-10-01,Talwandi Bhai APMC,1960.0,talwandi bhai,Ferozepur
+Punjab,Rice,2021,10,2021-10-01,Talwandi Bhai(Mudki) APMC,1960.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2021,10,2021-10-01,Tarantaran APMC,1955.5,tarantaran,Amritsar
+Punjab,Rice,2021,11,2021-11-01,Abohar APMC,1960.0,abohar,Fazilka
+Punjab,Rice,2021,11,2021-11-01,Amargarh APMC,1960.0,amargarh,Malerkotla
+Punjab,Rice,2021,11,2021-11-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Rice,2021,11,2021-11-01,Badhni Kalan APMC,1960.0,badhni kalan,Moga
+Punjab,Rice,2021,11,2021-11-01,Badhni Kallan (Bilaspur) APMC,1960.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2021,11,2021-11-01,Baghapurana APMC,,baghapurana,Moga
+Punjab,Rice,2021,11,2021-11-01,Banga (Kataria) APMC,,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,11,2021-11-01,Bareta APMC,1960.0,bareta,Mansa
+Punjab,Rice,2021,11,2021-11-01,Barnala APMC,1960.0,barnala,Barnala
+Punjab,Rice,2021,11,2021-11-01,Bassi Pathana APMC,1960.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2021,11,2021-11-01,Bhawanigarh APMC,1960.0,bhawanigarh,Sangrur
+Punjab,Rice,2021,11,2021-11-01,Bhikhi APMC,1960.0,bhikhi,Mansa
+Punjab,Rice,2021,11,2021-11-01,Bhikhiwind (Algo) APMC,1960.0,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Bhikhiwind (Basarke) APMC,1960.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Bhikhiwind (Marrimegha) APMC,1960.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Bhikhiwind (Sursingh) APMC,1960.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Bhikhiwind APMC,1960.0,bhikhiwind,Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Bhikhiwind(Khalra) APMC,1960.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Bhucho APMC,1960.0,bhucho,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Bhulath (Nadala) APMC,1960.0,bhulath (nadala),Kapurthala
+Punjab,Rice,2021,11,2021-11-01,Bhulath APMC,1960.0,bhulath,Kapurthala
+Punjab,Rice,2021,11,2021-11-01,Bilga (Talwan ) APMC,1960.0,bilga (talwan ),Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Bilga APMC,1960.0,bilga,Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Boha APMC,1960.0,boha,Mansa
+Punjab,Rice,2021,11,2021-11-01,Budalada APMC,1960.0,budalada,Mansa
+Punjab,Rice,2021,11,2021-11-01,Budhlada (Phaphre Bhaike) APMC,1960.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2021,11,2021-11-01,Chabhal APMC,1960.0,chabhal,Amritsar
+Punjab,Rice,2021,11,2021-11-01,Chanarthal APMC,1960.0,chanarthal,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Dakala APMC,1960.0,dakala,Patiala
+Punjab,Rice,2021,11,2021-11-01,Dasuya APMC,1960.9,dasuya,Hoshiarpur
+Punjab,Rice,2021,11,2021-11-01,Dhanaula APMC,1960.0,dhanaula,Barnala
+Punjab,Rice,2021,11,2021-11-01,Dhanula (Kaleke) APMC,1960.0,dhanula (kaleke),Barnala
+Punjab,Rice,2021,11,2021-11-01,Dhilwan APMC,1960.0,dhilwan,Kapurthala
+Punjab,Rice,2021,11,2021-11-01,Dinanagar APMC,1960.0,dinanagar,Gurdaspur
+Punjab,Rice,2021,11,2021-11-01,Dirba APMC,,dirba,Sangrur
+Punjab,Rice,2021,11,2021-11-01,Dudhansadhan APMC,,dudhansadhan,Patiala
+Punjab,Rice,2021,11,2021-11-01,Faridkot (Machakikalan) APMC,,faridkot (machakikalan),Faridkot
+Punjab,Rice,2021,11,2021-11-01,Faridkot APMC,,faridkot,Faridkot
+Punjab,Rice,2021,11,2021-11-01,Firozepur City APMC,1960.0,firozepur city,Ferozepur
+Punjab,Rice,2021,11,2021-11-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Rice,2021,11,2021-11-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2021,11,2021-11-01,Garhshankar(Saila Khurd) APMC,1960.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2021,11,2021-11-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Rice,2021,11,2021-11-01,Giddarbaha APMC,1960.0,giddarbaha,Sri Muktsar Sahib
+Punjab,Rice,2021,11,2021-11-01,Goniana APMC,1960.0,goniana,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Guru Har Sahai APMC,1960.0,guru har sahai,Ferozepur
+Punjab,Rice,2021,11,2021-11-01,Hathur APMC,1960.0,hathur,Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Jaitu APMC,1969.0,jaitu,Faridkot
+Punjab,Rice,2021,11,2021-11-01,Jaitu(Bajakhana) APMC,1960.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2021,11,2021-11-01,Jalalabad APMC,1960.0,jalalabad,Fazilka
+Punjab,Rice,2021,11,2021-11-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,1960.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Jalandhar Cantt. APMC,1960.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Jalandhar City APMC,1960.0,jalandhar city,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Jalandhar City(Faintan Ganj) APMC,1960.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1960.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Kahnuwan APMC,1960.0,kahnuwan,Gurdaspur
+Punjab,Rice,2021,11,2021-11-01,Kharar APMC,1960.0,kharar,S.A.S Nagar
+Punjab,Rice,2021,11,2021-11-01,Kot ise Khan APMC,1965.0,kot ise khan,Moga
+Punjab,Rice,2021,11,2021-11-01,Ludhiana(Mandi gill Road) APMC,,ludhiana(mandi gill road),Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Ludhiana(Salem Tabri) APMC,,ludhiana(salem tabri),Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Majitha APMC,1960.0,majitha,Amritsar
+Punjab,Rice,2021,11,2021-11-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Rice,2021,11,2021-11-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Rice,2021,11,2021-11-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2021,11,2021-11-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2021,11,2021-11-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Rice,2021,11,2021-11-01,Mansa APMC,1960.0,mansa,Mansa
+Punjab,Rice,2021,11,2021-11-01,Mansa(Ubha Buraj Dhilwan) APMC,1960.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Rice,2021,11,2021-11-01,Maur APMC,1960.0,maur,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Mehal Kalan APMC,1960.0,mehal kalan,Barnala
+Punjab,Rice,2021,11,2021-11-01,Mehal Kallan (ChananWal) APMC,1960.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2021,11,2021-11-01,Mehatpur APMC,1960.0,mehatpur,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Mehta APMC,2350.88,mehta,Amritsar
+Punjab,Rice,2021,11,2021-11-01,Morinda APMC,1960.0,morinda,Rupnagar
+Punjab,Rice,2021,11,2021-11-01,Muktsar APMC,,muktsar,Sri Muktsar Sahib
+Punjab,Rice,2021,11,2021-11-01,Mullanpur APMC,1960.0,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2021,11,2021-11-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Nakodar(Sarih) APMC,1960.0,nakodar(sarih),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Narot J Singh APMC,,narot j singh,Pathankot
+Punjab,Rice,2021,11,2021-11-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Naushera Pannuan APMC,1960.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Nawan Shahar(Mandi Aur) APMC,,nawan shahar(mandi aur),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,11,2021-11-01,Nawan Shahar(Mandi Jadla) APMC,1960.49,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,11,2021-11-01,Nawan Shahar(MandiRaho) APMC,1960.06,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,11,2021-11-01,Nawanshahar APMC,1960.06,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2021,11,2021-11-01,Noor Mehal APMC,1960.03,noor mehal,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Noor Mehal(Kot Badal Khan) APMC,1960.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Patiala(Anaj Mandi Sanaur Road) APMC,,patiala(anaj mandi sanaur road),Patiala
+Punjab,Rice,2021,11,2021-11-01,Patiala(New Anaj Mandi) APMC,1960.56,patiala(new anaj mandi),Patiala
+Punjab,Rice,2021,11,2021-11-01,Patran APMC,1960.0,patran,Patiala
+Punjab,Rice,2021,11,2021-11-01,Patran(Ghagga Mandi) APMC,1960.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2021,11,2021-11-01,Patti APMC,1960.0,patti,Tarn Taran
+Punjab,Rice,2021,11,2021-11-01,Phillaur APMC,1960.0,phillaur,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Phillaur(Apra Mandi) APMC,1960.0,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Rajpura APMC,1960.0,rajpura,Patiala
+Punjab,Rice,2021,11,2021-11-01,Raman APMC,1960.0,raman,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rampura Phul APMC,1960.0,rampura phul,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rampuraphul(Bhai Rupan) APMC,1960.0,rampuraphul(bhai rupan),Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rampuraphul(Chowke) APMC,1960.0,rampuraphul(chowke),Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rampuraphul(Dhapali) APMC,1960.0,rampuraphul(dhapali),Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rampuraphul(Mehraj) APMC,1960.0,rampuraphul(mehraj),Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rampuraphul(Nabha Mandi) APMC,1960.0,rampuraphul(nabha mandi),Bathinda
+Punjab,Rice,2021,11,2021-11-01,Rayya APMC,1960.0,rayya,Amritsar
+Punjab,Rice,2021,11,2021-11-01,Rayya(Sathiala) APMC,1960.0,rayya(sathiala),Amritsar
+Punjab,Rice,2021,11,2021-11-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Rice,2021,11,2021-11-01,Sadiq APMC,1960.03,sadiq,Faridkot
+Punjab,Rice,2021,11,2021-11-01,Sahnewal APMC,1960.0,sahnewal,Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Samana APMC,1960.0,samana,Patiala
+Punjab,Rice,2021,11,2021-11-01,Samana(Gajewas) APMC,1960.0,samana(gajewas),Patiala
+Punjab,Rice,2021,11,2021-11-01,Samana(Kakrala) APMC,1960.0,samana(kakrala),Patiala
+Punjab,Rice,2021,11,2021-11-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Sangat APMC,1960.0,sangat,Bathinda
+Punjab,Rice,2021,11,2021-11-01,Sangrur APMC,,sangrur,Sangrur
+Punjab,Rice,2021,11,2021-11-01,Shahkot APMC,1960.0,shahkot,Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Shakot (Malsian) APMC,1960.0,shakot (malsian),Jalandhar
+Punjab,Rice,2021,11,2021-11-01,Sherpur APMC,1960.0,sherpur,Gurdaspur
+Punjab,Rice,2021,11,2021-11-01,Sidhwan Bet (Lodhiwala) APMC,1960.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Sidhwan Bet APMC,1960.0,sidhwan bet,Ludhiana
+Punjab,Rice,2021,11,2021-11-01,Sirhind APMC,1960.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2021,11,2021-11-01,Sulargharat APMC,1960.0,sulargharat,Sangrur
+Punjab,Rice,2021,11,2021-11-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Rice,2021,11,2021-11-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Rice,2021,11,2021-11-01,Talwandi Bhai APMC,1960.03,talwandi bhai,Ferozepur
+Punjab,Rice,2021,11,2021-11-01,Talwandi Bhai(Mudki) APMC,1960.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2021,11,2021-11-01,Tarantaran APMC,1960.0,tarantaran,Amritsar
+Punjab,Rice,2022,4,2022-04-01,Budhlada (Phaphre Bhaike) APMC,2015.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2022,4,2022-04-01,Chabhal APMC,2015.0,chabhal,Amritsar
+Punjab,Rice,2022,4,2022-04-01,Chanarthal APMC,2015.0,chanarthal,Bathinda
+Punjab,Rice,2022,4,2022-04-01,Dharamkot APMC,2500.0,dharamkot,Moga
+Punjab,Rice,2022,4,2022-04-01,Jaitu(Bajakhana) APMC,2015.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2022,4,2022-04-01,Naushera Pannua (Dhotian) APMC,2015.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2022,4,2022-04-01,Samrala APMC,2000.0,samrala,Ludhiana
+Punjab,Rice,2022,4,2022-04-01,Sherpur APMC,2015.0,sherpur,Gurdaspur
+Punjab,Rice,2022,9,2022-09-01,Mehta APMC,2257.74,mehta,Amritsar
+Punjab,Rice,2022,9,2022-09-01,Patti APMC,1728.59,patti,Tarn Taran
+Punjab,Rice,2022,9,2022-09-01,Rayya APMC,1650.0,rayya,Amritsar
+Punjab,Rice,2022,9,2022-09-01,Sadiq APMC,2065.0,sadiq,Faridkot
+Punjab,Rice,2022,9,2022-09-01,Tarantaran APMC,1650.0,tarantaran,Amritsar
+Punjab,Rice,2022,10,2022-10-01,Abohar APMC,2060.01,abohar,Fazilka
+Punjab,Rice,2022,10,2022-10-01,Amargarh APMC,2060.0,amargarh,Malerkotla
+Punjab,Rice,2022,10,2022-10-01,Amloh APMC,2060.0,amloh,Fatehgarh Sahib
+Punjab,Rice,2022,10,2022-10-01,Badhni Kalan APMC,2060.0,badhni kalan,Moga
+Punjab,Rice,2022,10,2022-10-01,Badhni Kallan (Bilaspur) APMC,2060.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2022,10,2022-10-01,Banga (Kataria) APMC,,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,10,2022-10-01,Bareta APMC,,bareta,Mansa
+Punjab,Rice,2022,10,2022-10-01,Bassi Pathana APMC,2060.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2022,10,2022-10-01,Bhadson APMC,2060.0,bhadson,Patiala
+Punjab,Rice,2022,10,2022-10-01,Bhawanigarh APMC,2060.0,bhawanigarh,Sangrur
+Punjab,Rice,2022,10,2022-10-01,Bhikhi APMC,2060.0,bhikhi,Mansa
+Punjab,Rice,2022,10,2022-10-01,Bhikhiwind (Algo) APMC,,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Bhikhiwind (Basarke) APMC,,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Bhikhiwind (Marrimegha) APMC,,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Bhikhiwind (Sursingh) APMC,,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Bhikhiwind APMC,,bhikhiwind,Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Bhikhiwind(Khalra) APMC,,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Bhucho APMC,2060.0,bhucho,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Bhulath (Nadala) APMC,,bhulath (nadala),Kapurthala
+Punjab,Rice,2022,10,2022-10-01,Bhulath APMC,,bhulath,Kapurthala
+Punjab,Rice,2022,10,2022-10-01,Bilga (Talwan ) APMC,2060.0,bilga (talwan ),Ludhiana
+Punjab,Rice,2022,10,2022-10-01,Bilga APMC,2060.0,bilga,Ludhiana
+Punjab,Rice,2022,10,2022-10-01,Boha APMC,2060.0,boha,Mansa
+Punjab,Rice,2022,10,2022-10-01,Budalada APMC,2060.0,budalada,Mansa
+Punjab,Rice,2022,10,2022-10-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2022,10,2022-10-01,Chabhal APMC,2060.0,chabhal,Amritsar
+Punjab,Rice,2022,10,2022-10-01,Chanarthal APMC,2060.0,chanarthal,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Dakala APMC,2041.23,dakala,Patiala
+Punjab,Rice,2022,10,2022-10-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Rice,2022,10,2022-10-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Rice,2022,10,2022-10-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Rice,2022,10,2022-10-01,Dirba APMC,,dirba,Sangrur
+Punjab,Rice,2022,10,2022-10-01,Dudhansadhan APMC,,dudhansadhan,Patiala
+Punjab,Rice,2022,10,2022-10-01,Firozepur City APMC,2060.0,firozepur city,Ferozepur
+Punjab,Rice,2022,10,2022-10-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2022,10,2022-10-01,Giddarbaha APMC,2060.0,giddarbaha,Sri Muktsar Sahib
+Punjab,Rice,2022,10,2022-10-01,Goniana APMC,,goniana,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Guru Har Sahai APMC,2060.0,guru har sahai,Ferozepur
+Punjab,Rice,2022,10,2022-10-01,Hathur APMC,2060.0,hathur,Ludhiana
+Punjab,Rice,2022,10,2022-10-01,Jaitu APMC,2060.0,jaitu,Faridkot
+Punjab,Rice,2022,10,2022-10-01,Jaitu(Bajakhana) APMC,2060.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2022,10,2022-10-01,Jalalabad APMC,2060.06,jalalabad,Fazilka
+Punjab,Rice,2022,10,2022-10-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2060.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Jalandhar Cantt. APMC,2060.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Jalandhar City APMC,2060.0,jalandhar city,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Jalandhar City(Faintan Ganj) APMC,2060.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2060.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Kahnuwan APMC,2060.62,kahnuwan,Gurdaspur
+Punjab,Rice,2022,10,2022-10-01,Kharar APMC,2060.0,kharar,S.A.S Nagar
+Punjab,Rice,2022,10,2022-10-01,Kot ise Khan APMC,2065.0,kot ise khan,Moga
+Punjab,Rice,2022,10,2022-10-01,Majitha APMC,2060.0,majitha,Amritsar
+Punjab,Rice,2022,10,2022-10-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Rice,2022,10,2022-10-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Rice,2022,10,2022-10-01,Malout (Kilianwali) APMC,2060.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2022,10,2022-10-01,Malout (Panniwala) APMC,2060.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2022,10,2022-10-01,Malout APMC,2060.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2022,10,2022-10-01,Mansa (Khiala kalan) APMC,2060.0,mansa (khiala kalan),Mansa
+Punjab,Rice,2022,10,2022-10-01,Mansa APMC,2060.0,mansa,Mansa
+Punjab,Rice,2022,10,2022-10-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Rice,2022,10,2022-10-01,Maur APMC,2060.0,maur,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Mehal Kalan APMC,2060.0,mehal kalan,Barnala
+Punjab,Rice,2022,10,2022-10-01,Mehal Kallan (ChananWal) APMC,2060.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2022,10,2022-10-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Mehta APMC,2056.71,mehta,Amritsar
+Punjab,Rice,2022,10,2022-10-01,Morinda APMC,,morinda,Rupnagar
+Punjab,Rice,2022,10,2022-10-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Naushera Pannua (Dhotian) APMC,2060.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Naushera Pannuan APMC,2060.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Nawan Shahar(Mandi Jadla) APMC,2060.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,10,2022-10-01,Nawan Shahar(MandiRaho) APMC,2060.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,10,2022-10-01,Nawanshahar APMC,2060.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,10,2022-10-01,Noor Mehal APMC,2060.0,noor mehal,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Noor Mehal(Kot Badal Khan) APMC,2060.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Patiala(New Anaj Mandi) APMC,2060.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2022,10,2022-10-01,Patran APMC,2060.0,patran,Patiala
+Punjab,Rice,2022,10,2022-10-01,Patran(Ghagga Mandi) APMC,2060.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2022,10,2022-10-01,Patti APMC,2060.0,patti,Tarn Taran
+Punjab,Rice,2022,10,2022-10-01,Phillaur APMC,,phillaur,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Phillaur(Apra Mandi) APMC,,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Rajpura APMC,2060.0,rajpura,Patiala
+Punjab,Rice,2022,10,2022-10-01,Raman APMC,,raman,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rampura Phul APMC,,rampura phul,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rampuraphul(Bhai Rupan) APMC,,rampuraphul(bhai rupan),Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rampuraphul(Chowke) APMC,,rampuraphul(chowke),Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rampuraphul(Dhapali) APMC,,rampuraphul(dhapali),Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rampuraphul(Mehraj) APMC,,rampuraphul(mehraj),Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rampuraphul(Nabha Mandi) APMC,,rampuraphul(nabha mandi),Bathinda
+Punjab,Rice,2022,10,2022-10-01,Rayya APMC,2060.0,rayya,Amritsar
+Punjab,Rice,2022,10,2022-10-01,Rayya(Sathiala) APMC,2059.98,rayya(sathiala),Amritsar
+Punjab,Rice,2022,10,2022-10-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Rice,2022,10,2022-10-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Rice,2022,10,2022-10-01,Sahnewal APMC,2060.0,sahnewal,Ludhiana
+Punjab,Rice,2022,10,2022-10-01,Samana APMC,2060.0,samana,Patiala
+Punjab,Rice,2022,10,2022-10-01,Samana(Gajewas) APMC,2060.0,samana(gajewas),Patiala
+Punjab,Rice,2022,10,2022-10-01,Samana(Kakrala) APMC,2060.0,samana(kakrala),Patiala
+Punjab,Rice,2022,10,2022-10-01,Sangat APMC,2060.0,sangat,Bathinda
+Punjab,Rice,2022,10,2022-10-01,Sangrur APMC,,sangrur,Sangrur
+Punjab,Rice,2022,10,2022-10-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Rice,2022,10,2022-10-01,Sherpur APMC,2060.0,sherpur,Gurdaspur
+Punjab,Rice,2022,10,2022-10-01,Sidhwan Bet (Lodhiwala) APMC,2060.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2022,10,2022-10-01,Sidhwan Bet APMC,2060.0,sidhwan bet,Ludhiana
+Punjab,Rice,2022,10,2022-10-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Rice,2022,10,2022-10-01,Sulargharat APMC,2060.0,sulargharat,Sangrur
+Punjab,Rice,2022,10,2022-10-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Rice,2022,10,2022-10-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Rice,2022,10,2022-10-01,Talwandi Bhai APMC,2060.0,talwandi bhai,Ferozepur
+Punjab,Rice,2022,10,2022-10-01,Talwandi Bhai(Mudki) APMC,2060.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2022,10,2022-10-01,Tarantaran APMC,2060.71,tarantaran,Amritsar
+Punjab,Rice,2022,10,2022-10-01,Zira APMC,2060.0,zira,Ferozepur
+Punjab,Rice,2022,11,2022-11-01,Abohar APMC,2060.0,abohar,Fazilka
+Punjab,Rice,2022,11,2022-11-01,Amargarh APMC,2060.0,amargarh,Malerkotla
+Punjab,Rice,2022,11,2022-11-01,Amloh APMC,2060.0,amloh,Fatehgarh Sahib
+Punjab,Rice,2022,11,2022-11-01,Badhni Kalan APMC,2060.0,badhni kalan,Moga
+Punjab,Rice,2022,11,2022-11-01,Badhni Kallan (Bilaspur) APMC,2060.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2022,11,2022-11-01,Bareta APMC,,bareta,Mansa
+Punjab,Rice,2022,11,2022-11-01,Barnala APMC,,barnala,Barnala
+Punjab,Rice,2022,11,2022-11-01,Bassi Pathana APMC,2060.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2022,11,2022-11-01,Bhadaur APMC,2060.0,bhadaur,Barnala
+Punjab,Rice,2022,11,2022-11-01,Bhadson APMC,2060.0,bhadson,Patiala
+Punjab,Rice,2022,11,2022-11-01,Bhawanigarh APMC,2060.0,bhawanigarh,Sangrur
+Punjab,Rice,2022,11,2022-11-01,Bhikhi APMC,2060.0,bhikhi,Mansa
+Punjab,Rice,2022,11,2022-11-01,Bhikhiwind (Algo) APMC,,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Bhikhiwind (Basarke) APMC,,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Bhikhiwind (Marrimegha) APMC,,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Bhikhiwind (Sursingh) APMC,,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Bhikhiwind APMC,,bhikhiwind,Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Bhikhiwind(Khalra) APMC,,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Bhucho APMC,2060.0,bhucho,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Bhulath (Nadala) APMC,,bhulath (nadala),Kapurthala
+Punjab,Rice,2022,11,2022-11-01,Bhulath APMC,,bhulath,Kapurthala
+Punjab,Rice,2022,11,2022-11-01,Bilga (Talwan ) APMC,2060.0,bilga (talwan ),Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Bilga APMC,2060.0,bilga,Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Boha APMC,2060.0,boha,Mansa
+Punjab,Rice,2022,11,2022-11-01,Budalada APMC,2060.0,budalada,Mansa
+Punjab,Rice,2022,11,2022-11-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2022,11,2022-11-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Rice,2022,11,2022-11-01,Chanarthal APMC,2060.0,chanarthal,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Dakala APMC,2040.0,dakala,Patiala
+Punjab,Rice,2022,11,2022-11-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Rice,2022,11,2022-11-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Rice,2022,11,2022-11-01,Dhanula (Kaleke) APMC,,dhanula (kaleke),Barnala
+Punjab,Rice,2022,11,2022-11-01,Dhilwan APMC,2060.0,dhilwan,Kapurthala
+Punjab,Rice,2022,11,2022-11-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Rice,2022,11,2022-11-01,Firozepur City APMC,2060.0,firozepur city,Ferozepur
+Punjab,Rice,2022,11,2022-11-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2022,11,2022-11-01,Giddarbaha APMC,,giddarbaha,Sri Muktsar Sahib
+Punjab,Rice,2022,11,2022-11-01,Goniana APMC,,goniana,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Guru Har Sahai APMC,2060.0,guru har sahai,Ferozepur
+Punjab,Rice,2022,11,2022-11-01,Hathur APMC,2060.0,hathur,Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Jaitu APMC,2060.0,jaitu,Faridkot
+Punjab,Rice,2022,11,2022-11-01,Jaitu(Bajakhana) APMC,2060.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2022,11,2022-11-01,Jalalabad APMC,2060.0,jalalabad,Fazilka
+Punjab,Rice,2022,11,2022-11-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2060.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Jalandhar Cantt. APMC,2060.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Jalandhar City APMC,2060.0,jalandhar city,Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Jalandhar City(Faintan Ganj) APMC,2060.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2060.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Kahnuwan APMC,2060.0,kahnuwan,Gurdaspur
+Punjab,Rice,2022,11,2022-11-01,Kharar APMC,2060.0,kharar,S.A.S Nagar
+Punjab,Rice,2022,11,2022-11-01,Kot ise Khan APMC,2065.0,kot ise khan,Moga
+Punjab,Rice,2022,11,2022-11-01,Majitha APMC,2060.0,majitha,Amritsar
+Punjab,Rice,2022,11,2022-11-01,Malout (Kilianwali) APMC,2060.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2022,11,2022-11-01,Malout (Panniwala) APMC,2060.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2022,11,2022-11-01,Malout APMC,2060.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2022,11,2022-11-01,Mamdot APMC,2060.0,mamdot,Ferozepur
+Punjab,Rice,2022,11,2022-11-01,Mansa (Khiala kalan) APMC,2060.0,mansa (khiala kalan),Mansa
+Punjab,Rice,2022,11,2022-11-01,Mansa APMC,2060.0,mansa,Mansa
+Punjab,Rice,2022,11,2022-11-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Rice,2022,11,2022-11-01,Maur APMC,2060.0,maur,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Mehal Kalan APMC,2060.0,mehal kalan,Barnala
+Punjab,Rice,2022,11,2022-11-01,Mehal Kallan (ChananWal) APMC,2060.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2022,11,2022-11-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Mehta APMC,2782.79,mehta,Amritsar
+Punjab,Rice,2022,11,2022-11-01,Morinda APMC,,morinda,Rupnagar
+Punjab,Rice,2022,11,2022-11-01,Mullanpur APMC,2060.0,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2022,11,2022-11-01,Mullanpur Dakha (Sawadi) APMC,2060.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,11,2022-11-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,11,2022-11-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2022,11,2022-11-01,Noor Mehal APMC,2060.0,noor mehal,Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Noor Mehal(Kot Badal Khan) APMC,2060.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Patiala(New Anaj Mandi) APMC,2060.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2022,11,2022-11-01,Patran APMC,2060.0,patran,Patiala
+Punjab,Rice,2022,11,2022-11-01,Patran(Ghagga Mandi) APMC,2060.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2022,11,2022-11-01,Patti APMC,2060.0,patti,Tarn Taran
+Punjab,Rice,2022,11,2022-11-01,Phillaur APMC,,phillaur,Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Phillaur(Apra Mandi) APMC,,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Rajpura APMC,2060.0,rajpura,Patiala
+Punjab,Rice,2022,11,2022-11-01,Raman APMC,,raman,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rampura Phul APMC,,rampura phul,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rampuraphul(Bhai Rupan) APMC,,rampuraphul(bhai rupan),Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rampuraphul(Chowke) APMC,,rampuraphul(chowke),Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rampuraphul(Dhapali) APMC,,rampuraphul(dhapali),Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rampuraphul(Mehraj) APMC,,rampuraphul(mehraj),Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rampuraphul(Nabha Mandi) APMC,,rampuraphul(nabha mandi),Bathinda
+Punjab,Rice,2022,11,2022-11-01,Rayya APMC,2060.0,rayya,Amritsar
+Punjab,Rice,2022,11,2022-11-01,Rayya(Sathiala) APMC,2060.0,rayya(sathiala),Amritsar
+Punjab,Rice,2022,11,2022-11-01,Sadiq APMC,2060.0,sadiq,Faridkot
+Punjab,Rice,2022,11,2022-11-01,Sahnewal APMC,2060.0,sahnewal,Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Samana APMC,2060.0,samana,Patiala
+Punjab,Rice,2022,11,2022-11-01,Samana(Gajewas) APMC,2060.0,samana(gajewas),Patiala
+Punjab,Rice,2022,11,2022-11-01,Samana(Kakrala) APMC,2060.0,samana(kakrala),Patiala
+Punjab,Rice,2022,11,2022-11-01,Sangat APMC,2060.0,sangat,Bathinda
+Punjab,Rice,2022,11,2022-11-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Rice,2022,11,2022-11-01,Sherpur APMC,2207.13,sherpur,Gurdaspur
+Punjab,Rice,2022,11,2022-11-01,Sidhwan Bet (Lodhiwala) APMC,2060.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Sidhwan Bet APMC,2060.0,sidhwan bet,Ludhiana
+Punjab,Rice,2022,11,2022-11-01,Sirhind APMC,2060.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2022,11,2022-11-01,Sulargharat APMC,2060.0,sulargharat,Sangrur
+Punjab,Rice,2022,11,2022-11-01,Talwandi Bhai APMC,2060.0,talwandi bhai,Ferozepur
+Punjab,Rice,2022,11,2022-11-01,Talwandi Bhai(Mudki) APMC,2060.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2022,11,2022-11-01,Tarantaran APMC,2060.0,tarantaran,Amritsar
+Punjab,Rice,2022,11,2022-11-01,Zira APMC,2060.0,zira,Ferozepur
+Punjab,Rice,2022,12,2022-12-01,Abohar APMC,,abohar,Fazilka
+Punjab,Rice,2022,12,2022-12-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Rice,2022,12,2022-12-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Rice,2022,12,2022-12-01,Badhni Kalan APMC,,badhni kalan,Moga
+Punjab,Rice,2022,12,2022-12-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Rice,2022,12,2022-12-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2022,12,2022-12-01,Bhadaur APMC,,bhadaur,Barnala
+Punjab,Rice,2022,12,2022-12-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Rice,2022,12,2022-12-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Rice,2022,12,2022-12-01,Bhikhi APMC,,bhikhi,Mansa
+Punjab,Rice,2022,12,2022-12-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Rice,2022,12,2022-12-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Boha APMC,,boha,Mansa
+Punjab,Rice,2022,12,2022-12-01,Budalada APMC,,budalada,Mansa
+Punjab,Rice,2022,12,2022-12-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Rice,2022,12,2022-12-01,Dakala APMC,,dakala,Patiala
+Punjab,Rice,2022,12,2022-12-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Rice,2022,12,2022-12-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Rice,2022,12,2022-12-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Rice,2022,12,2022-12-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Rice,2022,12,2022-12-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Rice,2022,12,2022-12-01,Jalalabad APMC,,jalalabad,Fazilka
+Punjab,Rice,2022,12,2022-12-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Rice,2022,12,2022-12-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Rice,2022,12,2022-12-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Rice,2022,12,2022-12-01,Majitha APMC,,majitha,Amritsar
+Punjab,Rice,2022,12,2022-12-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2022,12,2022-12-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2022,12,2022-12-01,Malout APMC,3945.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2022,12,2022-12-01,Mamdot APMC,,mamdot,Ferozepur
+Punjab,Rice,2022,12,2022-12-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Rice,2022,12,2022-12-01,Mansa APMC,,mansa,Mansa
+Punjab,Rice,2022,12,2022-12-01,Maur APMC,,maur,Bathinda
+Punjab,Rice,2022,12,2022-12-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Rice,2022,12,2022-12-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Rice,2022,12,2022-12-01,Mehta APMC,,mehta,Amritsar
+Punjab,Rice,2022,12,2022-12-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2022,12,2022-12-01,Mullanpur Dakha (Sawadi) APMC,3596.55,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2022,12,2022-12-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Rice,2022,12,2022-12-01,Patran APMC,,patran,Patiala
+Punjab,Rice,2022,12,2022-12-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Rice,2022,12,2022-12-01,Patti APMC,,patti,Tarn Taran
+Punjab,Rice,2022,12,2022-12-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Rice,2022,12,2022-12-01,Rayya APMC,,rayya,Amritsar
+Punjab,Rice,2022,12,2022-12-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Rice,2022,12,2022-12-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Rice,2022,12,2022-12-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Samana APMC,,samana,Patiala
+Punjab,Rice,2022,12,2022-12-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Rice,2022,12,2022-12-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Rice,2022,12,2022-12-01,Sangat APMC,,sangat,Bathinda
+Punjab,Rice,2022,12,2022-12-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Rice,2022,12,2022-12-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Rice,2022,12,2022-12-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Rice,2022,12,2022-12-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Rice,2022,12,2022-12-01,Talwandi Bhai APMC,,talwandi bhai,Ferozepur
+Punjab,Rice,2022,12,2022-12-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2022,12,2022-12-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Rice,2022,12,2022-12-01,Zira APMC,,zira,Ferozepur
+Punjab,Rice,2023,4,2023-04-01,Amargarh APMC,2125.0,amargarh,Malerkotla
+Punjab,Rice,2023,4,2023-04-01,Budhlada (Phaphre Bhaike) APMC,2125.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2023,4,2023-04-01,Chabhal APMC,2125.0,chabhal,Amritsar
+Punjab,Rice,2023,4,2023-04-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Rice,2023,4,2023-04-01,Dharamkot APMC,,dharamkot,Moga
+Punjab,Rice,2023,4,2023-04-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Rice,2023,4,2023-04-01,Naushera Pannua (Dhotian) APMC,2125.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2023,4,2023-04-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Rice,2023,4,2023-04-01,Sherpur APMC,2125.0,sherpur,Gurdaspur
+Punjab,Rice,2023,4,2023-04-01,Sulargharat APMC,2125.0,sulargharat,Sangrur
+Punjab,Rice,2023,9,2023-09-01,Mehta APMC,3580.0,mehta,Amritsar
+Punjab,Rice,2023,9,2023-09-01,Patti APMC,,patti,Tarn Taran
+Punjab,Rice,2023,9,2023-09-01,Rayya APMC,,rayya,Amritsar
+Punjab,Rice,2023,9,2023-09-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Rice,2023,9,2023-09-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Rice,2023,9,2023-09-01,Zira APMC,2208.0,zira,Ferozepur
+Punjab,Rice,2023,10,2023-10-01,Abohar APMC,2203.83,abohar,Fazilka
+Punjab,Rice,2023,10,2023-10-01,Ahmedgarh APMC,2203.0,ahmedgarh,Sangrur
+Punjab,Rice,2023,10,2023-10-01,Amargarh APMC,2203.0,amargarh,Malerkotla
+Punjab,Rice,2023,10,2023-10-01,Amloh APMC,2203.0,amloh,Fatehgarh Sahib
+Punjab,Rice,2023,10,2023-10-01,Amritsar APMC,2158.86,amritsar,Amritsar
+Punjab,Rice,2023,10,2023-10-01,Badhni Kalan APMC,2203.0,badhni kalan,Moga
+Punjab,Rice,2023,10,2023-10-01,Badhni Kallan (Bilaspur) APMC,2203.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2023,10,2023-10-01,Bareta APMC,2203.0,bareta,Mansa
+Punjab,Rice,2023,10,2023-10-01,Bassi Pathana APMC,2203.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2023,10,2023-10-01,Bhadson APMC,2203.0,bhadson,Patiala
+Punjab,Rice,2023,10,2023-10-01,Bhawanigarh APMC,2203.05,bhawanigarh,Sangrur
+Punjab,Rice,2023,10,2023-10-01,Bhikhi APMC,2203.0,bhikhi,Mansa
+Punjab,Rice,2023,10,2023-10-01,Bhucho APMC,2203.0,bhucho,Bathinda
+Punjab,Rice,2023,10,2023-10-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Boha APMC,2203.0,boha,Mansa
+Punjab,Rice,2023,10,2023-10-01,Budalada APMC,2203.0,budalada,Mansa
+Punjab,Rice,2023,10,2023-10-01,Budhlada (Phaphre Bhaike) APMC,2203.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2023,10,2023-10-01,Chabhal APMC,2203.0,chabhal,Amritsar
+Punjab,Rice,2023,10,2023-10-01,Chanarthal APMC,2203.0,chanarthal,Bathinda
+Punjab,Rice,2023,10,2023-10-01,Dakala APMC,,dakala,Patiala
+Punjab,Rice,2023,10,2023-10-01,Dhilwan APMC,2203.0,dhilwan,Kapurthala
+Punjab,Rice,2023,10,2023-10-01,Dhuri APMC,2203.0,dhuri,Sangrur
+Punjab,Rice,2023,10,2023-10-01,Dinanagar APMC,2203.0,dinanagar,Gurdaspur
+Punjab,Rice,2023,10,2023-10-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Rice,2023,10,2023-10-01,Garh Shankar APMC,2203.0,garh shankar,Hoshiarpur
+Punjab,Rice,2023,10,2023-10-01,Garh Shankar(Mahalpur) APMC,2203.0,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2023,10,2023-10-01,GarhShankar (Kotfatuhi) APMC,2203.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Rice,2023,10,2023-10-01,Garhshankar(Saila Khurd) APMC,2203.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2023,10,2023-10-01,Gehri(Jandiala mandi) APMC,2203.0,gehri(jandiala mandi),Amritsar
+Punjab,Rice,2023,10,2023-10-01,Giddarbaha APMC,,giddarbaha,Sri Muktsar Sahib
+Punjab,Rice,2023,10,2023-10-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Rice,2023,10,2023-10-01,Hathur APMC,2203.0,hathur,Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Jaitu APMC,2203.01,jaitu,Faridkot
+Punjab,Rice,2023,10,2023-10-01,Jaitu(Bajakhana) APMC,2203.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2023,10,2023-10-01,Jalalabad APMC,2252.0,jalalabad,Fazilka
+Punjab,Rice,2023,10,2023-10-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2203.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Jalandhar Cantt. APMC,2203.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Jalandhar City APMC,2203.0,jalandhar city,Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2203.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Kahnuwan APMC,2203.0,kahnuwan,Gurdaspur
+Punjab,Rice,2023,10,2023-10-01,Kharar APMC,2203.0,kharar,S.A.S Nagar
+Punjab,Rice,2023,10,2023-10-01,Khem karan APMC,2203.0,khem karan,Tarn Taran
+Punjab,Rice,2023,10,2023-10-01,Khemkaran (Amarkot) APMC,2203.0,khemkaran (amarkot),Tarn Taran
+Punjab,Rice,2023,10,2023-10-01,Kot ise Khan APMC,2204.0,kot ise khan,Moga
+Punjab,Rice,2023,10,2023-10-01,Majitha APMC,2203.0,majitha,Amritsar
+Punjab,Rice,2023,10,2023-10-01,Malout (Kilianwali) APMC,2203.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2023,10,2023-10-01,Malout (Panniwala) APMC,2203.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2023,10,2023-10-01,Malout APMC,2203.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2023,10,2023-10-01,Mansa (Khiala kalan) APMC,2203.0,mansa (khiala kalan),Mansa
+Punjab,Rice,2023,10,2023-10-01,Mansa APMC,2203.0,mansa,Mansa
+Punjab,Rice,2023,10,2023-10-01,Maur APMC,2203.0,maur,Bathinda
+Punjab,Rice,2023,10,2023-10-01,Mehal Kalan APMC,2203.0,mehal kalan,Barnala
+Punjab,Rice,2023,10,2023-10-01,Mehal Kallan (ChananWal) APMC,2203.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2023,10,2023-10-01,Mehatpur APMC,2203.0,mehatpur,Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Mehta APMC,2223.89,mehta,Amritsar
+Punjab,Rice,2023,10,2023-10-01,Naushera Pannua (Dhotian) APMC,2203.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2023,10,2023-10-01,Naushera Pannuan APMC,2203.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2023,10,2023-10-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2023,10,2023-10-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2023,10,2023-10-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2023,10,2023-10-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Patiala(New Anaj Mandi) APMC,2203.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2023,10,2023-10-01,Patran APMC,2202.86,patran,Patiala
+Punjab,Rice,2023,10,2023-10-01,Patran(Ghagga Mandi) APMC,2203.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2023,10,2023-10-01,Patti APMC,2203.0,patti,Tarn Taran
+Punjab,Rice,2023,10,2023-10-01,Rajpura APMC,2203.0,rajpura,Patiala
+Punjab,Rice,2023,10,2023-10-01,Rayya APMC,2203.01,rayya,Amritsar
+Punjab,Rice,2023,10,2023-10-01,Rayya(Sathiala) APMC,2203.0,rayya(sathiala),Amritsar
+Punjab,Rice,2023,10,2023-10-01,Ropar APMC,2203.0,ropar,Rupnagar
+Punjab,Rice,2023,10,2023-10-01,Sadiq APMC,2203.0,sadiq,Faridkot
+Punjab,Rice,2023,10,2023-10-01,Sahnewal APMC,2203.0,sahnewal,Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Samana APMC,2203.0,samana,Patiala
+Punjab,Rice,2023,10,2023-10-01,Samana(Gajewas) APMC,2206.31,samana(gajewas),Patiala
+Punjab,Rice,2023,10,2023-10-01,Samana(Kakrala) APMC,2203.0,samana(kakrala),Patiala
+Punjab,Rice,2023,10,2023-10-01,Samrala APMC,2203.0,samrala,Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Sangat APMC,2203.0,sangat,Bathinda
+Punjab,Rice,2023,10,2023-10-01,Shahkot APMC,2203.0,shahkot,Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Shakot (Malsian) APMC,2203.0,shakot (malsian),Jalandhar
+Punjab,Rice,2023,10,2023-10-01,Sherpur APMC,2203.0,sherpur,Gurdaspur
+Punjab,Rice,2023,10,2023-10-01,Sidhwan Bet (Lodhiwala) APMC,2203.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Sidhwan Bet APMC,2203.0,sidhwan bet,Ludhiana
+Punjab,Rice,2023,10,2023-10-01,Sirhind APMC,2203.08,sirhind,Fatehgarh Sahib
+Punjab,Rice,2023,10,2023-10-01,Sulargharat APMC,2203.0,sulargharat,Sangrur
+Punjab,Rice,2023,10,2023-10-01,Talwandi Bhai APMC,2203.0,talwandi bhai,Ferozepur
+Punjab,Rice,2023,10,2023-10-01,Talwandi Bhai(Mudki) APMC,2203.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2023,10,2023-10-01,Tarantaran APMC,2203.0,tarantaran,Amritsar
+Punjab,Rice,2023,10,2023-10-01,Zira APMC,2208.0,zira,Ferozepur
+Punjab,Rice,2023,11,2023-11-01,Abohar APMC,2203.0,abohar,Fazilka
+Punjab,Rice,2023,11,2023-11-01,Ahmedgarh APMC,2203.0,ahmedgarh,Sangrur
+Punjab,Rice,2023,11,2023-11-01,Amargarh APMC,2203.0,amargarh,Malerkotla
+Punjab,Rice,2023,11,2023-11-01,Amloh APMC,2203.0,amloh,Fatehgarh Sahib
+Punjab,Rice,2023,11,2023-11-01,Amritsar APMC,,amritsar,Amritsar
+Punjab,Rice,2023,11,2023-11-01,Badhni Kalan APMC,2203.0,badhni kalan,Moga
+Punjab,Rice,2023,11,2023-11-01,Badhni Kallan (Bilaspur) APMC,2203.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2023,11,2023-11-01,Bareta APMC,2203.0,bareta,Mansa
+Punjab,Rice,2023,11,2023-11-01,Bassi Pathana APMC,2203.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2023,11,2023-11-01,Bhadaur APMC,,bhadaur,Barnala
+Punjab,Rice,2023,11,2023-11-01,Bhadson APMC,2203.0,bhadson,Patiala
+Punjab,Rice,2023,11,2023-11-01,Bhawanigarh APMC,2203.0,bhawanigarh,Sangrur
+Punjab,Rice,2023,11,2023-11-01,Bhikhi APMC,2203.0,bhikhi,Mansa
+Punjab,Rice,2023,11,2023-11-01,Bhucho APMC,2203.0,bhucho,Bathinda
+Punjab,Rice,2023,11,2023-11-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Boha APMC,2203.0,boha,Mansa
+Punjab,Rice,2023,11,2023-11-01,Budalada APMC,2203.0,budalada,Mansa
+Punjab,Rice,2023,11,2023-11-01,Budhlada (Phaphre Bhaike) APMC,2213.85,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2023,11,2023-11-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Rice,2023,11,2023-11-01,Chanarthal APMC,2203.0,chanarthal,Bathinda
+Punjab,Rice,2023,11,2023-11-01,Dakala APMC,,dakala,Patiala
+Punjab,Rice,2023,11,2023-11-01,Dhilwan APMC,2203.0,dhilwan,Kapurthala
+Punjab,Rice,2023,11,2023-11-01,Dhuri APMC,2203.0,dhuri,Sangrur
+Punjab,Rice,2023,11,2023-11-01,Dinanagar APMC,2203.0,dinanagar,Gurdaspur
+Punjab,Rice,2023,11,2023-11-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Rice,2023,11,2023-11-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Rice,2023,11,2023-11-01,Garh Shankar(Mahalpur) APMC,2203.0,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2023,11,2023-11-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Rice,2023,11,2023-11-01,Garhshankar(Saila Khurd) APMC,2203.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2023,11,2023-11-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Rice,2023,11,2023-11-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Rice,2023,11,2023-11-01,Hathur APMC,2203.0,hathur,Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Jaitu APMC,2203.0,jaitu,Faridkot
+Punjab,Rice,2023,11,2023-11-01,Jaitu(Bajakhana) APMC,2203.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2023,11,2023-11-01,Jalalabad APMC,2203.44,jalalabad,Fazilka
+Punjab,Rice,2023,11,2023-11-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2203.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Jalandhar Cantt. APMC,2203.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Jalandhar City APMC,2203.0,jalandhar city,Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2203.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Kahnuwan APMC,2203.0,kahnuwan,Gurdaspur
+Punjab,Rice,2023,11,2023-11-01,Kharar APMC,2203.0,kharar,S.A.S Nagar
+Punjab,Rice,2023,11,2023-11-01,Khem karan APMC,2203.0,khem karan,Tarn Taran
+Punjab,Rice,2023,11,2023-11-01,Khemkaran (Amarkot) APMC,2203.0,khemkaran (amarkot),Tarn Taran
+Punjab,Rice,2023,11,2023-11-01,Kot ise Khan APMC,2204.0,kot ise khan,Moga
+Punjab,Rice,2023,11,2023-11-01,Majitha APMC,2203.0,majitha,Amritsar
+Punjab,Rice,2023,11,2023-11-01,Malout (Kilianwali) APMC,2203.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2023,11,2023-11-01,Malout (Panniwala) APMC,2203.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2023,11,2023-11-01,Malout APMC,2203.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2023,11,2023-11-01,Mamdot APMC,,mamdot,Ferozepur
+Punjab,Rice,2023,11,2023-11-01,Mansa (Khiala kalan) APMC,2203.0,mansa (khiala kalan),Mansa
+Punjab,Rice,2023,11,2023-11-01,Mansa APMC,2203.0,mansa,Mansa
+Punjab,Rice,2023,11,2023-11-01,Maur APMC,2203.0,maur,Bathinda
+Punjab,Rice,2023,11,2023-11-01,Mehal Kalan APMC,2203.0,mehal kalan,Barnala
+Punjab,Rice,2023,11,2023-11-01,Mehal Kallan (ChananWal) APMC,2203.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2023,11,2023-11-01,Mehatpur APMC,2203.0,mehatpur,Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Mehta APMC,2203.0,mehta,Amritsar
+Punjab,Rice,2023,11,2023-11-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2023,11,2023-11-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Naushera Pannua (Dhotian) APMC,2203.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2023,11,2023-11-01,Naushera Pannuan APMC,2203.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2023,11,2023-11-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Patiala(New Anaj Mandi) APMC,2204.76,patiala(new anaj mandi),Patiala
+Punjab,Rice,2023,11,2023-11-01,Patran APMC,2203.0,patran,Patiala
+Punjab,Rice,2023,11,2023-11-01,Patran(Ghagga Mandi) APMC,2203.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2023,11,2023-11-01,Patti APMC,2203.0,patti,Tarn Taran
+Punjab,Rice,2023,11,2023-11-01,Rajpura APMC,2203.0,rajpura,Patiala
+Punjab,Rice,2023,11,2023-11-01,Rayya APMC,2203.0,rayya,Amritsar
+Punjab,Rice,2023,11,2023-11-01,Rayya(Sathiala) APMC,2203.0,rayya(sathiala),Amritsar
+Punjab,Rice,2023,11,2023-11-01,Ropar APMC,2203.0,ropar,Rupnagar
+Punjab,Rice,2023,11,2023-11-01,Sadiq APMC,2203.0,sadiq,Faridkot
+Punjab,Rice,2023,11,2023-11-01,Sahnewal APMC,2203.0,sahnewal,Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Samana APMC,2203.0,samana,Patiala
+Punjab,Rice,2023,11,2023-11-01,Samana(Gajewas) APMC,2203.0,samana(gajewas),Patiala
+Punjab,Rice,2023,11,2023-11-01,Samana(Kakrala) APMC,2203.0,samana(kakrala),Patiala
+Punjab,Rice,2023,11,2023-11-01,Samrala APMC,2203.0,samrala,Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Sangat APMC,2203.0,sangat,Bathinda
+Punjab,Rice,2023,11,2023-11-01,Shahkot APMC,2203.0,shahkot,Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Shakot (Malsian) APMC,2203.0,shakot (malsian),Jalandhar
+Punjab,Rice,2023,11,2023-11-01,Sherpur APMC,2203.0,sherpur,Gurdaspur
+Punjab,Rice,2023,11,2023-11-01,Sidhwan Bet (Lodhiwala) APMC,2203.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Sidhwan Bet APMC,2203.0,sidhwan bet,Ludhiana
+Punjab,Rice,2023,11,2023-11-01,Sirhind APMC,2203.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2023,11,2023-11-01,Sulargharat APMC,2203.0,sulargharat,Sangrur
+Punjab,Rice,2023,11,2023-11-01,Talwandi Bhai APMC,2203.0,talwandi bhai,Ferozepur
+Punjab,Rice,2023,11,2023-11-01,Talwandi Bhai(Mudki) APMC,2203.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2023,11,2023-11-01,Talwandi Sabo APMC,1071.43,talwandi sabo,Bathinda
+Punjab,Rice,2023,11,2023-11-01,Tarantaran APMC,2203.0,tarantaran,Amritsar
+Punjab,Rice,2023,11,2023-11-01,Zira APMC,2206.54,zira,Ferozepur
+Punjab,Rice,2023,12,2023-12-01,Abohar APMC,,abohar,Fazilka
+Punjab,Rice,2023,12,2023-12-01,Ahmedgarh APMC,2203.0,ahmedgarh,Sangrur
+Punjab,Rice,2023,12,2023-12-01,Amargarh APMC,2203.0,amargarh,Malerkotla
+Punjab,Rice,2023,12,2023-12-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Rice,2023,12,2023-12-01,Badhni Kalan APMC,,badhni kalan,Moga
+Punjab,Rice,2023,12,2023-12-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Rice,2023,12,2023-12-01,Bareta APMC,2203.0,bareta,Mansa
+Punjab,Rice,2023,12,2023-12-01,Bassi Pathana APMC,2203.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2023,12,2023-12-01,Bhadson APMC,2203.0,bhadson,Patiala
+Punjab,Rice,2023,12,2023-12-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Rice,2023,12,2023-12-01,Bhikhi APMC,2203.0,bhikhi,Mansa
+Punjab,Rice,2023,12,2023-12-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Rice,2023,12,2023-12-01,Boha APMC,2203.0,boha,Mansa
+Punjab,Rice,2023,12,2023-12-01,Budalada APMC,3700.0,budalada,Mansa
+Punjab,Rice,2023,12,2023-12-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2023,12,2023-12-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Rice,2023,12,2023-12-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Rice,2023,12,2023-12-01,Dhuri APMC,2203.0,dhuri,Sangrur
+Punjab,Rice,2023,12,2023-12-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Rice,2023,12,2023-12-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2023,12,2023-12-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2023,12,2023-12-01,Hathur APMC,2208.0,hathur,Ludhiana
+Punjab,Rice,2023,12,2023-12-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Rice,2023,12,2023-12-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Rice,2023,12,2023-12-01,Jalalabad APMC,2203.0,jalalabad,Fazilka
+Punjab,Rice,2023,12,2023-12-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Rice,2023,12,2023-12-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Rice,2023,12,2023-12-01,Khem karan APMC,,khem karan,Tarn Taran
+Punjab,Rice,2023,12,2023-12-01,Khemkaran (Amarkot) APMC,,khemkaran (amarkot),Tarn Taran
+Punjab,Rice,2023,12,2023-12-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Rice,2023,12,2023-12-01,Majitha APMC,,majitha,Amritsar
+Punjab,Rice,2023,12,2023-12-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2023,12,2023-12-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2023,12,2023-12-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Rice,2023,12,2023-12-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Rice,2023,12,2023-12-01,Mansa APMC,2203.0,mansa,Mansa
+Punjab,Rice,2023,12,2023-12-01,Maur APMC,2203.0,maur,Bathinda
+Punjab,Rice,2023,12,2023-12-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Rice,2023,12,2023-12-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Rice,2023,12,2023-12-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Mehta APMC,,mehta,Amritsar
+Punjab,Rice,2023,12,2023-12-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2023,12,2023-12-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2023,12,2023-12-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Rice,2023,12,2023-12-01,Patiala(New Anaj Mandi) APMC,2203.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2023,12,2023-12-01,Patran APMC,,patran,Patiala
+Punjab,Rice,2023,12,2023-12-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Rice,2023,12,2023-12-01,Patti APMC,,patti,Tarn Taran
+Punjab,Rice,2023,12,2023-12-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Rice,2023,12,2023-12-01,Rayya APMC,,rayya,Amritsar
+Punjab,Rice,2023,12,2023-12-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Rice,2023,12,2023-12-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Rice,2023,12,2023-12-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Rice,2023,12,2023-12-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Rice,2023,12,2023-12-01,Samana APMC,2203.0,samana,Patiala
+Punjab,Rice,2023,12,2023-12-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Rice,2023,12,2023-12-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Rice,2023,12,2023-12-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Rice,2023,12,2023-12-01,Sangat APMC,2203.0,sangat,Bathinda
+Punjab,Rice,2023,12,2023-12-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Rice,2023,12,2023-12-01,Sherpur APMC,2203.0,sherpur,Gurdaspur
+Punjab,Rice,2023,12,2023-12-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2023,12,2023-12-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Rice,2023,12,2023-12-01,Sirhind APMC,2203.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2023,12,2023-12-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Rice,2023,12,2023-12-01,Talwandi Bhai APMC,2203.0,talwandi bhai,Ferozepur
+Punjab,Rice,2023,12,2023-12-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2023,12,2023-12-01,Talwandi Sabo APMC,,talwandi sabo,Bathinda
+Punjab,Rice,2023,12,2023-12-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Rice,2023,12,2023-12-01,Zira APMC,,zira,Ferozepur
+Punjab,Rice,2024,9,2024-09-01,Mehta APMC,,mehta,Amritsar
+Punjab,Rice,2024,9,2024-09-01,Rayya APMC,1780.87,rayya,Amritsar
+Punjab,Rice,2024,9,2024-09-01,Rayya(Sathiala) APMC,1850.0,rayya(sathiala),Amritsar
+Punjab,Rice,2024,9,2024-09-01,Tarantaran APMC,2591.11,tarantaran,Amritsar
+Punjab,Rice,2024,9,2024-09-01,Zira APMC,,zira,Ferozepur
+Punjab,Rice,2024,10,2024-10-01,Abohar APMC,2320.0,abohar,Fazilka
+Punjab,Rice,2024,10,2024-10-01,Ahemadpur APMC,2320.0,ahemadpur,Mansa
+Punjab,Rice,2024,10,2024-10-01,Ahmedgarh APMC,2320.0,ahmedgarh,Sangrur
+Punjab,Rice,2024,10,2024-10-01,Amargarh APMC,2320.0,amargarh,Malerkotla
+Punjab,Rice,2024,10,2024-10-01,Amloh APMC,2320.0,amloh,Fatehgarh Sahib
+Punjab,Rice,2024,10,2024-10-01,Amritsar APMC,2320.0,amritsar,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Attari APMC,2320.01,attari,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Badhni Kalan APMC,2234.0,badhni kalan,Moga
+Punjab,Rice,2024,10,2024-10-01,Badhni Kallan (Bilaspur) APMC,2230.0,badhni kallan (bilaspur),Moga
+Punjab,Rice,2024,10,2024-10-01,Bareta APMC,2320.0,bareta,Mansa
+Punjab,Rice,2024,10,2024-10-01,Bariwala APMC,2316.99,bariwala,Sri Muktsar Sahib
+Punjab,Rice,2024,10,2024-10-01,Bassi Pathana APMC,2320.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2024,10,2024-10-01,Bhadson APMC,2320.0,bhadson,Patiala
+Punjab,Rice,2024,10,2024-10-01,Bhawanigarh APMC,2321.78,bhawanigarh,Sangrur
+Punjab,Rice,2024,10,2024-10-01,Bhikhi APMC,2320.0,bhikhi,Mansa
+Punjab,Rice,2024,10,2024-10-01,Bhikhiwind (Algo) APMC,2320.0,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Bhikhiwind (Basarke) APMC,2320.42,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Bhikhiwind (Marrimegha) APMC,2320.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Bhikhiwind (Sursingh) APMC,2320.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Bhikhiwind APMC,2320.0,bhikhiwind,Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Bhikhiwind(Khalra) APMC,2320.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Rice,2024,10,2024-10-01,Bilga (Talwan ) APMC,2320.0,bilga (talwan ),Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Bilga APMC,2320.0,bilga,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Boha APMC,2320.0,boha,Mansa
+Punjab,Rice,2024,10,2024-10-01,Budalada APMC,2320.0,budalada,Mansa
+Punjab,Rice,2024,10,2024-10-01,Budhlada (Phaphre Bhaike) APMC,2320.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2024,10,2024-10-01,Chabhal APMC,2320.0,chabhal,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Chanarthal APMC,2320.0,chanarthal,Bathinda
+Punjab,Rice,2024,10,2024-10-01,Dakala APMC,2320.0,dakala,Patiala
+Punjab,Rice,2024,10,2024-10-01,Dhanaula APMC,2320.0,dhanaula,Barnala
+Punjab,Rice,2024,10,2024-10-01,Dhanula (Kaleke) APMC,2320.0,dhanula (kaleke),Barnala
+Punjab,Rice,2024,10,2024-10-01,Dhilwan APMC,2320.0,dhilwan,Kapurthala
+Punjab,Rice,2024,10,2024-10-01,Dhuri APMC,2320.0,dhuri,Sangrur
+Punjab,Rice,2024,10,2024-10-01,Dinanagar APMC,2320.0,dinanagar,Gurdaspur
+Punjab,Rice,2024,10,2024-10-01,Firozepur City APMC,2300.0,firozepur city,Ferozepur
+Punjab,Rice,2024,10,2024-10-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Rice,2024,10,2024-10-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2024,10,2024-10-01,GarhShankar (Kotfatuhi) APMC,2320.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Rice,2024,10,2024-10-01,Garhshankar(Saila Khurd) APMC,2320.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2024,10,2024-10-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Rice,2024,10,2024-10-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Jaitu APMC,2320.0,jaitu,Faridkot
+Punjab,Rice,2024,10,2024-10-01,Jaitu(Bajakhana) APMC,2320.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2024,10,2024-10-01,Jalalabad APMC,2320.0,jalalabad,Fazilka
+Punjab,Rice,2024,10,2024-10-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2320.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Jalandhar Cantt. APMC,2320.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Jalandhar City APMC,2319.33,jalandhar city,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Jalandhar City(Faintan Ganj) APMC,2320.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2320.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Kahnuwan APMC,2320.0,kahnuwan,Gurdaspur
+Punjab,Rice,2024,10,2024-10-01,Kankwal Chahlan APMC,2320.0,kankwal chahlan,Mansa
+Punjab,Rice,2024,10,2024-10-01,Khadur Sahib APMC,2320.0,khadur sahib,Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Khanna APMC,2320.0,khanna,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Kharar APMC,2320.0,kharar,S.A.S Nagar
+Punjab,Rice,2024,10,2024-10-01,Khem karan APMC,2320.0,khem karan,Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Khemkaran (Amarkot) APMC,2320.0,khemkaran (amarkot),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Kila Raipur APMC,2320.0,kila raipur,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Kot ise Khan APMC,2325.0,kot ise khan,Moga
+Punjab,Rice,2024,10,2024-10-01,Kotkapura APMC,2320.0,kotkapura,Faridkot
+Punjab,Rice,2024,10,2024-10-01,Kurali APMC,2320.0,kurali,S.A.S Nagar
+Punjab,Rice,2024,10,2024-10-01,Ludhiana(Mandi gill Road) APMC,2320.0,ludhiana(mandi gill road),Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Ludhiana(Salem Tabri) APMC,2320.0,ludhiana(salem tabri),Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Majitha APMC,2321.07,majitha,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Malout (Kilianwali) APMC,2320.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2024,10,2024-10-01,Malout (Panniwala) APMC,2320.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2024,10,2024-10-01,Malout APMC,2320.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2024,10,2024-10-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Rice,2024,10,2024-10-01,Mansa APMC,,mansa,Mansa
+Punjab,Rice,2024,10,2024-10-01,Mansura APMC,2320.0,mansura,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Maur APMC,2320.0,maur,Bathinda
+Punjab,Rice,2024,10,2024-10-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Rice,2024,10,2024-10-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Rice,2024,10,2024-10-01,Mehatpur APMC,2320.0,mehatpur,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Mehta APMC,2320.0,mehta,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Mullanpur APMC,2320.0,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2024,10,2024-10-01,Mullanpur Dakha (Sawadi) APMC,2320.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Nakodar APMC,2320.0,nakodar,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Nakodar(Sarih) APMC,2320.0,nakodar(sarih),Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Naushera Pannua (Dhotian) APMC,2320.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Naushera Pannuan APMC,2320.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Nawan Shahar(Mandi Jadla) APMC,2320.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,10,2024-10-01,Nawan Shahar(MandiRaho) APMC,2320.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,10,2024-10-01,Nawanshahar APMC,2320.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,10,2024-10-01,Noor Mehal APMC,2320.0,noor mehal,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Nurpurbet APMC,2320.0,nurpurbet,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Patiala(Anaj Mandi Sanaur Road) APMC,2320.0,patiala(anaj mandi sanaur road),Patiala
+Punjab,Rice,2024,10,2024-10-01,Patiala(New Anaj Mandi) APMC,2320.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2024,10,2024-10-01,Patran APMC,2320.0,patran,Patiala
+Punjab,Rice,2024,10,2024-10-01,Patran(Ghagga Mandi) APMC,2320.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2024,10,2024-10-01,Patti APMC,2320.0,patti,Tarn Taran
+Punjab,Rice,2024,10,2024-10-01,Phillaur APMC,2320.0,phillaur,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Phillaur(Apra Mandi) APMC,2320.0,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Purain APMC,2320.0,purain,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Raikot (Talwandi rai) APMC,2320.0,raikot (talwandi rai),Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Rajpura APMC,2320.0,rajpura,Patiala
+Punjab,Rice,2024,10,2024-10-01,Rayya APMC,2320.0,rayya,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Rayya(Sathiala) APMC,2320.0,rayya(sathiala),Amritsar
+Punjab,Rice,2024,10,2024-10-01,Ropar APMC,2320.0,ropar,Rupnagar
+Punjab,Rice,2024,10,2024-10-01,Sadiq APMC,2320.0,sadiq,Faridkot
+Punjab,Rice,2024,10,2024-10-01,Sahnewal APMC,2320.0,sahnewal,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Samana APMC,2320.0,samana,Patiala
+Punjab,Rice,2024,10,2024-10-01,Samana(Gajewas) APMC,2320.0,samana(gajewas),Patiala
+Punjab,Rice,2024,10,2024-10-01,Samana(Kakrala) APMC,2320.0,samana(kakrala),Patiala
+Punjab,Rice,2024,10,2024-10-01,Samrala APMC,2320.0,samrala,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Sangat APMC,2320.0,sangat,Bathinda
+Punjab,Rice,2024,10,2024-10-01,Sardulgarh APMC,2320.0,sardulgarh,Mansa
+Punjab,Rice,2024,10,2024-10-01,Shahkot APMC,2320.0,shahkot,Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Shakot (Malsian) APMC,2320.0,shakot (malsian),Jalandhar
+Punjab,Rice,2024,10,2024-10-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Rice,2024,10,2024-10-01,Sidhwan Bet (Lodhiwala) APMC,2320.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Sidhwan Bet APMC,2320.0,sidhwan bet,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,Sirhind APMC,2320.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2024,10,2024-10-01,Sulargharat APMC,2320.0,sulargharat,Sangrur
+Punjab,Rice,2024,10,2024-10-01,Talwandi Bhai APMC,2320.0,talwandi bhai,Ferozepur
+Punjab,Rice,2024,10,2024-10-01,Talwandi Bhai(Mudki) APMC,2320.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2024,10,2024-10-01,Talwandi Sabo APMC,2320.0,talwandi sabo,Bathinda
+Punjab,Rice,2024,10,2024-10-01,Talwandi Sabo(Shekhupura) APMC,2320.0,talwandi sabo(shekhupura),Bathinda
+Punjab,Rice,2024,10,2024-10-01,Tarantaran APMC,2648.58,tarantaran,Amritsar
+Punjab,Rice,2024,10,2024-10-01,Zira APMC,2320.0,zira,Ferozepur
+Punjab,Rice,2024,10,2024-10-01,kum Kalan APMC,2320.0,kum kalan,Ludhiana
+Punjab,Rice,2024,10,2024-10-01,lakhowal APMC,2320.0,lakhowal,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Abohar APMC,2320.0,abohar,Fazilka
+Punjab,Rice,2024,11,2024-11-01,Ahemadpur APMC,2320.0,ahemadpur,Mansa
+Punjab,Rice,2024,11,2024-11-01,Ahmedgarh APMC,2320.0,ahmedgarh,Sangrur
+Punjab,Rice,2024,11,2024-11-01,Amargarh APMC,2320.0,amargarh,Malerkotla
+Punjab,Rice,2024,11,2024-11-01,Amloh APMC,2320.0,amloh,Fatehgarh Sahib
+Punjab,Rice,2024,11,2024-11-01,Amritsar APMC,2320.0,amritsar,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Attari APMC,2320.0,attari,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Badhni Kalan APMC,2249.65,badhni kalan,Moga
+Punjab,Rice,2024,11,2024-11-01,Badhni Kallan (Bilaspur) APMC,2247.06,badhni kallan (bilaspur),Moga
+Punjab,Rice,2024,11,2024-11-01,Bareta APMC,2320.0,bareta,Mansa
+Punjab,Rice,2024,11,2024-11-01,Bariwala APMC,2320.0,bariwala,Sri Muktsar Sahib
+Punjab,Rice,2024,11,2024-11-01,Barnala APMC,2320.0,barnala,Barnala
+Punjab,Rice,2024,11,2024-11-01,Bassi Pathana APMC,2320.0,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2024,11,2024-11-01,Bhadaur APMC,2320.0,bhadaur,Barnala
+Punjab,Rice,2024,11,2024-11-01,Bhadaur(Sehna) APMC,2320.0,bhadaur(sehna),Barnala
+Punjab,Rice,2024,11,2024-11-01,Bhadson APMC,2320.0,bhadson,Patiala
+Punjab,Rice,2024,11,2024-11-01,Bhawanigarh APMC,2320.0,bhawanigarh,Sangrur
+Punjab,Rice,2024,11,2024-11-01,Bhikhi APMC,2320.0,bhikhi,Mansa
+Punjab,Rice,2024,11,2024-11-01,Bhikhiwind (Algo) APMC,2320.0,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Bhikhiwind (Basarke) APMC,2320.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Bhikhiwind (Marrimegha) APMC,2320.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Bhikhiwind (Sursingh) APMC,2320.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Bhikhiwind APMC,2320.0,bhikhiwind,Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Bhikhiwind(Khalra) APMC,2320.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Rice,2024,11,2024-11-01,Bilga (Talwan ) APMC,2320.0,bilga (talwan ),Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Bilga APMC,2320.0,bilga,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Boha APMC,2320.0,boha,Mansa
+Punjab,Rice,2024,11,2024-11-01,Budalada APMC,2320.0,budalada,Mansa
+Punjab,Rice,2024,11,2024-11-01,Budhlada (Phaphre Bhaike) APMC,2320.0,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2024,11,2024-11-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Chanarthal APMC,2320.0,chanarthal,Bathinda
+Punjab,Rice,2024,11,2024-11-01,Dakala APMC,,dakala,Patiala
+Punjab,Rice,2024,11,2024-11-01,Dhanaula APMC,2320.0,dhanaula,Barnala
+Punjab,Rice,2024,11,2024-11-01,Dhanula (Kaleke) APMC,2320.0,dhanula (kaleke),Barnala
+Punjab,Rice,2024,11,2024-11-01,Dhilwan APMC,2320.0,dhilwan,Kapurthala
+Punjab,Rice,2024,11,2024-11-01,Dhuri APMC,2321.03,dhuri,Sangrur
+Punjab,Rice,2024,11,2024-11-01,Dinanagar APMC,2320.0,dinanagar,Gurdaspur
+Punjab,Rice,2024,11,2024-11-01,Firozepur City APMC,2300.0,firozepur city,Ferozepur
+Punjab,Rice,2024,11,2024-11-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Rice,2024,11,2024-11-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Rice,2024,11,2024-11-01,Garhshankar(Saila Khurd) APMC,2320.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2024,11,2024-11-01,Ghanaur APMC,2320.0,ghanaur,Patiala
+Punjab,Rice,2024,11,2024-11-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Jaitu APMC,2320.0,jaitu,Faridkot
+Punjab,Rice,2024,11,2024-11-01,Jaitu(Bajakhana) APMC,2320.0,jaitu(bajakhana),Faridkot
+Punjab,Rice,2024,11,2024-11-01,Jalalabad APMC,2320.07,jalalabad,Fazilka
+Punjab,Rice,2024,11,2024-11-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2320.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Jalandhar Cantt. APMC,2320.0,jalandhar cantt.,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Jalandhar City APMC,2320.0,jalandhar city,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Jalandhar City(Faintan Ganj) APMC,2320.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2320.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Kahnuwan APMC,2320.04,kahnuwan,Gurdaspur
+Punjab,Rice,2024,11,2024-11-01,Kankwal Chahlan APMC,2320.0,kankwal chahlan,Mansa
+Punjab,Rice,2024,11,2024-11-01,Khadur Sahib APMC,2320.0,khadur sahib,Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Khanna APMC,2320.0,khanna,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Kharar APMC,2320.0,kharar,S.A.S Nagar
+Punjab,Rice,2024,11,2024-11-01,Khem karan APMC,2320.0,khem karan,Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Khemkaran (Amarkot) APMC,2320.0,khemkaran (amarkot),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Kila Raipur APMC,,kila raipur,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Rice,2024,11,2024-11-01,Kotkapura APMC,2320.0,kotkapura,Faridkot
+Punjab,Rice,2024,11,2024-11-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Rice,2024,11,2024-11-01,Ludhiana(Mandi gill Road) APMC,2320.0,ludhiana(mandi gill road),Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Ludhiana(Salem Tabri) APMC,2320.0,ludhiana(salem tabri),Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Majitha APMC,2320.0,majitha,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Malout (Kilianwali) APMC,2320.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2024,11,2024-11-01,Malout (Panniwala) APMC,2320.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2024,11,2024-11-01,Malout APMC,2320.0,malout,Sri Muktsar Sahib
+Punjab,Rice,2024,11,2024-11-01,Mansa (Khiala kalan) APMC,2320.0,mansa (khiala kalan),Mansa
+Punjab,Rice,2024,11,2024-11-01,Mansa APMC,,mansa,Mansa
+Punjab,Rice,2024,11,2024-11-01,Mansura APMC,2320.0,mansura,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Maur APMC,2320.0,maur,Bathinda
+Punjab,Rice,2024,11,2024-11-01,Mehal Kalan APMC,2320.0,mehal kalan,Barnala
+Punjab,Rice,2024,11,2024-11-01,Mehal Kallan (ChananWal) APMC,2320.0,mehal kallan (chananwal),Barnala
+Punjab,Rice,2024,11,2024-11-01,Mehatpur APMC,2320.0,mehatpur,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Mehta APMC,2320.0,mehta,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Mullanpur APMC,2320.0,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2024,11,2024-11-01,Mullanpur Dakha (Sawadi) APMC,2320.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Nakodar APMC,2320.0,nakodar,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Nakodar(Sarih) APMC,2320.0,nakodar(sarih),Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Naushera Pannua (Dhotian) APMC,2320.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Naushera Pannuan APMC,2320.0,naushera pannuan,Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Nawan Shahar(Mandi Jadla) APMC,2320.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,11,2024-11-01,Nawan Shahar(MandiRaho) APMC,2320.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,11,2024-11-01,Nawanshahar APMC,2320.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,11,2024-11-01,Noor Mehal APMC,2320.0,noor mehal,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Nurpurbet APMC,2320.0,nurpurbet,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Patiala(Anaj Mandi Sanaur Road) APMC,2320.0,patiala(anaj mandi sanaur road),Patiala
+Punjab,Rice,2024,11,2024-11-01,Patiala(New Anaj Mandi) APMC,2320.0,patiala(new anaj mandi),Patiala
+Punjab,Rice,2024,11,2024-11-01,Patran APMC,2320.0,patran,Patiala
+Punjab,Rice,2024,11,2024-11-01,Patran(Ghagga Mandi) APMC,2320.0,patran(ghagga mandi),Patiala
+Punjab,Rice,2024,11,2024-11-01,Patti APMC,2320.0,patti,Tarn Taran
+Punjab,Rice,2024,11,2024-11-01,Phagwara APMC,2320.0,phagwara,Kapurthala
+Punjab,Rice,2024,11,2024-11-01,Phillaur APMC,2320.0,phillaur,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Phillaur(Apra Mandi) APMC,2320.0,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Purain APMC,2320.0,purain,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Raikot (Talwandi rai) APMC,,raikot (talwandi rai),Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Rajpura APMC,2320.03,rajpura,Patiala
+Punjab,Rice,2024,11,2024-11-01,Rayya APMC,2320.0,rayya,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Rayya(Sathiala) APMC,2320.0,rayya(sathiala),Amritsar
+Punjab,Rice,2024,11,2024-11-01,Ropar APMC,2320.0,ropar,Rupnagar
+Punjab,Rice,2024,11,2024-11-01,Sadiq APMC,2320.0,sadiq,Faridkot
+Punjab,Rice,2024,11,2024-11-01,Sahnewal APMC,2320.0,sahnewal,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Samana APMC,2320.0,samana,Patiala
+Punjab,Rice,2024,11,2024-11-01,Samana(Gajewas) APMC,2320.0,samana(gajewas),Patiala
+Punjab,Rice,2024,11,2024-11-01,Samana(Kakrala) APMC,2320.0,samana(kakrala),Patiala
+Punjab,Rice,2024,11,2024-11-01,Samrala APMC,2320.0,samrala,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Sangat APMC,2320.0,sangat,Bathinda
+Punjab,Rice,2024,11,2024-11-01,Sardulgarh APMC,,sardulgarh,Mansa
+Punjab,Rice,2024,11,2024-11-01,Shahkot APMC,2320.0,shahkot,Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Shakot (Malsian) APMC,2320.0,shakot (malsian),Jalandhar
+Punjab,Rice,2024,11,2024-11-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Rice,2024,11,2024-11-01,Sidhwan Bet (Lodhiwala) APMC,2320.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Sidhwan Bet APMC,2320.0,sidhwan bet,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,Sirhind APMC,2320.0,sirhind,Fatehgarh Sahib
+Punjab,Rice,2024,11,2024-11-01,Sulargharat APMC,2320.0,sulargharat,Sangrur
+Punjab,Rice,2024,11,2024-11-01,Sunam APMC,2320.0,sunam,Sangrur
+Punjab,Rice,2024,11,2024-11-01,Talwandi Bhai APMC,2320.0,talwandi bhai,Ferozepur
+Punjab,Rice,2024,11,2024-11-01,Talwandi Bhai(Mudki) APMC,2320.0,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2024,11,2024-11-01,Talwandi Sabo APMC,,talwandi sabo,Bathinda
+Punjab,Rice,2024,11,2024-11-01,Talwandi Sabo(Shekhupura) APMC,,talwandi sabo(shekhupura),Bathinda
+Punjab,Rice,2024,11,2024-11-01,Tarantaran APMC,2694.59,tarantaran,Amritsar
+Punjab,Rice,2024,11,2024-11-01,Zira APMC,2362.38,zira,Ferozepur
+Punjab,Rice,2024,11,2024-11-01,kum Kalan APMC,2320.0,kum kalan,Ludhiana
+Punjab,Rice,2024,11,2024-11-01,lakhowal APMC,2320.0,lakhowal,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Abohar APMC,,abohar,Fazilka
+Punjab,Rice,2024,12,2024-12-01,Ahemadpur APMC,,ahemadpur,Mansa
+Punjab,Rice,2024,12,2024-12-01,Ahmedgarh APMC,2320.0,ahmedgarh,Sangrur
+Punjab,Rice,2024,12,2024-12-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Rice,2024,12,2024-12-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Rice,2024,12,2024-12-01,Amritsar APMC,,amritsar,Amritsar
+Punjab,Rice,2024,12,2024-12-01,Attari APMC,,attari,Amritsar
+Punjab,Rice,2024,12,2024-12-01,Badhni Kalan APMC,,badhni kalan,Moga
+Punjab,Rice,2024,12,2024-12-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Rice,2024,12,2024-12-01,Bareta APMC,,bareta,Mansa
+Punjab,Rice,2024,12,2024-12-01,Bariwala APMC,2320.0,bariwala,Sri Muktsar Sahib
+Punjab,Rice,2024,12,2024-12-01,Barnala APMC,,barnala,Barnala
+Punjab,Rice,2024,12,2024-12-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Rice,2024,12,2024-12-01,Bhadaur APMC,,bhadaur,Barnala
+Punjab,Rice,2024,12,2024-12-01,Bhadaur(Sehna) APMC,,bhadaur(sehna),Barnala
+Punjab,Rice,2024,12,2024-12-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Rice,2024,12,2024-12-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Rice,2024,12,2024-12-01,Bhikhi APMC,2320.0,bhikhi,Mansa
+Punjab,Rice,2024,12,2024-12-01,Bhikhiwind (Algo) APMC,,bhikhiwind (algo),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Bhikhiwind (Basarke) APMC,,bhikhiwind (basarke),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Bhikhiwind (Marrimegha) APMC,,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Bhikhiwind (Sursingh) APMC,,bhikhiwind (sursingh),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Bhikhiwind APMC,,bhikhiwind,Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Bhikhiwind(Khalra) APMC,,bhikhiwind(khalra),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Boha APMC,,boha,Mansa
+Punjab,Rice,2024,12,2024-12-01,Budalada APMC,,budalada,Mansa
+Punjab,Rice,2024,12,2024-12-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Rice,2024,12,2024-12-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Rice,2024,12,2024-12-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Rice,2024,12,2024-12-01,Dhanula (Kaleke) APMC,2320.0,dhanula (kaleke),Barnala
+Punjab,Rice,2024,12,2024-12-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Rice,2024,12,2024-12-01,Dhuri APMC,,dhuri,Sangrur
+Punjab,Rice,2024,12,2024-12-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Rice,2024,12,2024-12-01,Firozepur City APMC,2300.0,firozepur city,Ferozepur
+Punjab,Rice,2024,12,2024-12-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Rice,2024,12,2024-12-01,Ghanaur APMC,,ghanaur,Patiala
+Punjab,Rice,2024,12,2024-12-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Rice,2024,12,2024-12-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Rice,2024,12,2024-12-01,Jalalabad APMC,,jalalabad,Fazilka
+Punjab,Rice,2024,12,2024-12-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Jalandhar City APMC,2800.0,jalandhar city,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Rice,2024,12,2024-12-01,Kankwal Chahlan APMC,,kankwal chahlan,Mansa
+Punjab,Rice,2024,12,2024-12-01,Khadur Sahib APMC,,khadur sahib,Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Khanna APMC,,khanna,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Rice,2024,12,2024-12-01,Khem karan APMC,,khem karan,Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Khemkaran (Amarkot) APMC,,khemkaran (amarkot),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Kotkapura APMC,,kotkapura,Faridkot
+Punjab,Rice,2024,12,2024-12-01,Ludhiana(Mandi gill Road) APMC,,ludhiana(mandi gill road),Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Ludhiana(Salem Tabri) APMC,,ludhiana(salem tabri),Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Majitha APMC,,majitha,Amritsar
+Punjab,Rice,2024,12,2024-12-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Rice,2024,12,2024-12-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Rice,2024,12,2024-12-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Rice,2024,12,2024-12-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Rice,2024,12,2024-12-01,Mansa APMC,,mansa,Mansa
+Punjab,Rice,2024,12,2024-12-01,Mansura APMC,,mansura,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Maur APMC,,maur,Bathinda
+Punjab,Rice,2024,12,2024-12-01,Mehal Kalan APMC,2320.0,mehal kalan,Barnala
+Punjab,Rice,2024,12,2024-12-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Rice,2024,12,2024-12-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Mehta APMC,,mehta,Amritsar
+Punjab,Rice,2024,12,2024-12-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Rice,2024,12,2024-12-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,12,2024-12-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,12,2024-12-01,Nawanshahar APMC,2325.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Rice,2024,12,2024-12-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Nurpurbet APMC,,nurpurbet,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Patiala(Anaj Mandi Sanaur Road) APMC,,patiala(anaj mandi sanaur road),Patiala
+Punjab,Rice,2024,12,2024-12-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Rice,2024,12,2024-12-01,Patran APMC,,patran,Patiala
+Punjab,Rice,2024,12,2024-12-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Rice,2024,12,2024-12-01,Patti APMC,,patti,Tarn Taran
+Punjab,Rice,2024,12,2024-12-01,Phagwara APMC,,phagwara,Kapurthala
+Punjab,Rice,2024,12,2024-12-01,Phillaur APMC,,phillaur,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Phillaur(Apra Mandi) APMC,,phillaur(apra mandi),Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Purain APMC,,purain,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Rice,2024,12,2024-12-01,Rayya APMC,,rayya,Amritsar
+Punjab,Rice,2024,12,2024-12-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Rice,2024,12,2024-12-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Rice,2024,12,2024-12-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Rice,2024,12,2024-12-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Samana APMC,,samana,Patiala
+Punjab,Rice,2024,12,2024-12-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Rice,2024,12,2024-12-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Rice,2024,12,2024-12-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Sangat APMC,2320.0,sangat,Bathinda
+Punjab,Rice,2024,12,2024-12-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Rice,2024,12,2024-12-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Rice,2024,12,2024-12-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Rice,2024,12,2024-12-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Rice,2024,12,2024-12-01,Sunam APMC,,sunam,Sangrur
+Punjab,Rice,2024,12,2024-12-01,Talwandi Bhai APMC,2320.0,talwandi bhai,Ferozepur
+Punjab,Rice,2024,12,2024-12-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Rice,2024,12,2024-12-01,Tarantaran APMC,2320.0,tarantaran,Amritsar
+Punjab,Rice,2024,12,2024-12-01,Zira APMC,,zira,Ferozepur
+Punjab,Rice,2024,12,2024-12-01,kum Kalan APMC,,kum kalan,Ludhiana
+Punjab,Rice,2024,12,2024-12-01,lakhowal APMC,,lakhowal,Ludhiana
