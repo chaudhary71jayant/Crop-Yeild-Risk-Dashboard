@@ -1,0 +1,93 @@
+State,District,Crop,Year,Months_Available,_merge
+Punjab,Amritsar,Rice,2021-22,3.0,both
+Punjab,Amritsar,Rice,2022-23,4.0,both
+Punjab,Amritsar,Rice,2023-24,3.0,both
+Punjab,Amritsar,Rice,2024-25,4.0,both
+Punjab,Barnala,Rice,2021-22,2.0,both
+Punjab,Barnala,Rice,2022-23,2.0,both
+Punjab,Barnala,Rice,2023-24,2.0,both
+Punjab,Barnala,Rice,2024-25,3.0,both
+Punjab,Bathinda,Rice,2021-22,3.0,both
+Punjab,Bathinda,Rice,2022-23,2.0,both
+Punjab,Bathinda,Rice,2023-24,3.0,both
+Punjab,Bathinda,Rice,2024-25,3.0,both
+Punjab,Faridkot,Rice,2021-22,3.0,both
+Punjab,Faridkot,Rice,2022-23,3.0,both
+Punjab,Faridkot,Rice,2023-24,2.0,both
+Punjab,Faridkot,Rice,2024-25,2.0,both
+Punjab,Fatehgarh Sahib,Rice,2021-22,2.0,both
+Punjab,Fatehgarh Sahib,Rice,2022-23,2.0,both
+Punjab,Fatehgarh Sahib,Rice,2023-24,3.0,both
+Punjab,Fatehgarh Sahib,Rice,2024-25,2.0,both
+Punjab,Fazilka,Rice,2021-22,2.0,both
+Punjab,Fazilka,Rice,2022-23,2.0,both
+Punjab,Fazilka,Rice,2023-24,3.0,both
+Punjab,Fazilka,Rice,2024-25,2.0,both
+Punjab,Ferozepur,Rice,2021-22,2.0,both
+Punjab,Ferozepur,Rice,2022-23,2.0,both
+Punjab,Ferozepur,Rice,2023-24,4.0,both
+Punjab,Ferozepur,Rice,2024-25,3.0,both
+Punjab,Gurdaspur,Rice,2021-22,3.0,both
+Punjab,Gurdaspur,Rice,2022-23,3.0,both
+Punjab,Gurdaspur,Rice,2023-24,3.0,both
+Punjab,Gurdaspur,Rice,2024-25,2.0,both
+Punjab,Hoshiarpur,Rice,2021-22,2.0,both
+Punjab,Hoshiarpur,Rice,2022-23,0.0,both
+Punjab,Hoshiarpur,Rice,2023-24,2.0,both
+Punjab,Hoshiarpur,Rice,2024-25,2.0,both
+Punjab,Jalandhar,Rice,2021-22,2.0,both
+Punjab,Jalandhar,Rice,2022-23,2.0,both
+Punjab,Jalandhar,Rice,2023-24,2.0,both
+Punjab,Jalandhar,Rice,2024-25,3.0,both
+Punjab,Kapurthala,Rice,2021-22,2.0,both
+Punjab,Kapurthala,Rice,2022-23,1.0,both
+Punjab,Kapurthala,Rice,2023-24,2.0,both
+Punjab,Kapurthala,Rice,2024-25,2.0,both
+Punjab,Ludhiana,Rice,2021-22,3.0,both
+Punjab,Ludhiana,Rice,2022-23,3.0,both
+Punjab,Ludhiana,Rice,2023-24,3.0,both
+Punjab,Ludhiana,Rice,2024-25,2.0,both
+Punjab,Malerkotla,Rice,2021-22,2.0,both
+Punjab,Malerkotla,Rice,2022-23,3.0,both
+Punjab,Malerkotla,Rice,2023-24,3.0,both
+Punjab,Malerkotla,Rice,2024-25,2.0,both
+Punjab,Mansa,Rice,2021-22,3.0,both
+Punjab,Mansa,Rice,2022-23,3.0,both
+Punjab,Mansa,Rice,2023-24,3.0,both
+Punjab,Mansa,Rice,2024-25,3.0,both
+Punjab,Moga,Rice,2021-22,3.0,both
+Punjab,Moga,Rice,2022-23,2.0,both
+Punjab,Moga,Rice,2023-24,2.0,both
+Punjab,Moga,Rice,2024-25,2.0,both
+Punjab,Pathankot,Rice,2021-22,0.0,both
+Punjab,Pathankot,Rice,2022-23,,left_only
+Punjab,Pathankot,Rice,2023-24,,left_only
+Punjab,Pathankot,Rice,2024-25,,left_only
+Punjab,Patiala,Rice,2021-22,2.0,both
+Punjab,Patiala,Rice,2022-23,2.0,both
+Punjab,Patiala,Rice,2023-24,3.0,both
+Punjab,Patiala,Rice,2024-25,2.0,both
+Punjab,Rupnagar,Rice,2021-22,2.0,both
+Punjab,Rupnagar,Rice,2022-23,0.0,both
+Punjab,Rupnagar,Rice,2023-24,2.0,both
+Punjab,Rupnagar,Rice,2024-25,2.0,both
+Punjab,S.A.S Nagar,Rice,2021-22,2.0,both
+Punjab,S.A.S Nagar,Rice,2022-23,2.0,both
+Punjab,S.A.S Nagar,Rice,2023-24,2.0,both
+Punjab,S.A.S Nagar,Rice,2024-25,2.0,both
+Punjab,Sangrur,Rice,2021-22,2.0,both
+Punjab,Sangrur,Rice,2022-23,3.0,both
+Punjab,Sangrur,Rice,2023-24,3.0,both
+Punjab,Sangrur,Rice,2024-25,3.0,both
+Punjab,Shahid Bhagat Singh Nagar,Rice,2021-22,2.0,both
+Punjab,Shahid Bhagat Singh Nagar,Rice,2022-23,1.0,both
+Punjab,Shahid Bhagat Singh Nagar,Rice,2023-24,0.0,both
+Punjab,Shahid Bhagat Singh Nagar,Rice,2024-25,3.0,both
+Punjab,Sri Muktsar Sahib,Rice,2021-22,2.0,both
+Punjab,Sri Muktsar Sahib,Rice,2022-23,3.0,both
+Punjab,Sri Muktsar Sahib,Rice,2023-24,2.0,both
+Punjab,Sri Muktsar Sahib,Rice,2024-25,3.0,both
+Punjab,Tarn Taran,Rice,2021-22,3.0,both
+Punjab,Tarn Taran,Rice,2022-23,4.0,both
+Punjab,Tarn Taran,Rice,2023-24,2.0,both
+Punjab,Tarn Taran,Rice,2024-25,2.0,both
