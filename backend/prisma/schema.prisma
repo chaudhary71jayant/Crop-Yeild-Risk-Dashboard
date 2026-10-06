@@ -13,16 +13,18 @@ datasource db {
 
 model DistrictData {
   id           Int         @id @default(autoincrement())
-  district     String
   state        String
+  district     String
   crop         String
-  year         Int
-  rainfallMm   Float       @map("rainfall_mm")
-  avgPrice     Float       @map("avg_price")
-  areaHectares Float       @map("area_hectateres")
-  yieldTonnes  Float       @map("yield_tonnes")
+  year         String
+  rainfallMm   Float?      @map("rainfall_mm")
+  avgPrice     Float?      @map("avg_price")
+  areaHectares Float?      @map("area_hectateres")
+  production   Float?
+  yieldkgPerHectare  Float?      @map("yield_kg_per_hectare")
   riskScores   RiskScore[]
 
+  @@unique([state, district, crop, year])
   @@map("district_data")
 }
 
@@ -30,7 +32,9 @@ model RiskScore {
   id           Int          @id @default(autoincrement())
   districtId   Int          @map("district_id")
   district     DistrictData @relation(fields: [districtId], references: [id])
-  riskScore    Float        @map("risk_score")
+  riskScore    Float?        @map("risk_score")
+  riskDataQuality Float?  @map("risk_data_quality")
+  driversAvailable Int @map("drivers_available")
   topDriver1   String?      @map("top_driver_1")
   topDriver2   String?      @map("top_driver_2")
   topDriver3   String?      @map("top_driver_3")
