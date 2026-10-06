@@ -102,4 +102,12 @@ const compareDistricts = async (req, res, next) => {
   }
 };
 
-export { getAllDistricts, getDistrictById, compareDistricts };
+const healtCheck = async( req, res, next) => {
+  try {
+    res.status(200).json({success : true, message : "Server is Healthy", timestamp : new Date().toISOString()});
+  } catch (error) {
+    next(error);
+  }
+}
+
+export { getAllDistricts, getDistrictById, compareDistricts, healtCheck };
