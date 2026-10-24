@@ -1,0 +1,419 @@
+District,Market_Name,Market_Type,Market_Key,Compact_Key
+Ambala,Ambala City,Principal Yard,ambala city,ambalacity
+Ambala,Ambala Cantt,Principal Yard,ambala cantt,ambalacantt
+Ambala,Barara,Principal Yard,barara,barara
+Ambala,Mullana,Principal Yard,mullana,mullana
+Ambala,Naneola,Principal Yard,naneola,naneola
+Ambala,Naraingarh,Principal Yard,naraingarh,naraingarh
+Ambala,Shahzadpur,Principal Yard,shahzadpur,shahzadpur
+Bhiwani,NGM Bhiwani,Principal Yard,ngm bhiwani,ngmbhiwani
+Bhiwani,NGM Tosham,Principal Yard,ngm tosham,ngmtosham
+Bhiwani,Behal,Principal Yard,behal,behal
+Bhiwani,Siwani,Principal Yard,siwani,siwani
+Bhiwani,Jui,Principal Yard,jui,jui
+Bhiwani,Loharu,Principal Yard,loharu,loharu
+Charkhi Dadri,Charkhi Dadri,Principal Yard,charkhi dadri,charkhidadri
+Nuh,Nuh,Principal Yard,nuh,nuh
+Nuh,Tauru,Principal Yard,tauru,tauru
+Nuh,Ferozpur Jhirka,Principal Yard,ferozpur jhirka,ferozpurjhirka
+Nuh,Punhana,Principal Yard,punhana,punhana
+Faridabad,Dabua NIT Faridabad,Principal Yard,dabua nit faridabad,dabuanitfaridabad
+Faridabad,Ballabgarh,Principal Yard,ballabgarh,ballabgarh
+Faridabad,Mohna,Principal Yard,mohna,mohna
+Faridabad,Tigaon,Principal Yard,tigaon,tigaon
+Fatehabad,Grain Market Fatehabad,Principal Yard,grain market fatehabad,grainmarketfatehabad
+Fatehabad,NGM Bhattu Kalan,Principal Yard,ngm bhattu kalan,ngmbhattukalan
+Fatehabad,MC Bhuna,Principal Yard,mc bhuna,mcbhuna
+Fatehabad,RATIA,Principal Yard,ratia,ratia
+Fatehabad,Tohana,Principal Yard,tohana,tohana
+Fatehabad,Jakhal,Principal Yard,jakhal,jakhal
+Fatehabad,NGM Dharsul,Principal Yard,ngm dharsul,ngmdharsul
+Gurugram,"NVM, Gurugram",Principal Yard,"nvm, gurugram",nvmgurugram
+Gurugram,"NGM, Farrukhnagar",Principal Yard,"ngm, farrukhnagar",ngmfarrukhnagar
+Gurugram,Pataudi (Jatauli Mandi),Principal Yard,pataudi (jatauli mandi),pataudijataulimandi
+Gurugram,"NGM, Sohna",Principal Yard,"ngm, sohna",ngmsohna
+Hisar,"New Grain Market, Hisar",Principal Yard,"new grain market, hisar",newgrainmarkethisar
+Hisar,NGM Hansi,Principal Yard,ngm hansi,ngmhansi
+Hisar,Adampur,Principal Yard,adampur,adampur
+Hisar,Barwala,Principal Yard,barwala,barwala
+Hisar,NGM Uklana,Principal Yard,ngm uklana,ngmuklana
+Hisar,Narnaund,Principal Yard,narnaund,narnaund
+Hisar,Bass,Principal Yard,bass,bass
+Jhajjar,New Grain Market Jhajjar,Principal Yard,new grain market jhajjar,newgrainmarketjhajjar
+Jhajjar,New Grain Market Beri,Principal Yard,new grain market beri,newgrainmarketberi
+Jhajjar,Old Grain Market Bahadurgarh,Principal Yard,old grain market bahadurgarh,oldgrainmarketbahadurgarh
+Jind,Jind,Principal Yard,jind,jind
+Jind,Old Grain Market Uchana,Principal Yard,old grain market uchana,oldgrainmarketuchana
+Jind,Narwana,Principal Yard,narwana,narwana
+Jind,"NGM, Safidon",Principal Yard,"ngm, safidon",ngmsafidon
+Jind,Julana,Principal Yard,julana,julana
+Jind,Pillukhera,Principal Yard,pillukhera,pillukhera
+Jind,Alewa,Principal Yard,alewa,alewa
+Kaithal,"New Grain Market, Kaithal",Principal Yard,"new grain market, kaithal",newgrainmarketkaithal
+Kaithal,Cheeka(NGM),Principal Yard,cheeka(ngm),cheekangm
+Kaithal,Siwan,Principal Yard,siwan,siwan
+Kaithal,Rajound,Principal Yard,rajound,rajound
+Kaithal,Pai,Principal Yard,pai,pai
+Kaithal,NGM Pundri,Principal Yard,ngm pundri,ngmpundri
+Kaithal,Dhand,Principal Yard,dhand,dhand
+Kaithal,Kalayat,Principal Yard,kalayat,kalayat
+Kurukshetra,Thanesar,Principal Yard,thanesar,thanesar
+Kurukshetra,Pehowa,Principal Yard,pehowa,pehowa
+Kurukshetra,Ladwa,Principal Yard,ladwa,ladwa
+Kurukshetra,Shahabad,Principal Yard,shahabad,shahabad
+Kurukshetra,Ismailabad,Principal Yard,ismailabad,ismailabad
+Kurukshetra,Pipli,Principal Yard,pipli,pipli
+Kurukshetra,Babain,Principal Yard,babain,babain
+Mahendragarh,NGM NARNAUL,Principal Yard,ngm narnaul,ngmnarnaul
+Mahendragarh,KANINA,Principal Yard,kanina,kanina
+Mahendragarh,MOHINDERGARH,Principal Yard,mohindergarh,mohindergarh
+Mahendragarh,ATELI,Principal Yard,ateli,ateli
+Mahendragarh,NANGAL CHAUDHARY,Principal Yard,nangal chaudhary,nangalchaudhary
+Palwal,"NGM, Palwal",Principal Yard,"ngm, palwal",ngmpalwal
+Palwal,NGM Hodal,Principal Yard,ngm hodal,ngmhodal
+Palwal,HASSANPUR,Principal Yard,hassanpur,hassanpur
+Palwal,Hathin,Principal Yard,hathin,hathin
+Panipat,NGM Panipat,Principal Yard,ngm panipat,ngmpanipat
+Panipat,NGM Samalkha,Principal Yard,ngm samalkha,ngmsamalkha
+Panipat,NGM Madlauda,Principal Yard,ngm madlauda,ngmmadlauda
+Panipat,NGM Israna,Principal Yard,ngm israna,ngmisrana
+Panipat,NGM Bapoli,Principal Yard,ngm bapoli,ngmbapoli
+Rewari,NGM Rewari,Principal Yard,ngm rewari,ngmrewari
+Rewari,NGM Kosli,Principal Yard,ngm kosli,ngmkosli
+Sirsa,SIRSA,Principal Yard,sirsa,sirsa
+Sirsa,Dabwali,Principal Yard,dabwali,dabwali
+Sirsa,New Grain Market Kalanwali,Principal Yard,new grain market kalanwali,newgrainmarketkalanwali
+Sirsa,Ellenabad,Principal Yard,ellenabad,ellenabad
+Sirsa,Rania,Principal Yard,rania,rania
+Sirsa,DING,Principal Yard,ding,ding
+Sonipat,Gohana,Principal Yard,gohana,gohana
+Sonipat,"NGM, Ganaur",Principal Yard,"ngm, ganaur",ngmganaur
+Sonipat,NGM Sonepat,Principal Yard,ngm sonepat,ngmsonepat
+Sonipat,Kharkhoda,Principal Yard,kharkhoda,kharkhoda
+Panchkula,Panchkula,Principal Yard,panchkula,panchkula
+Panchkula,Barwala(P),Principal Yard,barwala(p),barwalap
+Panchkula,Raipur Rani,Principal Yard,raipur rani,raipurrani
+Rohtak,NGM Rohtak,Principal Yard,ngm rohtak,ngmrohtak
+Rohtak,Sampla,Principal Yard,sampla,sampla
+Rohtak,Meham,Principal Yard,meham,meham
+Yamunanagar,NGM Yamuna Nagar,Principal Yard,ngm yamuna nagar,ngmyamunanagar
+Yamunanagar,NGM Chhachhrauli,Principal Yard,ngm chhachhrauli,ngmchhachhrauli
+Yamunanagar,NGM Mustfabad,Principal Yard,ngm mustfabad,ngmmustfabad
+Yamunanagar,NGM Radaur,Principal Yard,ngm radaur,ngmradaur
+Yamunanagar,NGM Sadhaura,Principal Yard,ngm sadhaura,ngmsadhaura
+Yamunanagar,NGM Bilaspur,Principal Yard,ngm bilaspur,ngmbilaspur
+Yamunanagar,NGM Jagadhri,Principal Yard,ngm jagadhri,ngmjagadhri
+Karnal,Karnal,Principal Yard,karnal,karnal
+Karnal,Gharunda,Principal Yard,gharunda,gharunda
+Karnal,NGM Assandh,Principal Yard,ngm assandh,ngmassandh
+Karnal,Taraori,Principal Yard,taraori,taraori
+Karnal,Indri,Principal Yard,indri,indri
+Karnal,Nilokheri,Principal Yard,nilokheri,nilokheri
+Karnal,Nissing,Principal Yard,nissing,nissing
+Karnal,NGM Kunjpura,Principal Yard,ngm kunjpura,ngmkunjpura
+Karnal,Nigdhu,Principal Yard,nigdhu,nigdhu
+Karnal,Jundla,Principal Yard,jundla,jundla
+Ambala,Ugala,Purchase Center,ugala,ugala
+Ambala,Sardehri,Purchase Center,sardehri,sardehri
+Ambala,Talheri Gujran,Purchase Center,talheri gujran,talherigujran
+Ambala,Bhareri Kallan,Purchase Center,bhareri kallan,bharerikallan
+Ambala,Berkhedi,Purchase Center,berkhedi,berkhedi
+Ambala,Karasan,Purchase Center,karasan,karasan
+Bhiwani,Dhanana,Purchase Center,dhanana,dhanana
+Bhiwani,Chang,Purchase Center,chang,chang
+Bhiwani,Banda Heri,Purchase Center,banda heri,bandaheri
+Charkhi Dadri,Jhojhu Kalan,Purchase Center,jhojhu kalan,jhojhukalan
+Charkhi Dadri,Bound Khurd,Purchase Center,bound khurd,boundkhurd
+Charkhi Dadri,Chhapar,Purchase Center,chhapar,chhapar
+Charkhi Dadri,Badhwana,Purchase Center,badhwana,badhwana
+Faridabad,Fatehpur Billoch (Only  for wheat),Purchase Center,fatehpur billoch (only for wheat),fatehpurbillochonlyforwheat
+Fatehabad,M.P. Rohi,Purchase Center,m.p. rohi,mprohi
+Fatehabad,Behbalpur,Purchase Center,behbalpur,behbalpur
+Fatehabad,Dhangar,Purchase Center,dhangar,dhangar
+Fatehabad,Bhirdana,Purchase Center,bhirdana,bhirdana
+Fatehabad,Aherwan,Purchase Center,aherwan,aherwan
+Fatehabad,Ayalki,Purchase Center,ayalki,ayalki
+Fatehabad,SP Sottar,Purchase Center,sp sottar,spsottar
+Fatehabad,Bhattu Khurad,Purchase Center,bhattu khurad,bhattukhurad
+Fatehabad,Manakpur,Purchase Center,manakpur,manakpur
+Fatehabad,Dhand,Purchase Center,dhand,dhand
+Fatehabad,Pili Mandori,Purchase Center,pili mandori,pilimandori
+Fatehabad,Nehla,Purchase Center,nehla,nehla
+Fatehabad,Buwan,Purchase Center,buwan,buwan
+Fatehabad,Digoh,Purchase Center,digoh,digoh
+Fatehabad,Hasanga,Purchase Center,hasanga,hasanga
+Fatehabad,Alika,Purchase Center,alika,alika
+Fatehabad,Babanpur,Purchase Center,babanpur,babanpur
+Fatehabad,Bhamanwala,Purchase Center,bhamanwala,bhamanwala
+Fatehabad,Dadupur,Purchase Center,dadupur,dadupur
+Fatehabad,Dhani Babanpur,Purchase Center,dhani babanpur,dhanibabanpur
+Fatehabad,Lamba,Purchase Center,lamba,lamba
+Fatehabad,Nagpur,Purchase Center,nagpur,nagpur
+Fatehabad,Bora,Purchase Center,bora,bora
+Fatehabad,Bara,Purchase Center,bara,bara
+Fatehabad,Hanspur,Purchase Center,hanspur,hanspur
+Fatehabad,Ladhuwas,Purchase Center,ladhuwas,ladhuwas
+Fatehabad,Lali,Purchase Center,lali,lali
+Fatehabad,Bhunderwas,Purchase Center,bhunderwas,bhunderwas
+Fatehabad,Tamaspura,Purchase Center,tamaspura,tamaspura
+Fatehabad,Kamana,Purchase Center,kamana,kamana
+Fatehabad,Mehmadki,Purchase Center,mehmadki,mehmadki
+Fatehabad,Chander Kalan,Purchase Center,chander kalan,chanderkalan
+Fatehabad,Nangla,Purchase Center,nangla,nangla
+Fatehabad,Tharwa,Purchase Center,tharwa,tharwa
+Fatehabad,Rainwali,Purchase Center,rainwali,rainwali
+Fatehabad,Hindalwala,Purchase Center,hindalwala,hindalwala
+Fatehabad,PC Chandpura,Purchase Center,pc chandpura,pcchandpura
+Fatehabad,PC Shakarpura,Purchase Center,pc shakarpura,pcshakarpura
+Fatehabad,PC Meyond Kalan,Purchase Center,pc meyond kalan,pcmeyondkalan
+Fatehabad,Nanheri,Purchase Center,nanheri,nanheri
+Fatehabad,Karandi,Purchase Center,karandi,karandi
+Fatehabad,Akanwali,Purchase Center,akanwali,akanwali
+Gurugram,Khor,Purchase Center,khor,khor
+Hisar,Ghirai,Purchase Center,ghirai,ghirai
+Hisar,Hasangarh,Purchase Center,hasangarh,hasangarh
+Hisar,Shyamsukh,Purchase Center,shyamsukh,shyamsukh
+Hisar,Saniyana,Purchase Center,saniyana,saniyana
+Hisar,Koth Kalan,Purchase Center,koth kalan,kothkalan
+Hisar,Thurana,Purchase Center,thurana,thurana
+Jhajjar,Badli,Purchase Center,badli,badli
+Jhajjar,Chhara,Purchase Center,chhara,chhara
+Jhajjar,Majra-D,Purchase Center,majra-d,majrad
+Jhajjar,Asaudha,Purchase Center,asaudha,asaudha
+Jind,Rajpura,Purchase Center,rajpura,rajpura
+Jind,Manohapur,Purchase Center,manohapur,manohapur
+Jind,Kabarchha,Purchase Center,kabarchha,kabarchha
+Jind,Ghoghrian,Purchase Center,ghoghrian,ghoghrian
+Jind,DhanKhari,Purchase Center,dhankhari,dhankhari
+Jind,Barta,Purchase Center,barta,barta
+Jind,Mangalpur,Purchase Center,mangalpur,mangalpur
+Jind,Kharal,Purchase Center,kharal,kharal
+Jind,Ujhana,Purchase Center,ujhana,ujhana
+Jind,Frain Kalan,Purchase Center,frain kalan,frainkalan
+Jind,Danoda kalan,Purchase Center,danoda kalan,danodakalan
+Jind,Sudkain Khurd,Purchase Center,sudkain khurd,sudkainkhurd
+Jind,Phulian Kalan,Purchase Center,phulian kalan,phuliankalan
+Jind,Belerkha,Purchase Center,belerkha,belerkha
+Jind,Siwana Mal,Purchase Center,siwana mal,siwanamal
+Jind,Anchera Kalan,Purchase Center,anchera kalan,ancherakalan
+Jind,Hatt,Purchase Center,hatt,hatt
+Jind,Muana,Purchase Center,muana,muana
+Jind,Didwara,Purchase Center,didwara,didwara
+Jind,Shamlo Kalan,Purchase Center,shamlo kalan,shamlokalan
+Jind,Fatehgarh,Purchase Center,fatehgarh,fatehgarh
+Jind,Ludana,Purchase Center,ludana,ludana
+Jind,Khark Ram Ji,Purchase Center,khark ram ji,kharkramji
+Jind,Dhatrath,Purchase Center,dhatrath,dhatrath
+Jind,Naguran,Purchase Center,naguran,naguran
+Kaithal,Keorak,Purchase Center,keorak,keorak
+Kaithal,Guhna,Purchase Center,guhna,guhna
+Kaithal,Padla,Purchase Center,padla,padla
+Kaithal,Farsh Majra,Purchase Center,farsh majra,farshmajra
+Kaithal,Bhunshla,Purchase Center,bhunshla,bhunshla
+Kaithal,Bopur,Purchase Center,bopur,bopur
+Kaithal,Kamheri,Purchase Center,kamheri,kamheri
+Kaithal,Agondh,Purchase Center,agondh,agondh
+Kaithal,Kangthali,Purchase Center,kangthali,kangthali
+Kaithal,Balbhera,Purchase Center,balbhera,balbhera
+Kaithal,Gohran,Purchase Center,gohran,gohran
+Kaithal,Kithana,Purchase Center,kithana,kithana
+Kaithal,Serdha,Purchase Center,serdha,serdha
+Kaithal,Karora,Purchase Center,karora,karora
+Kaithal,Rasina,Purchase Center,rasina,rasina
+Kaithal,Deeg,Purchase Center,deeg,deeg
+Kaithal,Kaul,Purchase Center,kaul,kaul
+Kaithal,Badsikri Khurd,Purchase Center,badsikri khurd,badsikrikhurd
+Kaithal,Sanghan,Purchase Center,sanghan,sanghan
+Kaithal,Sajuma,Purchase Center,sajuma,sajuma
+Kaithal,Kailram,Purchase Center,kailram,kailram
+Kurukshetra,Barna,Purchase Center,barna,barna
+Kurukshetra,Kirmach,Purchase Center,kirmach,kirmach
+Kurukshetra,Lukhi,Purchase Center,lukhi,lukhi
+Kurukshetra,Bodni,Purchase Center,bodni,bodni
+Kurukshetra,Karah Sahib,Purchase Center,karah sahib,karahsahib
+Kurukshetra,Bhor Saidan,Purchase Center,bhor saidan,bhorsaidan
+Kurukshetra,Neemwala,Purchase Center,neemwala,neemwala
+Kurukshetra,Thana,Purchase Center,thana,thana
+Kurukshetra,Nalvi,Purchase Center,nalvi,nalvi
+Kurukshetra,Charuni Jattan,Purchase Center,charuni jattan,charunijattan
+Mahendragarh,O.G..M.  Narnaul UPTO 31.08.2023,Purchase Center,o.g..m. narnaul upto 31.08.2023,ogmnarnaulupto31082023
+Palwal,Dhatir,Purchase Center,dhatir,dhatir
+Palwal,Chandhut,Purchase Center,chandhut,chandhut
+Palwal,Bhamnikhera,Purchase Center,bhamnikhera,bhamnikhera
+Palwal,Deeghot,Purchase Center,deeghot,deeghot
+Palwal,Aurangabad,Purchase Center,aurangabad,aurangabad
+Palwal,Khambi,Purchase Center,khambi,khambi
+Palwal,Badoli (Barauli),Purchase Center,badoli (barauli),badolibarauli
+Palwal,Mindcola,Purchase Center,mindcola,mindcola
+Panipat,Babail,Purchase Center,babail,babail
+Panipat,Urlana kalan,Purchase Center,urlana kalan,urlanakalan
+Panipat,Naultha,Purchase Center,naultha,naultha
+Panipat,Ahar,Purchase Center,ahar,ahar
+Panipat,Sanoli,Purchase Center,sanoli,sanoli
+Rewari,Dahina,Purchase Center,dahina,dahina
+Rewari,Jatusana,Purchase Center,jatusana,jatusana
+Rewari,Patauda,Purchase Center,patauda,patauda
+Sirsa,Panjuana,Purchase Center,panjuana,panjuana
+Sirsa,Panihari,Purchase Center,panihari,panihari
+Sirsa,Rasulpurtheri,Purchase Center,rasulpurtheri,rasulpurtheri
+Sirsa,Bappa,Purchase Center,bappa,bappa
+Sirsa,Bhavdin,Purchase Center,bhavdin,bhavdin
+Sirsa,Darbi,Purchase Center,darbi,darbi
+Sirsa,Kutiana,Purchase Center,kutiana,kutiana
+Sirsa,Sahuwala-I,Purchase Center,sahuwala-i,sahuwalai
+Sirsa,Mangala,Purchase Center,mangala,mangala
+Sirsa,Gudiakhera,Purchase Center,gudiakhera,gudiakhera
+Sirsa,Panniwala Morikan,Purchase Center,panniwala morikan,panniwalamorikan
+Sirsa,Banwala,Purchase Center,banwala,banwala
+Sirsa,Loharh,Purchase Center,loharh,loharh
+Sirsa,Abubsahar,Purchase Center,abubsahar,abubsahar
+Sirsa,Moujgarh,Purchase Center,moujgarh,moujgarh
+Sirsa,Chatha,Purchase Center,chatha,chatha
+Sirsa,Desujodha,Purchase Center,desujodha,desujodha
+Sirsa,Malikpura,Purchase Center,malikpura,malikpura
+Sirsa,Haibuana,Purchase Center,haibuana,haibuana
+Sirsa,Bijjuwali,Purchase Center,bijjuwali,bijjuwali
+Sirsa,Risaliyakhera,Purchase Center,risaliyakhera,risaliyakhera
+Sirsa,Rattakhera,Purchase Center,rattakhera,rattakhera
+Sirsa,Kaluana,Purchase Center,kaluana,kaluana
+Sirsa,Ganga,Purchase Center,ganga,ganga
+Sirsa,Goriwala,Purchase Center,goriwala,goriwala
+Sirsa,Singpura,Purchase Center,singpura,singpura
+Sirsa,Kamal,Purchase Center,kamal,kamal
+Sirsa,Phaggu,Purchase Center,phaggu,phaggu
+Sirsa,Kurangawali,Purchase Center,kurangawali,kurangawali
+Sirsa,Jhorar Rohi,Purchase Center,jhorar rohi,jhorarrohi
+Sirsa,Thiraj,Purchase Center,thiraj,thiraj
+Sirsa,Alikan,Purchase Center,alikan,alikan
+Sirsa,Surtia,Purchase Center,surtia,surtia
+Sirsa,Panniwala Mota,Purchase Center,panniwala mota,panniwalamota
+Sirsa,Kewal,Purchase Center,kewal,kewal
+Sirsa,Jagmawali,Purchase Center,jagmawali,jagmawali
+Sirsa,Hassu,Purchase Center,hassu,hassu
+Sirsa,Bhuratwala,Purchase Center,bhuratwala,bhuratwala
+Sirsa,Dholpalia,Purchase Center,dholpalia,dholpalia
+Sirsa,Kharia,Purchase Center,kharia,kharia
+Sirsa,Kariwala,Purchase Center,kariwala,kariwala
+Sirsa,Dhudianwali,Purchase Center,dhudianwali,dhudianwali
+Sirsa,Ghoranwali,Purchase Center,ghoranwali,ghoranwali
+Sirsa,Kuttabadh,Purchase Center,kuttabadh,kuttabadh
+Sirsa,Bani,Purchase Center,bani,bani
+Sirsa,Chakkan,Purchase Center,chakkan,chakkan
+Sirsa,Suchan Kotli,Purchase Center,suchan kotli,suchankotli
+Sirsa,Patli Dabar,Purchase Center,patli dabar,patlidabar
+Sirsa,Shakkar Mandori,Purchase Center,shakkar mandori,shakkarmandori
+Sirsa,Kagdana,Purchase Center,kagdana,kagdana
+Sonipat,Baroda,Purchase Center,baroda,baroda
+Sonipat,Kathura,Purchase Center,kathura,kathura
+Sonipat,Bichpari,Purchase Center,bichpari,bichpari
+Sonipat,Rukhi,Purchase Center,rukhi,rukhi
+Sonipat,Bhainswal Kalan,Purchase Center,bhainswal kalan,bhainswalkalan
+Sonipat,Kasandi,Purchase Center,kasandi,kasandi
+Sonipat,Purkhas,Purchase Center,purkhas,purkhas
+Sonipat,Datauli,Purchase Center,datauli,datauli
+Sonipat,Sanpera,Purchase Center,sanpera,sanpera
+Sonipat,Mohana,Purchase Center,mohana,mohana
+Sonipat,Hullaheri,Purchase Center,hullaheri,hullaheri
+Sonipat,Nahra,Purchase Center,nahra,nahra
+Sonipat,Farmana,Purchase Center,farmana,farmana
+Rohtak,Lakhanmajra,Purchase Center,lakhanmajra,lakhanmajra
+Rohtak,Sanghi,Purchase Center,sanghi,sanghi
+Rohtak,Kiloi,Purchase Center,kiloi,kiloi
+Rohtak,Madina,Purchase Center,madina,madina
+Rohtak,Kharak kalan,Purchase Center,kharak kalan,kharakkalan
+Rohtak,Kahanaur,Purchase Center,kahanaur,kahanaur
+Yamunanagar,Kharwan,Purchase Center,kharwan,kharwan
+Yamunanagar,Ranjeetpur,Purchase Center,ranjeetpur,ranjeetpur
+Karnal,Munak,Purchase Center,munak,munak
+Karnal,Salwan,Purchase Center,salwan,salwan
+Karnal,Kurlan,Purchase Center,kurlan,kurlan
+Karnal,Rahara,Purchase Center,rahara,rahara
+Karnal,Gangateri,Purchase Center,gangateri,gangateri
+Karnal,Sagga,Purchase Center,sagga,sagga
+Karnal,Garhi Birbal,Purchase Center,garhi birbal,garhibirbal
+Karnal,Samana Bahu,Purchase Center,samana bahu,samanabahu
+Karnal,Gheer,Purchase Center,gheer,gheer
+Ambala,Saha,Sub Yard,saha,saha
+Ambala,Kesri,Sub Yard,kesri,kesri
+Bhiwani,Bawani Khera,Sub Yard,bawani khera,bawanikhera
+Bhiwani,NVM Bhiwani,Sub Yard,nvm bhiwani,nvmbhiwani
+Bhiwani,Add. NGM (TMC)  Bhiwani,Sub Yard,add. ngm (tmc) bhiwani,addngmtmcbhiwani
+Bhiwani,Jhumpa Kalan,Sub Yard,jhumpa kalan,jhumpakalan
+Bhiwani,Kairu,Sub Yard,kairu,kairu
+Bhiwani,Dhighawa,Sub Yard,dhighawa,dhighawa
+Charkhi Dadri,Badhra,Sub Yard,badhra,badhra
+Nuh,Pinagwan,Sub Yard,pinagwan,pinagwan
+Faridabad,Subyard Sector-16 Faridabad,Sub Yard,subyard sector-16 faridabad,subyardsector16faridabad
+Fatehabad,NVM,Sub Yard,nvm,nvm
+Fatehabad,Gorkhpur,Sub Yard,gorkhpur,gorkhpur
+Fatehabad,New Vegetable Market,Sub Yard,new vegetable market,newvegetablemarket
+Gurugram,Badshahpur,Sub Yard,badshahpur,badshahpur
+Gurugram,Pataudi,Sub Yard,pataudi,pataudi
+Gurugram,Bhora Kalan,Sub Yard,bhora kalan,bhorakalan
+Hisar,Balsamand,Sub Yard,balsamand,balsamand
+Hisar,NVM Hansi,Sub Yard,nvm hansi,nvmhansi
+Hisar,Sisai,Sub Yard,sisai,sisai
+Hisar,Agroha,Sub Yard,agroha,agroha
+Hisar,Pabra,Sub Yard,pabra,pabra
+Hisar,Daultpur,Sub Yard,daultpur,daultpur
+Hisar,Lohari Ragho,Sub Yard,lohari ragho,lohariragho
+Hisar,Kheri Lohchab,Sub Yard,kheri lohchab,kherilohchab
+Hisar,Khand Kheri,Sub Yard,khand kheri,khandkheri
+Jhajjar,Matanhail,Sub Yard,matanhail,matanhail
+Jhajjar,New Vegetable Market Bahadurgarh,Sub Yard,new vegetable market bahadurgarh,newvegetablemarketbahadurgarh
+Jind,NVM Jind,Sub Yard,nvm jind,nvmjind
+Jind,Chhattar,Sub Yard,chhattar,chhattar
+Jind,NVM Narwana,Sub Yard,nvm narwana,nvmnarwana
+Jind,Dhamtan Sahib,Sub Yard,dhamtan sahib,dhamtansahib
+Jind,Garhi,Sub Yard,garhi,garhi
+Jind,Dhanouri,Sub Yard,dhanouri,dhanouri
+Jind,"NVM, Safidon",Sub Yard,"nvm, safidon",nvmsafidon
+Jind,-,Sub Yard,-,
+Kaithal,Old Grain Market,Sub Yard,old grain market,oldgrainmarket
+Kaithal,Additional Grain Market,Sub Yard,additional grain market,additionalgrainmarket
+Kaithal,Baba Ladana,Sub Yard,baba ladana,babaladana
+Kaithal,Ramthali,Sub Yard,ramthali,ramthali
+Kaithal,Arnauli,Sub Yard,arnauli,arnauli
+Kaithal,Bhagal,Sub Yard,bhagal,bhagal
+Kaithal,Jakholi,Sub Yard,jakholi,jakholi
+Kaithal,Habri,Sub Yard,habri,habri
+Kaithal,Balu,Sub Yard,balu,balu
+Kurukshetra,Amin,Sub Yard,amin,amin
+Kurukshetra,Gumthala Garu,Sub Yard,gumthala garu,gumthalagaru
+Kurukshetra,Malikpur,Sub Yard,malikpur,malikpur
+Kurukshetra,Ajrana Kalan,Sub Yard,ajrana kalan,ajranakalan
+Kurukshetra,Thol,Sub Yard,thol,thol
+Kurukshetra,Jhansa,Sub Yard,jhansa,jhansa
+Mahendragarh,SATNALI,Sub Yard,satnali,satnali
+Panipat,Babarpur,Sub Yard,babarpur,babarpur
+Panipat,NVM Panipat,Sub Yard,nvm panipat,nvmpanipat
+Panipat,Chhichhrana,Sub Yard,chhichhrana,chhichhrana
+Rewari,Bawal,Sub Yard,bawal,bawal
+Rewari,Kund,Sub Yard,kund,kund
+Rewari,Dharuhera,Sub Yard,dharuhera,dharuhera
+Rewari,NVM Rewari,Sub Yard,nvm rewari,nvmrewari
+Rewari,Dhakla,Sub Yard,dhakla,dhakla
+Sirsa,Nathusari Chopta,Sub Yard,nathusari chopta,nathusarichopta
+Sirsa,Mallekan,Sub Yard,mallekan,mallekan
+Sirsa,Chautala,Sub Yard,chautala,chautala
+Sirsa,Rori,Sub Yard,rori,rori
+Sirsa,Baragura,Sub Yard,baragura,baragura
+Sirsa,Odhan,Sub Yard,odhan,odhan
+Sirsa,Jiwan Nagar,Sub Yard,jiwan nagar,jiwannagar
+Sonipat,Khanpur Kalan,Sub Yard,khanpur kalan,khanpurkalan
+Sonipat,Mudlana,Sub Yard,mudlana,mudlana
+Sonipat,Pugthala,Sub Yard,pugthala,pugthala
+Sonipat,Subji Mandi,Sub Yard,subji mandi,subjimandi
+Sonipat,Murthal,Sub Yard,murthal,murthal
+Panchkula,Kalka,Sub Yard,kalka,kalka
+Rohtak,NVM Rohtak,Sub Yard,nvm rohtak,nvmrohtak
+Rohtak,NFM Rohtak,Sub Yard,nfm rohtak,nfmrohtak
+Rohtak,NGM  Kalanaur,Sub Yard,ngm kalanaur,ngmkalanaur
+Rohtak,NVM  Kalanaur,Sub Yard,nvm kalanaur,nvmkalanaur
+Yamunanagar,Pratap Nagar,Sub Yard,pratap nagar,pratapnagar
+Yamunanagar,Sub Yard Jathlana,Sub Yard,sub yard jathlana,subyardjathlana
+Yamunanagar,Sub Yard Gumthala Rao,Sub Yard,sub yard gumthala rao,subyardgumthalarao
+Yamunanagar,Sub Yard Rasulpur,Sub Yard,sub yard rasulpur,subyardrasulpur
+Karnal,Barsat,Sub Yard,barsat,barsat
+Karnal,Ballah,Sub Yard,ballah,ballah
+Karnal,Biana,Sub Yard,biana,biana

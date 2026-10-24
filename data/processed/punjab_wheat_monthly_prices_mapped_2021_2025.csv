@@ -1,0 +1,1583 @@
+State,Crop,Calendar_Year,Month,Month_Date,Market,Monthly_Price,Market_Key,District
+Punjab,Wheat,2021,4,2021-04-01,Abohar APMC,1975.0,abohar,Fazilka
+Punjab,Wheat,2021,4,2021-04-01,Adampur APMC,1975.0,adampur,Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Ajitwal (Chogawan) APMC,1975.0,ajitwal (chogawan),Moga
+Punjab,Wheat,2021,4,2021-04-01,Ajitwal (Dala) APMC,1975.0,ajitwal (dala),Moga
+Punjab,Wheat,2021,4,2021-04-01,Ajitwal APMC,1975.0,ajitwal,Moga
+Punjab,Wheat,2021,4,2021-04-01,Amargarh APMC,1975.0,amargarh,Malerkotla
+Punjab,Wheat,2021,4,2021-04-01,Amloh APMC,1975.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2021,4,2021-04-01,Amloh(Gobind Garh Mandi) APMC,1975.0,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2021,4,2021-04-01,Badhni Kallan (Bilaspur) APMC,1975.0,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2021,4,2021-04-01,Baghapurana APMC,1975.0,baghapurana,Moga
+Punjab,Wheat,2021,4,2021-04-01,Banga (Kataria) APMC,1975.0,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,4,2021-04-01,Banur (Kheragaju) APMC,1975.0,banur (kheragaju),Patiala
+Punjab,Wheat,2021,4,2021-04-01,Banur APMC,1975.0,banur,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Bareta APMC,1975.0,bareta,Mansa
+Punjab,Wheat,2021,4,2021-04-01,Bariwala APMC,1975.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2021,4,2021-04-01,Barnala APMC,1934.43,barnala,Barnala
+Punjab,Wheat,2021,4,2021-04-01,Bassi Pathana APMC,1975.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2021,4,2021-04-01,Bhadaur APMC,1975.0,bhadaur,Barnala
+Punjab,Wheat,2021,4,2021-04-01,Bhadaur(Sehna) APMC,1975.0,bhadaur(sehna),Barnala
+Punjab,Wheat,2021,4,2021-04-01,Bhadson APMC,1975.0,bhadson,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Bhawanigarh APMC,1975.0,bhawanigarh,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Bhikhi APMC,1975.0,bhikhi,Mansa
+Punjab,Wheat,2021,4,2021-04-01,Bhucho APMC,1975.0,bhucho,Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Bhulath (Ibrahimaaaaval) APMC,1975.0,bhulath (ibrahimaaaaval),Kapurthala
+Punjab,Wheat,2021,4,2021-04-01,Bhulath (Nadala) APMC,1975.0,bhulath (nadala),Kapurthala
+Punjab,Wheat,2021,4,2021-04-01,Bhulath APMC,1973.09,bhulath,Kapurthala
+Punjab,Wheat,2021,4,2021-04-01,Bilga (Talwan ) APMC,1975.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Bilga APMC,1975.0,bilga,Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Boha APMC,1975.0,boha,Mansa
+Punjab,Wheat,2021,4,2021-04-01,Budalada APMC,1975.0,budalada,Mansa
+Punjab,Wheat,2021,4,2021-04-01,Budhlada (Phaphre Bhaike) APMC,1975.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2021,4,2021-04-01,Chabhal APMC,1975.0,chabhal,Amritsar
+Punjab,Wheat,2021,4,2021-04-01,Chanarthal APMC,1975.0,chanarthal,Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Dakala APMC,1975.0,dakala,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Dasuya APMC,1975.0,dasuya,Hoshiarpur
+Punjab,Wheat,2021,4,2021-04-01,Dera Bassi APMC,1975.0,dera bassi,S.A.S Nagar
+Punjab,Wheat,2021,4,2021-04-01,Dhanaula APMC,1975.0,dhanaula,Barnala
+Punjab,Wheat,2021,4,2021-04-01,Dhanula (Kaleke) APMC,,dhanula (kaleke),Barnala
+Punjab,Wheat,2021,4,2021-04-01,Dharamkot APMC,1975.0,dharamkot,Moga
+Punjab,Wheat,2021,4,2021-04-01,Dhariwal APMC,1975.0,dhariwal,Gurdaspur
+Punjab,Wheat,2021,4,2021-04-01,Dhilwan APMC,1975.0,dhilwan,Kapurthala
+Punjab,Wheat,2021,4,2021-04-01,Dinanagar APMC,1975.0,dinanagar,Gurdaspur
+Punjab,Wheat,2021,4,2021-04-01,Dirba APMC,1975.0,dirba,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Dudhansadhan APMC,1975.0,dudhansadhan,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Faridkot (Machakikalan) APMC,1975.0,faridkot (machakikalan),Faridkot
+Punjab,Wheat,2021,4,2021-04-01,Faridkot APMC,1975.0,faridkot,Faridkot
+Punjab,Wheat,2021,4,2021-04-01,Firozepur City APMC,1975.0,firozepur city,Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Garh Shankar APMC,1975.0,garh shankar,Hoshiarpur
+Punjab,Wheat,2021,4,2021-04-01,Garh Shankar(Mahalpur) APMC,1975.0,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2021,4,2021-04-01,GarhShankar (Kotfatuhi) APMC,1975.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2021,4,2021-04-01,Garhshankar(Saila Khurd) APMC,1975.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2021,4,2021-04-01,Gehri(Jandiala mandi) APMC,1974.42,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2021,4,2021-04-01,Ghanaur APMC,,ghanaur,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Giddarbaha APMC,1975.0,giddarbaha,Sri Muktsar Sahib
+Punjab,Wheat,2021,4,2021-04-01,Guru Har Sahai APMC,1975.0,guru har sahai,Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Hathur APMC,1975.0,hathur,Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Jagraon APMC,1975.0,jagraon,Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Jaitu APMC,1972.68,jaitu,Faridkot
+Punjab,Wheat,2021,4,2021-04-01,Jaitu(Bajakhana) APMC,1975.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2021,4,2021-04-01,Jalalabad APMC,1975.0,jalalabad,Fazilka
+Punjab,Wheat,2021,4,2021-04-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,1975.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Jalandhar Cantt. APMC,1975.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Jalandhar City APMC,1975.0,jalandhar city,Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Jalandhar City(Faintan Ganj) APMC,1975.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1975.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Kahnuwan APMC,1975.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2021,4,2021-04-01,Khadur Sahib APMC,1975.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2021,4,2021-04-01,Khanauri APMC,1975.0,khanauri,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Kharar APMC,1975.0,kharar,S.A.S Nagar
+Punjab,Wheat,2021,4,2021-04-01,Kot ise Khan APMC,1980.0,kot ise khan,Moga
+Punjab,Wheat,2021,4,2021-04-01,Lehra Gaga APMC,1975.0,lehra gaga,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Majitha APMC,1975.0,majitha,Amritsar
+Punjab,Wheat,2021,4,2021-04-01,Malerkotla APMC,1975.0,malerkotla,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Mallanwala (KhosaDalSinghwala) APMC,1975.0,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Mallanwala APMC,1975.0,mallanwala,Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Malout (Kilianwali) APMC,1975.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2021,4,2021-04-01,Malout (Panniwala) APMC,1975.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2021,4,2021-04-01,Malout APMC,1975.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2021,4,2021-04-01,Mamdot APMC,1975.0,mamdot,Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Mansa (Khiala kalan) APMC,1975.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2021,4,2021-04-01,Mansa APMC,1975.0,mansa,Mansa
+Punjab,Wheat,2021,4,2021-04-01,Mansa(Ubha Buraj Dhilwan) APMC,1975.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2021,4,2021-04-01,Maur APMC,1975.0,maur,Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Mehal Kalan APMC,1975.0,mehal kalan,Barnala
+Punjab,Wheat,2021,4,2021-04-01,Mehatpur APMC,1975.0,mehatpur,Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Moga APMC,1975.0,moga,Moga
+Punjab,Wheat,2021,4,2021-04-01,Muktsar APMC,1975.0,muktsar,Sri Muktsar Sahib
+Punjab,Wheat,2021,4,2021-04-01,Mullanpur APMC,1975.0,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2021,4,2021-04-01,Mullanpur Dakha (Sawadi) APMC,1975.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Nabha APMC,1975.0,nabha,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Naushera Pannua (Dhotian) APMC,1950.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2021,4,2021-04-01,Naushera Pannuan APMC,1950.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2021,4,2021-04-01,Nawan Shahar(Mandi Jadla) APMC,1975.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,4,2021-04-01,Nawan Shahar(MandiRaho) APMC,1975.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,4,2021-04-01,Nawanshahar APMC,1975.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,4,2021-04-01,Noor Mehal APMC,1975.0,noor mehal,Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Noor Mehal(Kot Badal Khan) APMC,1975.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Patiala(Anaj Mandi Sanaur Road) APMC,1975.0,patiala(anaj mandi sanaur road),Patiala
+Punjab,Wheat,2021,4,2021-04-01,Patiala(New Anaj Mandi) APMC,1975.0,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2021,4,2021-04-01,Patran APMC,1975.0,patran,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Patran(Ghagga Mandi) APMC,1975.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2021,4,2021-04-01,Patti APMC,1974.91,patti,Tarn Taran
+Punjab,Wheat,2021,4,2021-04-01,Phillaur APMC,1975.0,phillaur,Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Phillaur(Apra Mandi) APMC,1975.0,phillaur(apra mandi),Jalandhar
+Punjab,Wheat,2021,4,2021-04-01,Rajpura APMC,1975.0,rajpura,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Raman APMC,1975.0,raman,Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rampura Phul APMC,1975.0,rampura phul,Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rampuraphul(Bhai Rupan) APMC,1975.0,rampuraphul(bhai rupan),Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rampuraphul(Chowke) APMC,1975.0,rampuraphul(chowke),Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rampuraphul(Dhapali) APMC,1975.0,rampuraphul(dhapali),Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rampuraphul(Mehraj) APMC,1975.0,rampuraphul(mehraj),Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rampuraphul(Nabha Mandi) APMC,1975.0,rampuraphul(nabha mandi),Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Rayya APMC,1975.0,rayya,Amritsar
+Punjab,Wheat,2021,4,2021-04-01,Rayya(Sathiala) APMC,1975.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2021,4,2021-04-01,Ropar APMC,1975.0,ropar,Rupnagar
+Punjab,Wheat,2021,4,2021-04-01,Sadiq APMC,1975.0,sadiq,Faridkot
+Punjab,Wheat,2021,4,2021-04-01,Sahnewal APMC,1975.0,sahnewal,Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Samana APMC,1970.3,samana,Patiala
+Punjab,Wheat,2021,4,2021-04-01,Samana(Gajewas) APMC,1975.0,samana(gajewas),Patiala
+Punjab,Wheat,2021,4,2021-04-01,Samana(Kakrala) APMC,1975.0,samana(kakrala),Patiala
+Punjab,Wheat,2021,4,2021-04-01,Samrala APMC,1975.0,samrala,Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Sangat APMC,1974.18,sangat,Bathinda
+Punjab,Wheat,2021,4,2021-04-01,Sangrur APMC,1975.0,sangrur,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Sardulgarh APMC,1975.0,sardulgarh,Mansa
+Punjab,Wheat,2021,4,2021-04-01,Sherpur APMC,1975.0,sherpur,Gurdaspur
+Punjab,Wheat,2021,4,2021-04-01,Sidhwan Bet (Lodhiwala) APMC,1975.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Sidhwan Bet APMC,1975.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2021,4,2021-04-01,Sirhind APMC,1975.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2021,4,2021-04-01,Sri Har Gobindpur APMC,1975.0,sri har gobindpur,Gurdaspur
+Punjab,Wheat,2021,4,2021-04-01,Sulargharat APMC,1975.0,sulargharat,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Sultanpur APMC,1975.0,sultanpur,Sangrur
+Punjab,Wheat,2021,4,2021-04-01,Sultanpur Lodhi (Tibba) APMC,1975.0,sultanpur lodhi (tibba),Kapurthala
+Punjab,Wheat,2021,4,2021-04-01,Talwandi Bhai APMC,1975.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Talwandi Bhai(Mudki) APMC,1975.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2021,4,2021-04-01,Tarantaran APMC,1975.0,tarantaran,Amritsar
+Punjab,Wheat,2021,4,2021-04-01,Zira APMC,1975.0,zira,Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Abohar APMC,1975.0,abohar,Fazilka
+Punjab,Wheat,2021,5,2021-05-01,Adampur APMC,1975.0,adampur,Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Ajitwal (Chogawan) APMC,1975.0,ajitwal (chogawan),Moga
+Punjab,Wheat,2021,5,2021-05-01,Ajitwal (Dala) APMC,1975.0,ajitwal (dala),Moga
+Punjab,Wheat,2021,5,2021-05-01,Ajitwal APMC,1975.0,ajitwal,Moga
+Punjab,Wheat,2021,5,2021-05-01,Ajnala APMC,,ajnala,Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Amargarh APMC,1975.0,amargarh,Malerkotla
+Punjab,Wheat,2021,5,2021-05-01,Amloh APMC,1975.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2021,5,2021-05-01,Amloh(Gobind Garh Mandi) APMC,1975.0,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2021,5,2021-05-01,Badhni Kallan (Bilaspur) APMC,1975.0,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2021,5,2021-05-01,Baghapurana APMC,1975.0,baghapurana,Moga
+Punjab,Wheat,2021,5,2021-05-01,Banga (Kataria) APMC,1975.0,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,5,2021-05-01,Banur (Kheragaju) APMC,1975.0,banur (kheragaju),Patiala
+Punjab,Wheat,2021,5,2021-05-01,Banur APMC,1975.0,banur,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Bareta APMC,1975.0,bareta,Mansa
+Punjab,Wheat,2021,5,2021-05-01,Bariwala APMC,1975.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2021,5,2021-05-01,Barnala APMC,,barnala,Barnala
+Punjab,Wheat,2021,5,2021-05-01,Bassi Pathana APMC,1975.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2021,5,2021-05-01,Bhadaur APMC,1975.0,bhadaur,Barnala
+Punjab,Wheat,2021,5,2021-05-01,Bhadaur(Sehna) APMC,1975.0,bhadaur(sehna),Barnala
+Punjab,Wheat,2021,5,2021-05-01,Bhadson APMC,1975.0,bhadson,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Bhawanigarh APMC,1975.0,bhawanigarh,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Bhikhi APMC,1975.0,bhikhi,Mansa
+Punjab,Wheat,2021,5,2021-05-01,Bhucho APMC,1975.0,bhucho,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Bhulath (Ibrahimaaaaval) APMC,1975.0,bhulath (ibrahimaaaaval),Kapurthala
+Punjab,Wheat,2021,5,2021-05-01,Bhulath (Nadala) APMC,1975.0,bhulath (nadala),Kapurthala
+Punjab,Wheat,2021,5,2021-05-01,Bhulath APMC,1975.0,bhulath,Kapurthala
+Punjab,Wheat,2021,5,2021-05-01,Bilga (Talwan ) APMC,1975.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Bilga APMC,1975.0,bilga,Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Boha APMC,1975.0,boha,Mansa
+Punjab,Wheat,2021,5,2021-05-01,Budalada APMC,,budalada,Mansa
+Punjab,Wheat,2021,5,2021-05-01,Budhlada (Phaphre Bhaike) APMC,1975.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2021,5,2021-05-01,Chabhal APMC,1975.0,chabhal,Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Chanarthal APMC,1975.0,chanarthal,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Dakala APMC,1975.0,dakala,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Dasuya APMC,1975.0,dasuya,Hoshiarpur
+Punjab,Wheat,2021,5,2021-05-01,Dera Bassi APMC,,dera bassi,S.A.S Nagar
+Punjab,Wheat,2021,5,2021-05-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Wheat,2021,5,2021-05-01,Dharamkot APMC,1975.0,dharamkot,Moga
+Punjab,Wheat,2021,5,2021-05-01,Dhariwal APMC,1975.0,dhariwal,Gurdaspur
+Punjab,Wheat,2021,5,2021-05-01,Dhilwan APMC,1975.0,dhilwan,Kapurthala
+Punjab,Wheat,2021,5,2021-05-01,Dinanagar APMC,1975.0,dinanagar,Gurdaspur
+Punjab,Wheat,2021,5,2021-05-01,Dirba APMC,,dirba,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Dudhansadhan APMC,,dudhansadhan,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Faridkot (Machakikalan) APMC,1975.0,faridkot (machakikalan),Faridkot
+Punjab,Wheat,2021,5,2021-05-01,Faridkot APMC,1975.0,faridkot,Faridkot
+Punjab,Wheat,2021,5,2021-05-01,Firozepur City APMC,1975.0,firozepur city,Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Garh Shankar APMC,1975.0,garh shankar,Hoshiarpur
+Punjab,Wheat,2021,5,2021-05-01,Garh Shankar(Mahalpur) APMC,1975.0,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2021,5,2021-05-01,GarhShankar (Kotfatuhi) APMC,1975.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2021,5,2021-05-01,Garhshankar(Saila Khurd) APMC,1975.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2021,5,2021-05-01,Gehri(Jandiala mandi) APMC,1975.0,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Giddarbaha APMC,1975.0,giddarbaha,Sri Muktsar Sahib
+Punjab,Wheat,2021,5,2021-05-01,Guru Har Sahai APMC,1975.0,guru har sahai,Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Hathur APMC,1975.0,hathur,Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Jagraon APMC,1975.0,jagraon,Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Jaitu APMC,1975.0,jaitu,Faridkot
+Punjab,Wheat,2021,5,2021-05-01,Jaitu(Bajakhana) APMC,1975.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2021,5,2021-05-01,Jalalabad APMC,1975.0,jalalabad,Fazilka
+Punjab,Wheat,2021,5,2021-05-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,1975.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Jalandhar Cantt. APMC,1975.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Jalandhar City APMC,1975.0,jalandhar city,Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Jalandhar City(Faintan Ganj) APMC,1975.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,1975.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Kahnuwan APMC,1975.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2021,5,2021-05-01,Khadur Sahib APMC,1975.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2021,5,2021-05-01,Khanauri APMC,,khanauri,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Kharar APMC,1975.0,kharar,S.A.S Nagar
+Punjab,Wheat,2021,5,2021-05-01,Kot ise Khan APMC,1980.0,kot ise khan,Moga
+Punjab,Wheat,2021,5,2021-05-01,Lehra Gaga APMC,1975.0,lehra gaga,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Majitha APMC,1975.0,majitha,Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Malerkotla APMC,1975.0,malerkotla,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Malout (Kilianwali) APMC,1975.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2021,5,2021-05-01,Malout (Panniwala) APMC,1975.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2021,5,2021-05-01,Malout APMC,1975.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2021,5,2021-05-01,Mamdot APMC,,mamdot,Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Mansa (Khiala kalan) APMC,1975.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2021,5,2021-05-01,Mansa APMC,1975.0,mansa,Mansa
+Punjab,Wheat,2021,5,2021-05-01,Mansa(Ubha Buraj Dhilwan) APMC,1975.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2021,5,2021-05-01,Maur APMC,1975.0,maur,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Mehal Kalan APMC,1975.0,mehal kalan,Barnala
+Punjab,Wheat,2021,5,2021-05-01,Mehatpur APMC,1975.0,mehatpur,Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Moga APMC,,moga,Moga
+Punjab,Wheat,2021,5,2021-05-01,Muktsar APMC,,muktsar,Sri Muktsar Sahib
+Punjab,Wheat,2021,5,2021-05-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2021,5,2021-05-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Nabha APMC,,nabha,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Naushera Pannua (Dhotian) APMC,1950.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2021,5,2021-05-01,Naushera Pannuan APMC,1951.89,naushera pannuan,Tarn Taran
+Punjab,Wheat,2021,5,2021-05-01,Nawan Shahar(Mandi Jadla) APMC,1975.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,5,2021-05-01,Nawan Shahar(MandiRaho) APMC,1975.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,5,2021-05-01,Nawanshahar APMC,1969.04,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2021,5,2021-05-01,Noor Mehal APMC,1975.0,noor mehal,Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Noor Mehal(Kot Badal Khan) APMC,1975.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Patiala(Anaj Mandi Sanaur Road) APMC,,patiala(anaj mandi sanaur road),Patiala
+Punjab,Wheat,2021,5,2021-05-01,Patiala(New Anaj Mandi) APMC,1975.0,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2021,5,2021-05-01,Patran APMC,1975.0,patran,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Patran(Ghagga Mandi) APMC,1975.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2021,5,2021-05-01,Patti APMC,1975.0,patti,Tarn Taran
+Punjab,Wheat,2021,5,2021-05-01,Phillaur APMC,,phillaur,Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Phillaur(Apra Mandi) APMC,,phillaur(apra mandi),Jalandhar
+Punjab,Wheat,2021,5,2021-05-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Raman APMC,1975.03,raman,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rampura Phul APMC,1975.0,rampura phul,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rampuraphul(Bhai Rupan) APMC,1975.0,rampuraphul(bhai rupan),Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rampuraphul(Chowke) APMC,1975.0,rampuraphul(chowke),Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rampuraphul(Dhapali) APMC,1975.0,rampuraphul(dhapali),Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rampuraphul(Mehraj) APMC,1975.0,rampuraphul(mehraj),Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rampuraphul(Nabha Mandi) APMC,1975.0,rampuraphul(nabha mandi),Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Rayya APMC,1975.0,rayya,Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Rayya(Sathiala) APMC,1975.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Ropar APMC,1975.0,ropar,Rupnagar
+Punjab,Wheat,2021,5,2021-05-01,Sadiq APMC,1975.0,sadiq,Faridkot
+Punjab,Wheat,2021,5,2021-05-01,Sahnewal APMC,1975.0,sahnewal,Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Samana APMC,1975.0,samana,Patiala
+Punjab,Wheat,2021,5,2021-05-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Wheat,2021,5,2021-05-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Wheat,2021,5,2021-05-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Sangat APMC,1975.0,sangat,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Sangrur APMC,1975.0,sangrur,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Sardulgarh APMC,1975.0,sardulgarh,Mansa
+Punjab,Wheat,2021,5,2021-05-01,Sherpur APMC,1975.0,sherpur,Gurdaspur
+Punjab,Wheat,2021,5,2021-05-01,Sidhwan Bet (Lodhiwala) APMC,1975.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Sidhwan Bet APMC,1975.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2021,5,2021-05-01,Sirhind APMC,1975.42,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2021,5,2021-05-01,Sri Har Gobindpur APMC,,sri har gobindpur,Gurdaspur
+Punjab,Wheat,2021,5,2021-05-01,Sulargharat APMC,1975.0,sulargharat,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Sultanpur APMC,1975.0,sultanpur,Sangrur
+Punjab,Wheat,2021,5,2021-05-01,Sultanpur Lodhi (Tibba) APMC,1975.0,sultanpur lodhi (tibba),Kapurthala
+Punjab,Wheat,2021,5,2021-05-01,Talwandi Bhai APMC,1975.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Talwandi Bhai(Mudki) APMC,1975.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2021,5,2021-05-01,Talwandi Sabo APMC,,talwandi sabo,Bathinda
+Punjab,Wheat,2021,5,2021-05-01,Tarantaran APMC,1975.0,tarantaran,Amritsar
+Punjab,Wheat,2021,5,2021-05-01,Zira APMC,1975.0,zira,Ferozepur
+Punjab,Wheat,2022,1,2022-01-01,Nawanshahar APMC,1948.04,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,3,2022-03-01,Nawanshahar APMC,2028.55,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,4,2022-04-01,Abohar APMC,2015.01,abohar,Fazilka
+Punjab,Wheat,2022,4,2022-04-01,Adampur APMC,,adampur,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Ajitwal (Chogawan) APMC,,ajitwal (chogawan),Moga
+Punjab,Wheat,2022,4,2022-04-01,Ajitwal (Dala) APMC,,ajitwal (dala),Moga
+Punjab,Wheat,2022,4,2022-04-01,Ajitwal APMC,,ajitwal,Moga
+Punjab,Wheat,2022,4,2022-04-01,Amargarh APMC,2015.0,amargarh,Malerkotla
+Punjab,Wheat,2022,4,2022-04-01,Amloh APMC,2015.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2022,4,2022-04-01,Amloh(Gobind Garh Mandi) APMC,2015.0,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2022,4,2022-04-01,Badhni Kalan APMC,2015.0,badhni kalan,Moga
+Punjab,Wheat,2022,4,2022-04-01,Badhni Kallan (Bilaspur) APMC,2015.0,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2022,4,2022-04-01,Baghapurana APMC,,baghapurana,Moga
+Punjab,Wheat,2022,4,2022-04-01,Banga (Kataria) APMC,,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,4,2022-04-01,Banur (Kheragaju) APMC,,banur (kheragaju),Patiala
+Punjab,Wheat,2022,4,2022-04-01,Banur APMC,,banur,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Bareta APMC,2015.0,bareta,Mansa
+Punjab,Wheat,2022,4,2022-04-01,Bariwala APMC,2015.26,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2022,4,2022-04-01,Barnala APMC,,barnala,Barnala
+Punjab,Wheat,2022,4,2022-04-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2022,4,2022-04-01,Bhadaur APMC,,bhadaur,Barnala
+Punjab,Wheat,2022,4,2022-04-01,Bhadaur(Sehna) APMC,,bhadaur(sehna),Barnala
+Punjab,Wheat,2022,4,2022-04-01,Bhadson APMC,2015.0,bhadson,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Bhawanigarh APMC,2015.0,bhawanigarh,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Bhikhi APMC,2015.0,bhikhi,Mansa
+Punjab,Wheat,2022,4,2022-04-01,Bhucho APMC,2015.0,bhucho,Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Bhulath (Ibrahimaaaaval) APMC,,bhulath (ibrahimaaaaval),Kapurthala
+Punjab,Wheat,2022,4,2022-04-01,Bhulath (Nadala) APMC,,bhulath (nadala),Kapurthala
+Punjab,Wheat,2022,4,2022-04-01,Bhulath APMC,,bhulath,Kapurthala
+Punjab,Wheat,2022,4,2022-04-01,Bilga (Talwan ) APMC,2015.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Bilga APMC,2015.0,bilga,Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Boha APMC,2015.0,boha,Mansa
+Punjab,Wheat,2022,4,2022-04-01,Budalada APMC,2015.0,budalada,Mansa
+Punjab,Wheat,2022,4,2022-04-01,Budhlada (Phaphre Bhaike) APMC,2015.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2022,4,2022-04-01,Chabhal APMC,2015.0,chabhal,Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Chanarthal APMC,2015.0,chanarthal,Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Dakala APMC,2015.0,dakala,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Dasuya APMC,2015.0,dasuya,Hoshiarpur
+Punjab,Wheat,2022,4,2022-04-01,Dera Bassi APMC,2015.0,dera bassi,S.A.S Nagar
+Punjab,Wheat,2022,4,2022-04-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Wheat,2022,4,2022-04-01,Dharamkot APMC,,dharamkot,Moga
+Punjab,Wheat,2022,4,2022-04-01,Dhariwal APMC,,dhariwal,Gurdaspur
+Punjab,Wheat,2022,4,2022-04-01,Dhilwan APMC,2015.0,dhilwan,Kapurthala
+Punjab,Wheat,2022,4,2022-04-01,Dinanagar APMC,2015.0,dinanagar,Gurdaspur
+Punjab,Wheat,2022,4,2022-04-01,Dirba APMC,,dirba,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Dudhansadhan APMC,,dudhansadhan,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Faridkot (Machakikalan) APMC,,faridkot (machakikalan),Faridkot
+Punjab,Wheat,2022,4,2022-04-01,Faridkot APMC,,faridkot,Faridkot
+Punjab,Wheat,2022,4,2022-04-01,Firozepur City APMC,2015.0,firozepur city,Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Wheat,2022,4,2022-04-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2022,4,2022-04-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2022,4,2022-04-01,Garhshankar(Saila Khurd) APMC,2015.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2022,4,2022-04-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Giddarbaha APMC,,giddarbaha,Sri Muktsar Sahib
+Punjab,Wheat,2022,4,2022-04-01,Guru Har Sahai APMC,2015.0,guru har sahai,Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Hathur APMC,2015.0,hathur,Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Jagraon APMC,2018.55,jagraon,Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Jaitu APMC,2015.0,jaitu,Faridkot
+Punjab,Wheat,2022,4,2022-04-01,Jaitu(Bajakhana) APMC,2015.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2022,4,2022-04-01,Jalalabad APMC,2015.0,jalalabad,Fazilka
+Punjab,Wheat,2022,4,2022-04-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2015.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Jalandhar Cantt. APMC,2015.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Jalandhar City APMC,2015.0,jalandhar city,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Jalandhar City(Faintan Ganj) APMC,2015.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2015.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Kahnuwan APMC,2015.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2022,4,2022-04-01,Khadur Sahib APMC,2015.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2022,4,2022-04-01,Khanauri APMC,,khanauri,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Wheat,2022,4,2022-04-01,Kot ise Khan APMC,2020.0,kot ise khan,Moga
+Punjab,Wheat,2022,4,2022-04-01,Lehra Gaga APMC,,lehra gaga,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Majitha APMC,2015.0,majitha,Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Malerkotla APMC,,malerkotla,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Malout (Kilianwali) APMC,2015.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2022,4,2022-04-01,Malout (Panniwala) APMC,2015.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2022,4,2022-04-01,Malout APMC,2015.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2022,4,2022-04-01,Mamdot APMC,,mamdot,Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Mansa (Khiala kalan) APMC,2015.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2022,4,2022-04-01,Mansa APMC,2015.0,mansa,Mansa
+Punjab,Wheat,2022,4,2022-04-01,Mansa(Ubha Buraj Dhilwan) APMC,2015.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2022,4,2022-04-01,Maur APMC,2015.0,maur,Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Mehal Kalan APMC,2015.0,mehal kalan,Barnala
+Punjab,Wheat,2022,4,2022-04-01,Mehal Kallan (ChananWal) APMC,2015.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2022,4,2022-04-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Mehta APMC,2015.0,mehta,Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Moga APMC,,moga,Moga
+Punjab,Wheat,2022,4,2022-04-01,Muktsar APMC,,muktsar,Sri Muktsar Sahib
+Punjab,Wheat,2022,4,2022-04-01,Mullanpur APMC,2015.0,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2022,4,2022-04-01,Mullanpur Dakha (Sawadi) APMC,2015.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Nabha APMC,2015.0,nabha,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Nakodar APMC,2015.0,nakodar,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Nakodar(Sarih) APMC,2015.0,nakodar(sarih),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Naushera Pannua (Dhotian) APMC,2015.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2022,4,2022-04-01,Naushera Pannuan APMC,2015.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2022,4,2022-04-01,Nawan Shahar(Mandi Jadla) APMC,2015.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,4,2022-04-01,Nawan Shahar(MandiRaho) APMC,2015.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,4,2022-04-01,Nawanshahar APMC,2015.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,4,2022-04-01,Noor Mehal APMC,2015.0,noor mehal,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Noor Mehal(Kot Badal Khan) APMC,2015.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Patiala(Anaj Mandi Sanaur Road) APMC,,patiala(anaj mandi sanaur road),Patiala
+Punjab,Wheat,2022,4,2022-04-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2022,4,2022-04-01,Patran APMC,2015.0,patran,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Patran(Ghagga Mandi) APMC,2015.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2022,4,2022-04-01,Patti APMC,2015.0,patti,Tarn Taran
+Punjab,Wheat,2022,4,2022-04-01,Phillaur APMC,,phillaur,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Phillaur(Apra Mandi) APMC,,phillaur(apra mandi),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Rajpura APMC,2015.06,rajpura,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Raman APMC,,raman,Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rampura Phul APMC,,rampura phul,Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rampuraphul(Bhai Rupan) APMC,,rampuraphul(bhai rupan),Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rampuraphul(Chowke) APMC,,rampuraphul(chowke),Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rampuraphul(Dhapali) APMC,,rampuraphul(dhapali),Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rampuraphul(Mehraj) APMC,,rampuraphul(mehraj),Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rampuraphul(Nabha Mandi) APMC,,rampuraphul(nabha mandi),Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Rayya APMC,2015.0,rayya,Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Rayya(Sathiala) APMC,2015.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Wheat,2022,4,2022-04-01,Sadiq APMC,2015.0,sadiq,Faridkot
+Punjab,Wheat,2022,4,2022-04-01,Sahnewal APMC,2015.0,sahnewal,Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Samana APMC,2015.0,samana,Patiala
+Punjab,Wheat,2022,4,2022-04-01,Samana(Gajewas) APMC,2015.0,samana(gajewas),Patiala
+Punjab,Wheat,2022,4,2022-04-01,Samana(Kakrala) APMC,2015.0,samana(kakrala),Patiala
+Punjab,Wheat,2022,4,2022-04-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Sandaur APMC,2015.0,sandaur,Malerkotla
+Punjab,Wheat,2022,4,2022-04-01,Sangat APMC,2015.0,sangat,Bathinda
+Punjab,Wheat,2022,4,2022-04-01,Sangrur APMC,2019.23,sangrur,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Sardulgarh APMC,,sardulgarh,Mansa
+Punjab,Wheat,2022,4,2022-04-01,Shahkot APMC,2015.0,shahkot,Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Shakot (Malsian) APMC,2015.0,shakot (malsian),Jalandhar
+Punjab,Wheat,2022,4,2022-04-01,Sherpur APMC,2015.0,sherpur,Gurdaspur
+Punjab,Wheat,2022,4,2022-04-01,Sidhwan Bet (Lodhiwala) APMC,2015.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Sidhwan Bet APMC,2015.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2022,4,2022-04-01,Sirhind APMC,2015.02,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2022,4,2022-04-01,Sri Har Gobindpur APMC,,sri har gobindpur,Gurdaspur
+Punjab,Wheat,2022,4,2022-04-01,Sulargharat APMC,2015.0,sulargharat,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Sultanpur APMC,2015.0,sultanpur,Sangrur
+Punjab,Wheat,2022,4,2022-04-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Wheat,2022,4,2022-04-01,Talwandi Bhai APMC,2015.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Talwandi Bhai(Mudki) APMC,2015.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2022,4,2022-04-01,Tarantaran APMC,2015.0,tarantaran,Amritsar
+Punjab,Wheat,2022,4,2022-04-01,Zira APMC,2015.0,zira,Ferozepur
+Punjab,Wheat,2022,5,2022-05-01,Abohar APMC,2015.47,abohar,Fazilka
+Punjab,Wheat,2022,5,2022-05-01,Adampur APMC,,adampur,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Ajitwal (Chogawan) APMC,,ajitwal (chogawan),Moga
+Punjab,Wheat,2022,5,2022-05-01,Ajitwal (Dala) APMC,,ajitwal (dala),Moga
+Punjab,Wheat,2022,5,2022-05-01,Ajitwal APMC,,ajitwal,Moga
+Punjab,Wheat,2022,5,2022-05-01,Amargarh APMC,2015.0,amargarh,Malerkotla
+Punjab,Wheat,2022,5,2022-05-01,Amloh APMC,2018.54,amloh,Fatehgarh Sahib
+Punjab,Wheat,2022,5,2022-05-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2022,5,2022-05-01,Badhni Kalan APMC,,badhni kalan,Moga
+Punjab,Wheat,2022,5,2022-05-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2022,5,2022-05-01,Baghapurana APMC,,baghapurana,Moga
+Punjab,Wheat,2022,5,2022-05-01,Banga (Kataria) APMC,,banga (kataria),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,5,2022-05-01,Banur (Kheragaju) APMC,,banur (kheragaju),Patiala
+Punjab,Wheat,2022,5,2022-05-01,Banur APMC,,banur,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Bareta APMC,,bareta,Mansa
+Punjab,Wheat,2022,5,2022-05-01,Bariwala APMC,2015.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2022,5,2022-05-01,Bassi Pathana APMC,2015.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2022,5,2022-05-01,Bhadaur APMC,,bhadaur,Barnala
+Punjab,Wheat,2022,5,2022-05-01,Bhadaur(Sehna) APMC,,bhadaur(sehna),Barnala
+Punjab,Wheat,2022,5,2022-05-01,Bhadson APMC,2015.0,bhadson,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Bhawanigarh APMC,2015.0,bhawanigarh,Sangrur
+Punjab,Wheat,2022,5,2022-05-01,Bhikhi APMC,2015.0,bhikhi,Mansa
+Punjab,Wheat,2022,5,2022-05-01,Bhucho APMC,2015.0,bhucho,Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Bhulath (Ibrahimaaaaval) APMC,,bhulath (ibrahimaaaaval),Kapurthala
+Punjab,Wheat,2022,5,2022-05-01,Bhulath (Nadala) APMC,,bhulath (nadala),Kapurthala
+Punjab,Wheat,2022,5,2022-05-01,Bhulath APMC,,bhulath,Kapurthala
+Punjab,Wheat,2022,5,2022-05-01,Bilga (Talwan ) APMC,2015.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Bilga APMC,2015.0,bilga,Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Boha APMC,2024.31,boha,Mansa
+Punjab,Wheat,2022,5,2022-05-01,Budalada APMC,,budalada,Mansa
+Punjab,Wheat,2022,5,2022-05-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2022,5,2022-05-01,Chabhal APMC,2015.0,chabhal,Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Chanarthal APMC,2015.0,chanarthal,Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Dakala APMC,2015.0,dakala,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Dasuya APMC,2015.0,dasuya,Hoshiarpur
+Punjab,Wheat,2022,5,2022-05-01,Dera Bassi APMC,,dera bassi,S.A.S Nagar
+Punjab,Wheat,2022,5,2022-05-01,Dharamkot APMC,,dharamkot,Moga
+Punjab,Wheat,2022,5,2022-05-01,Dhariwal APMC,,dhariwal,Gurdaspur
+Punjab,Wheat,2022,5,2022-05-01,Dhilwan APMC,2015.0,dhilwan,Kapurthala
+Punjab,Wheat,2022,5,2022-05-01,Dinanagar APMC,2015.0,dinanagar,Gurdaspur
+Punjab,Wheat,2022,5,2022-05-01,Faridkot (Machakikalan) APMC,,faridkot (machakikalan),Faridkot
+Punjab,Wheat,2022,5,2022-05-01,Faridkot APMC,,faridkot,Faridkot
+Punjab,Wheat,2022,5,2022-05-01,Firozepur City APMC,2015.0,firozepur city,Ferozepur
+Punjab,Wheat,2022,5,2022-05-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Wheat,2022,5,2022-05-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2022,5,2022-05-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2022,5,2022-05-01,Garhshankar(Saila Khurd) APMC,2015.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2022,5,2022-05-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Giddarbaha APMC,2015.0,giddarbaha,Sri Muktsar Sahib
+Punjab,Wheat,2022,5,2022-05-01,Guru Har Sahai APMC,2015.0,guru har sahai,Ferozepur
+Punjab,Wheat,2022,5,2022-05-01,Hathur APMC,2015.0,hathur,Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Jagraon APMC,2557.0,jagraon,Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Jaitu APMC,2015.0,jaitu,Faridkot
+Punjab,Wheat,2022,5,2022-05-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2022,5,2022-05-01,Jalalabad APMC,2015.0,jalalabad,Fazilka
+Punjab,Wheat,2022,5,2022-05-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2015.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Jalandhar City APMC,2015.0,jalandhar city,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2015.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Kahnuwan APMC,2015.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2022,5,2022-05-01,Khadur Sahib APMC,,khadur sahib,Tarn Taran
+Punjab,Wheat,2022,5,2022-05-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Wheat,2022,5,2022-05-01,Kot ise Khan APMC,2020.0,kot ise khan,Moga
+Punjab,Wheat,2022,5,2022-05-01,Lehra Gaga APMC,,lehra gaga,Sangrur
+Punjab,Wheat,2022,5,2022-05-01,Majitha APMC,2015.0,majitha,Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Malerkotla APMC,,malerkotla,Sangrur
+Punjab,Wheat,2022,5,2022-05-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2022,5,2022-05-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2022,5,2022-05-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Wheat,2022,5,2022-05-01,Mansa (Khiala kalan) APMC,2015.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2022,5,2022-05-01,Mansa APMC,2015.0,mansa,Mansa
+Punjab,Wheat,2022,5,2022-05-01,Mansa(Ubha Buraj Dhilwan) APMC,2015.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2022,5,2022-05-01,Maur APMC,2015.0,maur,Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Mehal Kalan APMC,2015.0,mehal kalan,Barnala
+Punjab,Wheat,2022,5,2022-05-01,Mehal Kallan (ChananWal) APMC,2015.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2022,5,2022-05-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Mehta APMC,2015.0,mehta,Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2022,5,2022-05-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Nabha APMC,2015.0,nabha,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2022,5,2022-05-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Wheat,2022,5,2022-05-01,Nawan Shahar(Mandi Jadla) APMC,2015.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,5,2022-05-01,Nawan Shahar(MandiRaho) APMC,2015.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,5,2022-05-01,Nawanshahar APMC,2015.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,5,2022-05-01,Noor Mehal APMC,2015.0,noor mehal,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Noor Mehal(Kot Badal Khan) APMC,2015.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2022,5,2022-05-01,Patran APMC,2015.0,patran,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Wheat,2022,5,2022-05-01,Patti APMC,2015.0,patti,Tarn Taran
+Punjab,Wheat,2022,5,2022-05-01,Rajpura APMC,2036.22,rajpura,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Raman APMC,,raman,Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rampura Phul APMC,,rampura phul,Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rampuraphul(Bhai Rupan) APMC,,rampuraphul(bhai rupan),Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rampuraphul(Chowke) APMC,,rampuraphul(chowke),Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rampuraphul(Dhapali) APMC,,rampuraphul(dhapali),Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rampuraphul(Mehraj) APMC,,rampuraphul(mehraj),Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rampuraphul(Nabha Mandi) APMC,,rampuraphul(nabha mandi),Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Rayya APMC,2015.0,rayya,Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Rayya(Sathiala) APMC,2015.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Wheat,2022,5,2022-05-01,Sadiq APMC,2015.0,sadiq,Faridkot
+Punjab,Wheat,2022,5,2022-05-01,Sahnewal APMC,2015.0,sahnewal,Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Samana APMC,,samana,Patiala
+Punjab,Wheat,2022,5,2022-05-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Wheat,2022,5,2022-05-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Wheat,2022,5,2022-05-01,Sandaur APMC,,sandaur,Malerkotla
+Punjab,Wheat,2022,5,2022-05-01,Sangat APMC,2015.0,sangat,Bathinda
+Punjab,Wheat,2022,5,2022-05-01,Sangrur APMC,,sangrur,Sangrur
+Punjab,Wheat,2022,5,2022-05-01,Sardulgarh APMC,,sardulgarh,Mansa
+Punjab,Wheat,2022,5,2022-05-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Wheat,2022,5,2022-05-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Wheat,2022,5,2022-05-01,Sidhwan Bet (Lodhiwala) APMC,2015.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Sidhwan Bet APMC,2015.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2022,5,2022-05-01,Sirhind APMC,2020.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2022,5,2022-05-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Wheat,2022,5,2022-05-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Wheat,2022,5,2022-05-01,Sultanpur Lodhi (Tibba) APMC,,sultanpur lodhi (tibba),Kapurthala
+Punjab,Wheat,2022,5,2022-05-01,Talwandi Bhai APMC,2015.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2022,5,2022-05-01,Talwandi Bhai(Mudki) APMC,2015.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2022,5,2022-05-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Wheat,2022,5,2022-05-01,Zira APMC,,zira,Ferozepur
+Punjab,Wheat,2022,6,2022-06-01,Abohar APMC,,abohar,Fazilka
+Punjab,Wheat,2022,6,2022-06-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Wheat,2022,6,2022-06-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Wheat,2022,6,2022-06-01,Bariwala APMC,,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2022,6,2022-06-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2022,6,2022-06-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Wheat,2022,6,2022-06-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Wheat,2022,6,2022-06-01,Bhikhi APMC,,bhikhi,Mansa
+Punjab,Wheat,2022,6,2022-06-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Wheat,2022,6,2022-06-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Boha APMC,,boha,Mansa
+Punjab,Wheat,2022,6,2022-06-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Wheat,2022,6,2022-06-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Wheat,2022,6,2022-06-01,Dakala APMC,,dakala,Patiala
+Punjab,Wheat,2022,6,2022-06-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Wheat,2022,6,2022-06-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Wheat,2022,6,2022-06-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Wheat,2022,6,2022-06-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Wheat,2022,6,2022-06-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2022,6,2022-06-01,Giddarbaha APMC,,giddarbaha,Sri Muktsar Sahib
+Punjab,Wheat,2022,6,2022-06-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Wheat,2022,6,2022-06-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Wheat,2022,6,2022-06-01,Jalalabad APMC,,jalalabad,Fazilka
+Punjab,Wheat,2022,6,2022-06-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2022,6,2022-06-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Wheat,2022,6,2022-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2022,6,2022-06-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Wheat,2022,6,2022-06-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Wheat,2022,6,2022-06-01,Majitha APMC,,majitha,Amritsar
+Punjab,Wheat,2022,6,2022-06-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Wheat,2022,6,2022-06-01,Mansa APMC,,mansa,Mansa
+Punjab,Wheat,2022,6,2022-06-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2022,6,2022-06-01,Maur APMC,,maur,Bathinda
+Punjab,Wheat,2022,6,2022-06-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Wheat,2022,6,2022-06-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2022,6,2022-06-01,Mehta APMC,,mehta,Amritsar
+Punjab,Wheat,2022,6,2022-06-01,Nabha APMC,,nabha,Patiala
+Punjab,Wheat,2022,6,2022-06-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,6,2022-06-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,6,2022-06-01,Nawanshahar APMC,2025.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,6,2022-06-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Wheat,2022,6,2022-06-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2022,6,2022-06-01,Patran APMC,,patran,Patiala
+Punjab,Wheat,2022,6,2022-06-01,Patti APMC,,patti,Tarn Taran
+Punjab,Wheat,2022,6,2022-06-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Wheat,2022,6,2022-06-01,Rayya APMC,,rayya,Amritsar
+Punjab,Wheat,2022,6,2022-06-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Wheat,2022,6,2022-06-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Wheat,2022,6,2022-06-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Sangat APMC,,sangat,Bathinda
+Punjab,Wheat,2022,6,2022-06-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Wheat,2022,6,2022-06-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2022,6,2022-06-01,Talwandi Bhai APMC,,talwandi bhai,Ferozepur
+Punjab,Wheat,2022,6,2022-06-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2022,7,2022-07-01,Nawanshahar APMC,2066.89,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2022,10,2022-10-01,Sangat APMC,2060.0,sangat,Bathinda
+Punjab,Wheat,2023,1,2023-01-01,Kurali APMC,2722.67,kurali,S.A.S Nagar
+Punjab,Wheat,2023,1,2023-01-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,4,2023-04-01,Abohar APMC,2125.0,abohar,Fazilka
+Punjab,Wheat,2023,4,2023-04-01,Ajitwal (Chogawan) APMC,2125.0,ajitwal (chogawan),Moga
+Punjab,Wheat,2023,4,2023-04-01,Ajitwal (Dala) APMC,2125.0,ajitwal (dala),Moga
+Punjab,Wheat,2023,4,2023-04-01,Ajitwal APMC,2125.0,ajitwal,Moga
+Punjab,Wheat,2023,4,2023-04-01,Amargarh APMC,2125.0,amargarh,Malerkotla
+Punjab,Wheat,2023,4,2023-04-01,Amloh APMC,2125.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2023,4,2023-04-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2023,4,2023-04-01,Attari APMC,2125.0,attari,Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Badhni Kalan APMC,,badhni kalan,Moga
+Punjab,Wheat,2023,4,2023-04-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2023,4,2023-04-01,Bareta APMC,2125.0,bareta,Mansa
+Punjab,Wheat,2023,4,2023-04-01,Bariwala APMC,,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2023,4,2023-04-01,Bassi Pathana APMC,2125.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2023,4,2023-04-01,Bhadson APMC,2125.0,bhadson,Patiala
+Punjab,Wheat,2023,4,2023-04-01,Bhawanigarh APMC,2125.34,bhawanigarh,Sangrur
+Punjab,Wheat,2023,4,2023-04-01,Bhikhi APMC,2125.0,bhikhi,Mansa
+Punjab,Wheat,2023,4,2023-04-01,Bhucho APMC,2125.0,bhucho,Bathinda
+Punjab,Wheat,2023,4,2023-04-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Boha APMC,2125.0,boha,Mansa
+Punjab,Wheat,2023,4,2023-04-01,Budalada APMC,2125.0,budalada,Mansa
+Punjab,Wheat,2023,4,2023-04-01,Budhlada (Phaphre Bhaike) APMC,2125.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2023,4,2023-04-01,Chabhal APMC,2125.0,chabhal,Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Chanarthal APMC,2125.0,chanarthal,Bathinda
+Punjab,Wheat,2023,4,2023-04-01,Dakala APMC,,dakala,Patiala
+Punjab,Wheat,2023,4,2023-04-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Wheat,2023,4,2023-04-01,Dera Bassi APMC,,dera bassi,S.A.S Nagar
+Punjab,Wheat,2023,4,2023-04-01,Dhilwan APMC,2125.0,dhilwan,Kapurthala
+Punjab,Wheat,2023,4,2023-04-01,Dinanagar APMC,2125.0,dinanagar,Gurdaspur
+Punjab,Wheat,2023,4,2023-04-01,Firozepur City APMC,2125.0,firozepur city,Ferozepur
+Punjab,Wheat,2023,4,2023-04-01,Garhshankar(Saila Khurd) APMC,2125.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2023,4,2023-04-01,Gehri(Jandiala mandi) APMC,2125.0,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Guru Har Sahai APMC,2125.0,guru har sahai,Ferozepur
+Punjab,Wheat,2023,4,2023-04-01,Hathur APMC,2125.0,hathur,Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Jaitu APMC,2125.0,jaitu,Faridkot
+Punjab,Wheat,2023,4,2023-04-01,Jaitu(Bajakhana) APMC,2125.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2023,4,2023-04-01,Jalalabad APMC,2125.0,jalalabad,Fazilka
+Punjab,Wheat,2023,4,2023-04-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2125.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Jalandhar Cantt. APMC,2125.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Jalandhar City APMC,2125.0,jalandhar city,Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Jalandhar City(Faintan Ganj) APMC,2125.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2125.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Kahnuwan APMC,2125.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2023,4,2023-04-01,Khadur Sahib APMC,2127.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2023,4,2023-04-01,Kharar APMC,2125.0,kharar,S.A.S Nagar
+Punjab,Wheat,2023,4,2023-04-01,Khem karan APMC,2125.0,khem karan,Tarn Taran
+Punjab,Wheat,2023,4,2023-04-01,Khemkaran (Amarkot) APMC,2125.0,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2023,4,2023-04-01,Kot ise Khan APMC,2130.0,kot ise khan,Moga
+Punjab,Wheat,2023,4,2023-04-01,Machhiwara APMC,2125.0,machhiwara,Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Majitha APMC,2125.0,majitha,Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Malout (Kilianwali) APMC,2125.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2023,4,2023-04-01,Malout (Panniwala) APMC,2125.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2023,4,2023-04-01,Malout APMC,2125.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2023,4,2023-04-01,Mansa (Khiala kalan) APMC,2125.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2023,4,2023-04-01,Mansa APMC,2125.0,mansa,Mansa
+Punjab,Wheat,2023,4,2023-04-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2023,4,2023-04-01,Maur APMC,2125.0,maur,Bathinda
+Punjab,Wheat,2023,4,2023-04-01,Mehal Kalan APMC,2125.0,mehal kalan,Barnala
+Punjab,Wheat,2023,4,2023-04-01,Mehal Kallan (ChananWal) APMC,2125.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2023,4,2023-04-01,Mehta APMC,2125.0,mehta,Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Mullanpur APMC,2125.0,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2023,4,2023-04-01,Mullanpur Dakha (Sawadi) APMC,2125.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Nabha APMC,,nabha,Patiala
+Punjab,Wheat,2023,4,2023-04-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Naushera Pannua (Dhotian) APMC,2125.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2023,4,2023-04-01,Naushera Pannuan APMC,2125.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2023,4,2023-04-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,4,2023-04-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,4,2023-04-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,4,2023-04-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Patiala(New Anaj Mandi) APMC,2122.55,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2023,4,2023-04-01,Patran APMC,2125.0,patran,Patiala
+Punjab,Wheat,2023,4,2023-04-01,Patran(Ghagga Mandi) APMC,2125.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2023,4,2023-04-01,Patti APMC,,patti,Tarn Taran
+Punjab,Wheat,2023,4,2023-04-01,Rajpura APMC,2125.05,rajpura,Patiala
+Punjab,Wheat,2023,4,2023-04-01,Rayya APMC,2125.0,rayya,Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Rayya(Sathiala) APMC,2125.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Sadiq APMC,2125.0,sadiq,Faridkot
+Punjab,Wheat,2023,4,2023-04-01,Sahnewal APMC,2125.0,sahnewal,Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Samana APMC,2125.0,samana,Patiala
+Punjab,Wheat,2023,4,2023-04-01,Samana(Gajewas) APMC,2125.0,samana(gajewas),Patiala
+Punjab,Wheat,2023,4,2023-04-01,Samana(Kakrala) APMC,2125.0,samana(kakrala),Patiala
+Punjab,Wheat,2023,4,2023-04-01,Sandaur APMC,,sandaur,Malerkotla
+Punjab,Wheat,2023,4,2023-04-01,Sangat APMC,2125.0,sangat,Bathinda
+Punjab,Wheat,2023,4,2023-04-01,Sangrur APMC,,sangrur,Sangrur
+Punjab,Wheat,2023,4,2023-04-01,Shahkot APMC,2125.0,shahkot,Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Shakot (Malsian) APMC,2125.0,shakot (malsian),Jalandhar
+Punjab,Wheat,2023,4,2023-04-01,Sherpur APMC,2125.0,sherpur,Gurdaspur
+Punjab,Wheat,2023,4,2023-04-01,Sidhwan Bet (Lodhiwala) APMC,2125.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Sidhwan Bet APMC,2125.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2023,4,2023-04-01,Sirhind APMC,2125.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2023,4,2023-04-01,Sulargharat APMC,2125.0,sulargharat,Sangrur
+Punjab,Wheat,2023,4,2023-04-01,Sultanpur APMC,,sultanpur,Sangrur
+Punjab,Wheat,2023,4,2023-04-01,Talwandi Bhai APMC,2125.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2023,4,2023-04-01,Talwandi Bhai(Mudki) APMC,2125.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2023,4,2023-04-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Wheat,2023,4,2023-04-01,Zira APMC,2125.0,zira,Ferozepur
+Punjab,Wheat,2023,5,2023-05-01,Abohar APMC,2125.01,abohar,Fazilka
+Punjab,Wheat,2023,5,2023-05-01,Ajitwal (Chogawan) APMC,2125.0,ajitwal (chogawan),Moga
+Punjab,Wheat,2023,5,2023-05-01,Ajitwal (Dala) APMC,2125.0,ajitwal (dala),Moga
+Punjab,Wheat,2023,5,2023-05-01,Ajitwal APMC,2125.0,ajitwal,Moga
+Punjab,Wheat,2023,5,2023-05-01,Amargarh APMC,2125.0,amargarh,Malerkotla
+Punjab,Wheat,2023,5,2023-05-01,Amloh APMC,2125.01,amloh,Fatehgarh Sahib
+Punjab,Wheat,2023,5,2023-05-01,Attari APMC,2125.0,attari,Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Bareta APMC,2125.0,bareta,Mansa
+Punjab,Wheat,2023,5,2023-05-01,Bariwala APMC,2125.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2023,5,2023-05-01,Bassi Pathana APMC,2125.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2023,5,2023-05-01,Bhadson APMC,2125.0,bhadson,Patiala
+Punjab,Wheat,2023,5,2023-05-01,Bhawanigarh APMC,2125.42,bhawanigarh,Sangrur
+Punjab,Wheat,2023,5,2023-05-01,Bhikhi APMC,2125.0,bhikhi,Mansa
+Punjab,Wheat,2023,5,2023-05-01,Bhucho APMC,2125.0,bhucho,Bathinda
+Punjab,Wheat,2023,5,2023-05-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Boha APMC,2125.0,boha,Mansa
+Punjab,Wheat,2023,5,2023-05-01,Budalada APMC,2125.0,budalada,Mansa
+Punjab,Wheat,2023,5,2023-05-01,Budhlada (Phaphre Bhaike) APMC,2125.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2023,5,2023-05-01,Chabhal APMC,2125.0,chabhal,Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Wheat,2023,5,2023-05-01,Dakala APMC,,dakala,Patiala
+Punjab,Wheat,2023,5,2023-05-01,Dasuya APMC,2125.0,dasuya,Hoshiarpur
+Punjab,Wheat,2023,5,2023-05-01,Dhilwan APMC,2125.0,dhilwan,Kapurthala
+Punjab,Wheat,2023,5,2023-05-01,Dinanagar APMC,2125.0,dinanagar,Gurdaspur
+Punjab,Wheat,2023,5,2023-05-01,Firozepur City APMC,2125.0,firozepur city,Ferozepur
+Punjab,Wheat,2023,5,2023-05-01,Garhshankar(Saila Khurd) APMC,2125.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2023,5,2023-05-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Giddarbaha APMC,,giddarbaha,Sri Muktsar Sahib
+Punjab,Wheat,2023,5,2023-05-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Wheat,2023,5,2023-05-01,Hathur APMC,2125.0,hathur,Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Jagraon APMC,,jagraon,Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Jaitu APMC,2125.0,jaitu,Faridkot
+Punjab,Wheat,2023,5,2023-05-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2023,5,2023-05-01,Jalalabad APMC,2125.0,jalalabad,Fazilka
+Punjab,Wheat,2023,5,2023-05-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2125.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Jalandhar Cantt. APMC,2125.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Jalandhar City APMC,2125.0,jalandhar city,Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Jalandhar City(Faintan Ganj) APMC,2129.39,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2125.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Kahnuwan APMC,2125.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2023,5,2023-05-01,Khadur Sahib APMC,2127.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2023,5,2023-05-01,Kharar APMC,2125.05,kharar,S.A.S Nagar
+Punjab,Wheat,2023,5,2023-05-01,Khem karan APMC,2125.11,khem karan,Tarn Taran
+Punjab,Wheat,2023,5,2023-05-01,Khemkaran (Amarkot) APMC,2125.0,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2023,5,2023-05-01,Kot ise Khan APMC,2130.0,kot ise khan,Moga
+Punjab,Wheat,2023,5,2023-05-01,Machhiwara APMC,2125.0,machhiwara,Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Majitha APMC,2125.0,majitha,Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Malout (Kilianwali) APMC,2125.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2023,5,2023-05-01,Malout (Panniwala) APMC,2125.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2023,5,2023-05-01,Malout APMC,2125.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2023,5,2023-05-01,Mansa (Khiala kalan) APMC,2125.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2023,5,2023-05-01,Mansa APMC,2125.0,mansa,Mansa
+Punjab,Wheat,2023,5,2023-05-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2023,5,2023-05-01,Maur APMC,2125.0,maur,Bathinda
+Punjab,Wheat,2023,5,2023-05-01,Mehal Kalan APMC,2125.0,mehal kalan,Barnala
+Punjab,Wheat,2023,5,2023-05-01,Mehal Kallan (ChananWal) APMC,2125.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2023,5,2023-05-01,Mehta APMC,2125.0,mehta,Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2023,5,2023-05-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Nabha APMC,,nabha,Patiala
+Punjab,Wheat,2023,5,2023-05-01,Naushera Pannua (Dhotian) APMC,2125.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2023,5,2023-05-01,Naushera Pannuan APMC,2125.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2023,5,2023-05-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,5,2023-05-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,5,2023-05-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,5,2023-05-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Patiala(New Anaj Mandi) APMC,2125.0,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2023,5,2023-05-01,Patran APMC,2125.0,patran,Patiala
+Punjab,Wheat,2023,5,2023-05-01,Patran(Ghagga Mandi) APMC,2125.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2023,5,2023-05-01,Patti APMC,,patti,Tarn Taran
+Punjab,Wheat,2023,5,2023-05-01,Rajpura APMC,2125.0,rajpura,Patiala
+Punjab,Wheat,2023,5,2023-05-01,Rayya APMC,2125.0,rayya,Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Rayya(Sathiala) APMC,2125.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2023,5,2023-05-01,Sadiq APMC,2125.0,sadiq,Faridkot
+Punjab,Wheat,2023,5,2023-05-01,Sahnewal APMC,2125.0,sahnewal,Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Samana APMC,,samana,Patiala
+Punjab,Wheat,2023,5,2023-05-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Wheat,2023,5,2023-05-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Wheat,2023,5,2023-05-01,Sangat APMC,2125.0,sangat,Bathinda
+Punjab,Wheat,2023,5,2023-05-01,Shahkot APMC,2125.0,shahkot,Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Wheat,2023,5,2023-05-01,Sherpur APMC,2125.0,sherpur,Gurdaspur
+Punjab,Wheat,2023,5,2023-05-01,Sidhwan Bet (Lodhiwala) APMC,2125.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Sidhwan Bet APMC,2125.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2023,5,2023-05-01,Sirhind APMC,2125.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2023,5,2023-05-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Wheat,2023,5,2023-05-01,Talwandi Bhai APMC,2125.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2023,5,2023-05-01,Talwandi Bhai(Mudki) APMC,2125.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2023,5,2023-05-01,Zira APMC,2124.86,zira,Ferozepur
+Punjab,Wheat,2023,6,2023-06-01,Abohar APMC,,abohar,Fazilka
+Punjab,Wheat,2023,6,2023-06-01,Ajitwal (Chogawan) APMC,,ajitwal (chogawan),Moga
+Punjab,Wheat,2023,6,2023-06-01,Ajitwal (Dala) APMC,,ajitwal (dala),Moga
+Punjab,Wheat,2023,6,2023-06-01,Ajitwal APMC,,ajitwal,Moga
+Punjab,Wheat,2023,6,2023-06-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Wheat,2023,6,2023-06-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Wheat,2023,6,2023-06-01,Attari APMC,,attari,Amritsar
+Punjab,Wheat,2023,6,2023-06-01,Bareta APMC,,bareta,Mansa
+Punjab,Wheat,2023,6,2023-06-01,Bariwala APMC,,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2023,6,2023-06-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2023,6,2023-06-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Wheat,2023,6,2023-06-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Wheat,2023,6,2023-06-01,Bhikhi APMC,,bhikhi,Mansa
+Punjab,Wheat,2023,6,2023-06-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Wheat,2023,6,2023-06-01,Boha APMC,,boha,Mansa
+Punjab,Wheat,2023,6,2023-06-01,Budalada APMC,,budalada,Mansa
+Punjab,Wheat,2023,6,2023-06-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2023,6,2023-06-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Wheat,2023,6,2023-06-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Wheat,2023,6,2023-06-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Wheat,2023,6,2023-06-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Wheat,2023,6,2023-06-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Wheat,2023,6,2023-06-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2023,6,2023-06-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Wheat,2023,6,2023-06-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Wheat,2023,6,2023-06-01,Jalalabad APMC,,jalalabad,Fazilka
+Punjab,Wheat,2023,6,2023-06-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2023,6,2023-06-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2023,6,2023-06-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Wheat,2023,6,2023-06-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2023,6,2023-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2023,6,2023-06-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Wheat,2023,6,2023-06-01,Khadur Sahib APMC,,khadur sahib,Tarn Taran
+Punjab,Wheat,2023,6,2023-06-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Wheat,2023,6,2023-06-01,Khem karan APMC,,khem karan,Tarn Taran
+Punjab,Wheat,2023,6,2023-06-01,Khemkaran (Amarkot) APMC,,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2023,6,2023-06-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Wheat,2023,6,2023-06-01,Machhiwara APMC,,machhiwara,Ludhiana
+Punjab,Wheat,2023,6,2023-06-01,Majitha APMC,,majitha,Amritsar
+Punjab,Wheat,2023,6,2023-06-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2023,6,2023-06-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2023,6,2023-06-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Wheat,2023,6,2023-06-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Wheat,2023,6,2023-06-01,Mansa APMC,,mansa,Mansa
+Punjab,Wheat,2023,6,2023-06-01,Maur APMC,,maur,Bathinda
+Punjab,Wheat,2023,6,2023-06-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Wheat,2023,6,2023-06-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2023,6,2023-06-01,Mehta APMC,,mehta,Amritsar
+Punjab,Wheat,2023,6,2023-06-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2023,6,2023-06-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Wheat,2023,6,2023-06-01,Nawanshahar APMC,2130.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2023,6,2023-06-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2023,6,2023-06-01,Patran APMC,,patran,Patiala
+Punjab,Wheat,2023,6,2023-06-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Wheat,2023,6,2023-06-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Wheat,2023,6,2023-06-01,Rayya APMC,,rayya,Amritsar
+Punjab,Wheat,2023,6,2023-06-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Wheat,2023,6,2023-06-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Wheat,2023,6,2023-06-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Wheat,2023,6,2023-06-01,Sangat APMC,,sangat,Bathinda
+Punjab,Wheat,2023,6,2023-06-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Wheat,2023,6,2023-06-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Wheat,2023,6,2023-06-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2023,6,2023-06-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Wheat,2023,6,2023-06-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2023,6,2023-06-01,Talwandi Bhai APMC,,talwandi bhai,Ferozepur
+Punjab,Wheat,2023,6,2023-06-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2023,6,2023-06-01,Zira APMC,,zira,Ferozepur
+Punjab,Wheat,2023,10,2023-10-01,Chabhal APMC,2203.0,chabhal,Amritsar
+Punjab,Wheat,2023,10,2023-10-01,Sangat APMC,,sangat,Bathinda
+Punjab,Wheat,2023,12,2023-12-01,Kurali APMC,2578.57,kurali,S.A.S Nagar
+Punjab,Wheat,2024,4,2024-04-01,Abohar APMC,2275.02,abohar,Fazilka
+Punjab,Wheat,2024,4,2024-04-01,Ahmedgarh APMC,2275.24,ahmedgarh,Sangrur
+Punjab,Wheat,2024,4,2024-04-01,Ajitwal (Chogawan) APMC,,ajitwal (chogawan),Moga
+Punjab,Wheat,2024,4,2024-04-01,Ajitwal (Dala) APMC,,ajitwal (dala),Moga
+Punjab,Wheat,2024,4,2024-04-01,Ajitwal APMC,,ajitwal,Moga
+Punjab,Wheat,2024,4,2024-04-01,Ajnala APMC,2275.0,ajnala,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Amargarh APMC,2275.0,amargarh,Malerkotla
+Punjab,Wheat,2024,4,2024-04-01,Amloh APMC,2275.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2024,4,2024-04-01,Amloh(Gobind Garh Mandi) APMC,2275.0,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2024,4,2024-04-01,Attari APMC,2275.0,attari,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Badhni Kallan (Bilaspur) APMC,2275.0,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2024,4,2024-04-01,Banga APMC,2275.0,banga,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,4,2024-04-01,Bareta APMC,2276.34,bareta,Mansa
+Punjab,Wheat,2024,4,2024-04-01,Bariwala APMC,2275.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2024,4,2024-04-01,Bassi Pathana APMC,2275.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2024,4,2024-04-01,Bhadson APMC,2275.0,bhadson,Patiala
+Punjab,Wheat,2024,4,2024-04-01,Bhawanigarh APMC,2275.0,bhawanigarh,Sangrur
+Punjab,Wheat,2024,4,2024-04-01,Bhikhi APMC,2275.0,bhikhi,Mansa
+Punjab,Wheat,2024,4,2024-04-01,Bhikhiwind (Algo) APMC,2275.0,bhikhiwind (algo),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Bhikhiwind (Basarke) APMC,2275.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Bhikhiwind (Marrimegha) APMC,2275.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Bhikhiwind (Sursingh) APMC,2275.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Bhikhiwind APMC,2275.0,bhikhiwind,Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Bhikhiwind(Khalra) APMC,2275.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Bhucho APMC,2275.0,bhucho,Bathinda
+Punjab,Wheat,2024,4,2024-04-01,Bilga (Talwan ) APMC,2275.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Bilga APMC,2275.0,bilga,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Boha APMC,2275.0,boha,Mansa
+Punjab,Wheat,2024,4,2024-04-01,Budalada APMC,2275.0,budalada,Mansa
+Punjab,Wheat,2024,4,2024-04-01,Budhlada (Phaphre Bhaike) APMC,2275.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2024,4,2024-04-01,Chabhal APMC,2275.0,chabhal,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Chanarthal APMC,2275.0,chanarthal,Bathinda
+Punjab,Wheat,2024,4,2024-04-01,Dakala APMC,2275.0,dakala,Patiala
+Punjab,Wheat,2024,4,2024-04-01,Dasuya APMC,2275.0,dasuya,Hoshiarpur
+Punjab,Wheat,2024,4,2024-04-01,Dhanaula APMC,2275.0,dhanaula,Barnala
+Punjab,Wheat,2024,4,2024-04-01,Dhilwan APMC,2275.0,dhilwan,Kapurthala
+Punjab,Wheat,2024,4,2024-04-01,Dhuri APMC,2275.0,dhuri,Sangrur
+Punjab,Wheat,2024,4,2024-04-01,Dinanagar APMC,2275.0,dinanagar,Gurdaspur
+Punjab,Wheat,2024,4,2024-04-01,Doraha APMC,2275.0,doraha,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Firozepur City APMC,2275.0,firozepur city,Ferozepur
+Punjab,Wheat,2024,4,2024-04-01,Garh Shankar APMC,2275.0,garh shankar,Hoshiarpur
+Punjab,Wheat,2024,4,2024-04-01,Garh Shankar(Mahalpur) APMC,2275.0,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2024,4,2024-04-01,GarhShankar (Kotfatuhi) APMC,2275.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2024,4,2024-04-01,Garhshankar(Saila Khurd) APMC,2275.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2024,4,2024-04-01,Gehri(Jandiala mandi) APMC,2275.0,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Guru Har Sahai APMC,2275.0,guru har sahai,Ferozepur
+Punjab,Wheat,2024,4,2024-04-01,Harike APMC,2275.0,harike,Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Hathur APMC,2275.0,hathur,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Jaitu APMC,2275.0,jaitu,Faridkot
+Punjab,Wheat,2024,4,2024-04-01,Jaitu(Bajakhana) APMC,2275.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2024,4,2024-04-01,Jalalabad APMC,2275.0,jalalabad,Fazilka
+Punjab,Wheat,2024,4,2024-04-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Jalandhar City APMC,2275.08,jalandhar city,Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Jalandhar City(Faintan Ganj) APMC,2275.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2275.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Kahnuwan APMC,2275.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2024,4,2024-04-01,Khadur Sahib APMC,2275.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Kharar APMC,2275.0,kharar,S.A.S Nagar
+Punjab,Wheat,2024,4,2024-04-01,Khem karan APMC,2275.0,khem karan,Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Khemkaran (Amarkot) APMC,2275.0,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Kot ise Khan APMC,2276.0,kot ise khan,Moga
+Punjab,Wheat,2024,4,2024-04-01,Kotkapura APMC,2275.05,kotkapura,Faridkot
+Punjab,Wheat,2024,4,2024-04-01,Kurali APMC,2275.16,kurali,S.A.S Nagar
+Punjab,Wheat,2024,4,2024-04-01,Machhiwara APMC,,machhiwara,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Majitha APMC,2275.0,majitha,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Mallanwala (KhosaDalSinghwala) APMC,2275.0,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2024,4,2024-04-01,Mallanwala APMC,2275.0,mallanwala,Ferozepur
+Punjab,Wheat,2024,4,2024-04-01,Maloud APMC,2275.0,maloud,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Malout (Kilianwali) APMC,2275.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2024,4,2024-04-01,Malout (Panniwala) APMC,2275.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2024,4,2024-04-01,Malout APMC,2275.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2024,4,2024-04-01,Mansa (Khiala kalan) APMC,2275.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2024,4,2024-04-01,Mansa APMC,2275.0,mansa,Mansa
+Punjab,Wheat,2024,4,2024-04-01,Mansa(Ubha Buraj Dhilwan) APMC,2275.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2024,4,2024-04-01,Maur APMC,2275.0,maur,Bathinda
+Punjab,Wheat,2024,4,2024-04-01,Mehal Kalan APMC,2275.0,mehal kalan,Barnala
+Punjab,Wheat,2024,4,2024-04-01,Mehal Kallan (ChananWal) APMC,2275.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2024,4,2024-04-01,Mehta APMC,2275.0,mehta,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2024,4,2024-04-01,Mullanpur Dakha (Sawadi) APMC,2279.02,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Nakodar APMC,2275.0,nakodar,Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Nakodar(Sarih) APMC,2275.0,nakodar(sarih),Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Naushera Pannua (Dhotian) APMC,2275.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Naushera Pannuan APMC,2275.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Nawan Shahar(Mandi Jadla) APMC,2275.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,4,2024-04-01,Nawan Shahar(MandiRaho) APMC,2275.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,4,2024-04-01,Nawanshahar APMC,2275.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,4,2024-04-01,Noor Mehal APMC,2275.0,noor mehal,Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Noor Mehal(Kot Badal Khan) APMC,2275.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2024,4,2024-04-01,Patran APMC,2275.0,patran,Patiala
+Punjab,Wheat,2024,4,2024-04-01,Patran(Ghagga Mandi) APMC,2275.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2024,4,2024-04-01,Patti APMC,2275.0,patti,Tarn Taran
+Punjab,Wheat,2024,4,2024-04-01,Phagwara APMC,2275.0,phagwara,Kapurthala
+Punjab,Wheat,2024,4,2024-04-01,Rajpura APMC,2275.0,rajpura,Patiala
+Punjab,Wheat,2024,4,2024-04-01,Rayya APMC,2275.0,rayya,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Rayya(Sathiala) APMC,2275.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Ropar APMC,2275.0,ropar,Rupnagar
+Punjab,Wheat,2024,4,2024-04-01,Sadiq APMC,2275.0,sadiq,Faridkot
+Punjab,Wheat,2024,4,2024-04-01,Sahnewal APMC,2275.0,sahnewal,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Samana APMC,2352.68,samana,Patiala
+Punjab,Wheat,2024,4,2024-04-01,Samana(Gajewas) APMC,2373.49,samana(gajewas),Patiala
+Punjab,Wheat,2024,4,2024-04-01,Samana(Kakrala) APMC,2275.0,samana(kakrala),Patiala
+Punjab,Wheat,2024,4,2024-04-01,Samrala APMC,2280.0,samrala,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Sangat APMC,2275.0,sangat,Bathinda
+Punjab,Wheat,2024,4,2024-04-01,Sardulgarh APMC,2275.0,sardulgarh,Mansa
+Punjab,Wheat,2024,4,2024-04-01,Shahkot APMC,2275.0,shahkot,Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Shakot (Malsian) APMC,2275.0,shakot (malsian),Jalandhar
+Punjab,Wheat,2024,4,2024-04-01,Sherpur APMC,2275.0,sherpur,Gurdaspur
+Punjab,Wheat,2024,4,2024-04-01,Sidhwan Bet (Lodhiwala) APMC,2275.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Sidhwan Bet APMC,2275.01,sidhwan bet,Ludhiana
+Punjab,Wheat,2024,4,2024-04-01,Sirhind APMC,2275.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2024,4,2024-04-01,Sulargharat APMC,2275.0,sulargharat,Sangrur
+Punjab,Wheat,2024,4,2024-04-01,Talwandi Bhai APMC,2275.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2024,4,2024-04-01,Talwandi Bhai(Mudki) APMC,2275.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2024,4,2024-04-01,Tapa(Tapa Mandi) APMC,2275.0,tapa(tapa mandi),Barnala
+Punjab,Wheat,2024,4,2024-04-01,Tarantaran APMC,2275.0,tarantaran,Amritsar
+Punjab,Wheat,2024,4,2024-04-01,Zira APMC,2275.01,zira,Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Abohar APMC,2275.1,abohar,Fazilka
+Punjab,Wheat,2024,5,2024-05-01,Ahmedgarh APMC,2275.06,ahmedgarh,Sangrur
+Punjab,Wheat,2024,5,2024-05-01,Ajitwal (Chogawan) APMC,,ajitwal (chogawan),Moga
+Punjab,Wheat,2024,5,2024-05-01,Ajitwal (Dala) APMC,,ajitwal (dala),Moga
+Punjab,Wheat,2024,5,2024-05-01,Ajitwal APMC,,ajitwal,Moga
+Punjab,Wheat,2024,5,2024-05-01,Ajnala APMC,,ajnala,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Amargarh APMC,2275.0,amargarh,Malerkotla
+Punjab,Wheat,2024,5,2024-05-01,Amloh APMC,2275.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2024,5,2024-05-01,Amloh(Gobind Garh Mandi) APMC,2275.0,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2024,5,2024-05-01,Amritsar APMC,2275.0,amritsar,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Attari APMC,2275.0,attari,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Badhni Kallan (Bilaspur) APMC,2275.0,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2024,5,2024-05-01,Banga APMC,2275.0,banga,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,5,2024-05-01,Bareta APMC,2275.0,bareta,Mansa
+Punjab,Wheat,2024,5,2024-05-01,Bariwala APMC,2275.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2024,5,2024-05-01,Bassi Pathana APMC,2275.01,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2024,5,2024-05-01,Bhadson APMC,2275.0,bhadson,Patiala
+Punjab,Wheat,2024,5,2024-05-01,Bhawanigarh APMC,2275.05,bhawanigarh,Sangrur
+Punjab,Wheat,2024,5,2024-05-01,Bhikhi APMC,2275.0,bhikhi,Mansa
+Punjab,Wheat,2024,5,2024-05-01,Bhikhiwind (Algo) APMC,2275.0,bhikhiwind (algo),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Bhikhiwind (Basarke) APMC,2275.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Bhikhiwind (Marrimegha) APMC,2275.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Bhikhiwind (Sursingh) APMC,2275.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Bhikhiwind APMC,2275.0,bhikhiwind,Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Bhikhiwind(Khalra) APMC,2275.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Bhucho APMC,2275.0,bhucho,Bathinda
+Punjab,Wheat,2024,5,2024-05-01,Bilga (Talwan ) APMC,2275.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Bilga APMC,2275.0,bilga,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Boha APMC,2275.0,boha,Mansa
+Punjab,Wheat,2024,5,2024-05-01,Budalada APMC,2275.0,budalada,Mansa
+Punjab,Wheat,2024,5,2024-05-01,Budhlada (Phaphre Bhaike) APMC,2275.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2024,5,2024-05-01,Chabhal APMC,2275.0,chabhal,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Chanarthal APMC,2275.0,chanarthal,Bathinda
+Punjab,Wheat,2024,5,2024-05-01,Dakala APMC,2275.0,dakala,Patiala
+Punjab,Wheat,2024,5,2024-05-01,Dasuya APMC,2275.0,dasuya,Hoshiarpur
+Punjab,Wheat,2024,5,2024-05-01,Dera Bassi APMC,2275.0,dera bassi,S.A.S Nagar
+Punjab,Wheat,2024,5,2024-05-01,Dhanaula APMC,2275.0,dhanaula,Barnala
+Punjab,Wheat,2024,5,2024-05-01,Dhilwan APMC,2275.01,dhilwan,Kapurthala
+Punjab,Wheat,2024,5,2024-05-01,Dhuri APMC,,dhuri,Sangrur
+Punjab,Wheat,2024,5,2024-05-01,Dinanagar APMC,2275.0,dinanagar,Gurdaspur
+Punjab,Wheat,2024,5,2024-05-01,Doraha APMC,,doraha,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Firozepur City APMC,2275.0,firozepur city,Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Garh Shankar APMC,2275.0,garh shankar,Hoshiarpur
+Punjab,Wheat,2024,5,2024-05-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2024,5,2024-05-01,GarhShankar (Kotfatuhi) APMC,2275.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2024,5,2024-05-01,Garhshankar(Saila Khurd) APMC,2275.0,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2024,5,2024-05-01,Gehri(Jandiala mandi) APMC,2275.0,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Guru Har Sahai APMC,2275.0,guru har sahai,Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Harike APMC,,harike,Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Hathur APMC,2275.0,hathur,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Jaitu APMC,2276.65,jaitu,Faridkot
+Punjab,Wheat,2024,5,2024-05-01,Jaitu(Bajakhana) APMC,2275.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2024,5,2024-05-01,Jalalabad APMC,2275.0,jalalabad,Fazilka
+Punjab,Wheat,2024,5,2024-05-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Jalandhar City APMC,2275.19,jalandhar city,Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Jalandhar City(Faintan Ganj) APMC,2276.28,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2275.0,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Kahnuwan APMC,2275.0,kahnuwan,Gurdaspur
+Punjab,Wheat,2024,5,2024-05-01,Khadur Sahib APMC,2275.0,khadur sahib,Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Kharar APMC,2275.0,kharar,S.A.S Nagar
+Punjab,Wheat,2024,5,2024-05-01,Khem karan APMC,2275.0,khem karan,Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Khemkaran (Amarkot) APMC,,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Kot ise Khan APMC,2276.0,kot ise khan,Moga
+Punjab,Wheat,2024,5,2024-05-01,Kotkapura APMC,2275.0,kotkapura,Faridkot
+Punjab,Wheat,2024,5,2024-05-01,Kurali APMC,2275.01,kurali,S.A.S Nagar
+Punjab,Wheat,2024,5,2024-05-01,Machhiwara APMC,,machhiwara,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Majitha APMC,2275.0,majitha,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Mallanwala (KhosaDalSinghwala) APMC,2275.0,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Mallanwala APMC,2275.0,mallanwala,Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Maloud APMC,2275.0,maloud,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Malout (Kilianwali) APMC,2275.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2024,5,2024-05-01,Malout (Panniwala) APMC,2275.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2024,5,2024-05-01,Malout APMC,2275.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2024,5,2024-05-01,Mansa (Khiala kalan) APMC,2275.0,mansa (khiala kalan),Mansa
+Punjab,Wheat,2024,5,2024-05-01,Mansa APMC,2275.0,mansa,Mansa
+Punjab,Wheat,2024,5,2024-05-01,Mansa(Ubha Buraj Dhilwan) APMC,2275.0,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2024,5,2024-05-01,Maur APMC,2275.0,maur,Bathinda
+Punjab,Wheat,2024,5,2024-05-01,Mehal Kalan APMC,2275.0,mehal kalan,Barnala
+Punjab,Wheat,2024,5,2024-05-01,Mehal Kallan (ChananWal) APMC,2275.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2024,5,2024-05-01,Mehta APMC,2275.0,mehta,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Mullanpur Dakha (Sawadi) APMC,2275.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Nakodar APMC,2275.0,nakodar,Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Nakodar(Sarih) APMC,2275.0,nakodar(sarih),Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Naushera Pannua (Dhotian) APMC,2275.0,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Naushera Pannuan APMC,2275.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Nawan Shahar(Mandi Jadla) APMC,2275.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,5,2024-05-01,Nawan Shahar(MandiRaho) APMC,2275.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,5,2024-05-01,Nawanshahar APMC,2275.05,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,5,2024-05-01,Noor Mehal APMC,2275.0,noor mehal,Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Noor Mehal(Kot Badal Khan) APMC,2275.0,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Patiala(New Anaj Mandi) APMC,,patiala(new anaj mandi),Patiala
+Punjab,Wheat,2024,5,2024-05-01,Patran APMC,2275.0,patran,Patiala
+Punjab,Wheat,2024,5,2024-05-01,Patran(Ghagga Mandi) APMC,2275.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2024,5,2024-05-01,Patti APMC,2275.0,patti,Tarn Taran
+Punjab,Wheat,2024,5,2024-05-01,Phagwara APMC,,phagwara,Kapurthala
+Punjab,Wheat,2024,5,2024-05-01,Rajpura APMC,2275.09,rajpura,Patiala
+Punjab,Wheat,2024,5,2024-05-01,Rayya APMC,2275.0,rayya,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Rayya(Sathiala) APMC,2275.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Ropar APMC,2275.0,ropar,Rupnagar
+Punjab,Wheat,2024,5,2024-05-01,Sadiq APMC,2275.0,sadiq,Faridkot
+Punjab,Wheat,2024,5,2024-05-01,Sahnewal APMC,2275.0,sahnewal,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Samana APMC,2275.0,samana,Patiala
+Punjab,Wheat,2024,5,2024-05-01,Samana(Gajewas) APMC,2275.0,samana(gajewas),Patiala
+Punjab,Wheat,2024,5,2024-05-01,Samana(Kakrala) APMC,2275.0,samana(kakrala),Patiala
+Punjab,Wheat,2024,5,2024-05-01,Samrala APMC,2280.0,samrala,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Sangat APMC,2275.07,sangat,Bathinda
+Punjab,Wheat,2024,5,2024-05-01,Sardulgarh APMC,2275.0,sardulgarh,Mansa
+Punjab,Wheat,2024,5,2024-05-01,Shahkot APMC,2275.0,shahkot,Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Wheat,2024,5,2024-05-01,Sherpur APMC,2275.0,sherpur,Gurdaspur
+Punjab,Wheat,2024,5,2024-05-01,Sidhwan Bet (Lodhiwala) APMC,2275.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Sidhwan Bet APMC,2275.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2024,5,2024-05-01,Sirhind APMC,2275.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2024,5,2024-05-01,Sulargharat APMC,2275.0,sulargharat,Sangrur
+Punjab,Wheat,2024,5,2024-05-01,Talwandi Bhai APMC,2275.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Talwandi Bhai(Mudki) APMC,2275.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2024,5,2024-05-01,Tapa(Tapa Mandi) APMC,2275.0,tapa(tapa mandi),Barnala
+Punjab,Wheat,2024,5,2024-05-01,Tarantaran APMC,2275.0,tarantaran,Amritsar
+Punjab,Wheat,2024,5,2024-05-01,Zira APMC,2275.0,zira,Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Abohar APMC,,abohar,Fazilka
+Punjab,Wheat,2024,6,2024-06-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Wheat,2024,6,2024-06-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Wheat,2024,6,2024-06-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Wheat,2024,6,2024-06-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2024,6,2024-06-01,Amritsar APMC,,amritsar,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Attari APMC,,attari,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2024,6,2024-06-01,Banga APMC,,banga,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,6,2024-06-01,Bareta APMC,,bareta,Mansa
+Punjab,Wheat,2024,6,2024-06-01,Bariwala APMC,,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2024,6,2024-06-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2024,6,2024-06-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Wheat,2024,6,2024-06-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Wheat,2024,6,2024-06-01,Bhikhi APMC,,bhikhi,Mansa
+Punjab,Wheat,2024,6,2024-06-01,Bhikhiwind (Algo) APMC,,bhikhiwind (algo),Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Bhikhiwind (Basarke) APMC,,bhikhiwind (basarke),Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Bhikhiwind (Marrimegha) APMC,,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Bhikhiwind (Sursingh) APMC,,bhikhiwind (sursingh),Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Bhikhiwind APMC,,bhikhiwind,Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Bhikhiwind(Khalra) APMC,,bhikhiwind(khalra),Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Wheat,2024,6,2024-06-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Boha APMC,,boha,Mansa
+Punjab,Wheat,2024,6,2024-06-01,Budalada APMC,,budalada,Mansa
+Punjab,Wheat,2024,6,2024-06-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2024,6,2024-06-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Wheat,2024,6,2024-06-01,Dakala APMC,,dakala,Patiala
+Punjab,Wheat,2024,6,2024-06-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Wheat,2024,6,2024-06-01,Dera Bassi APMC,,dera bassi,S.A.S Nagar
+Punjab,Wheat,2024,6,2024-06-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Wheat,2024,6,2024-06-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Wheat,2024,6,2024-06-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Wheat,2024,6,2024-06-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Wheat,2024,6,2024-06-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2024,6,2024-06-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2024,6,2024-06-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Wheat,2024,6,2024-06-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2024,6,2024-06-01,Jalalabad APMC,,jalalabad,Fazilka
+Punjab,Wheat,2024,6,2024-06-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Jalandhar City(Faintan Ganj) APMC,,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Wheat,2024,6,2024-06-01,Khadur Sahib APMC,,khadur sahib,Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Wheat,2024,6,2024-06-01,Khem karan APMC,,khem karan,Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Wheat,2024,6,2024-06-01,Kotkapura APMC,,kotkapura,Faridkot
+Punjab,Wheat,2024,6,2024-06-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Wheat,2024,6,2024-06-01,Majitha APMC,2278.92,majitha,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Maloud APMC,,maloud,Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2024,6,2024-06-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2024,6,2024-06-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Wheat,2024,6,2024-06-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Wheat,2024,6,2024-06-01,Mansa APMC,,mansa,Mansa
+Punjab,Wheat,2024,6,2024-06-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2024,6,2024-06-01,Maur APMC,,maur,Bathinda
+Punjab,Wheat,2024,6,2024-06-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Wheat,2024,6,2024-06-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2024,6,2024-06-01,Mehta APMC,,mehta,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,6,2024-06-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,6,2024-06-01,Nawanshahar APMC,2280.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,6,2024-06-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Patran APMC,,patran,Patiala
+Punjab,Wheat,2024,6,2024-06-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Wheat,2024,6,2024-06-01,Patti APMC,,patti,Tarn Taran
+Punjab,Wheat,2024,6,2024-06-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Wheat,2024,6,2024-06-01,Rayya APMC,,rayya,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Wheat,2024,6,2024-06-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Wheat,2024,6,2024-06-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Samana APMC,,samana,Patiala
+Punjab,Wheat,2024,6,2024-06-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Wheat,2024,6,2024-06-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Wheat,2024,6,2024-06-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Sangat APMC,,sangat,Bathinda
+Punjab,Wheat,2024,6,2024-06-01,Sardulgarh APMC,,sardulgarh,Mansa
+Punjab,Wheat,2024,6,2024-06-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Wheat,2024,6,2024-06-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Wheat,2024,6,2024-06-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Wheat,2024,6,2024-06-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2024,6,2024-06-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Wheat,2024,6,2024-06-01,Talwandi Bhai APMC,,talwandi bhai,Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2024,6,2024-06-01,Tapa(Tapa Mandi) APMC,,tapa(tapa mandi),Barnala
+Punjab,Wheat,2024,6,2024-06-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Wheat,2024,6,2024-06-01,Zira APMC,,zira,Ferozepur
+Punjab,Wheat,2024,7,2024-07-01,Majitha APMC,2280.0,majitha,Amritsar
+Punjab,Wheat,2024,7,2024-07-01,Nawanshahar APMC,2450.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,7,2024-07-01,Rajpura APMC,2414.01,rajpura,Patiala
+Punjab,Wheat,2024,8,2024-08-01,Majitha APMC,,majitha,Amritsar
+Punjab,Wheat,2024,8,2024-08-01,Nawanshahar APMC,2307.46,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,8,2024-08-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Wheat,2024,9,2024-09-01,Khanna APMC,2632.58,khanna,Ludhiana
+Punjab,Wheat,2024,9,2024-09-01,Nawanshahar APMC,2432.91,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,10,2024-10-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Wheat,2024,10,2024-10-01,Khanna APMC,2700.0,khanna,Ludhiana
+Punjab,Wheat,2024,10,2024-10-01,Kila Raipur APMC,2320.0,kila raipur,Ludhiana
+Punjab,Wheat,2024,10,2024-10-01,Nawanshahar APMC,2600.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,11,2024-11-01,Khanna APMC,,khanna,Ludhiana
+Punjab,Wheat,2024,11,2024-11-01,Kila Raipur APMC,,kila raipur,Ludhiana
+Punjab,Wheat,2024,11,2024-11-01,Nakodar(Sarih) APMC,2320.0,nakodar(sarih),Jalandhar
+Punjab,Wheat,2024,11,2024-11-01,Nawanshahar APMC,2817.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2024,12,2024-12-01,Kurali APMC,2950.0,kurali,S.A.S Nagar
+Punjab,Wheat,2024,12,2024-12-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Wheat,2024,12,2024-12-01,Nawanshahar APMC,2991.26,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,1,2025-01-01,Kurali APMC,3050.0,kurali,S.A.S Nagar
+Punjab,Wheat,2025,1,2025-01-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,2,2025-02-01,Kurali APMC,2891.17,kurali,S.A.S Nagar
+Punjab,Wheat,2025,3,2025-03-01,Kurali APMC,2946.43,kurali,S.A.S Nagar
+Punjab,Wheat,2025,3,2025-03-01,Tapa(Tapa Mandi) APMC,2580.0,tapa(tapa mandi),Barnala
+Punjab,Wheat,2025,4,2025-04-01,Abohar APMC,2425.41,abohar,Fazilka
+Punjab,Wheat,2025,4,2025-04-01,Ahemadpur APMC,2425.0,ahemadpur,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Ahmedgarh APMC,2428.15,ahmedgarh,Sangrur
+Punjab,Wheat,2025,4,2025-04-01,Ajnala APMC,,ajnala,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Amargarh APMC,2425.0,amargarh,Malerkotla
+Punjab,Wheat,2025,4,2025-04-01,Amloh APMC,2425.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2025,4,2025-04-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2025,4,2025-04-01,Amritsar APMC,2425.19,amritsar,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Attari APMC,,attari,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2025,4,2025-04-01,Banga APMC,,banga,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,4,2025-04-01,Bareta APMC,2425.0,bareta,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Bariwala APMC,2425.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2025,4,2025-04-01,Bassi Pathana APMC,2425.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2025,4,2025-04-01,Bhadaur APMC,2425.0,bhadaur,Barnala
+Punjab,Wheat,2025,4,2025-04-01,Bhadaur(Sehna) APMC,2425.0,bhadaur(sehna),Barnala
+Punjab,Wheat,2025,4,2025-04-01,Bhadson APMC,2425.0,bhadson,Patiala
+Punjab,Wheat,2025,4,2025-04-01,Bhawanigarh APMC,2425.0,bhawanigarh,Sangrur
+Punjab,Wheat,2025,4,2025-04-01,Bhikhi APMC,2425.0,bhikhi,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Bhikhiwind (Algo) APMC,2425.0,bhikhiwind (algo),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Bhikhiwind (Basarke) APMC,2425.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Bhikhiwind (Marrimegha) APMC,2425.0,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Bhikhiwind (Sursingh) APMC,2425.0,bhikhiwind (sursingh),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Bhikhiwind APMC,,bhikhiwind,Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Bhikhiwind(Khalra) APMC,2425.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Wheat,2025,4,2025-04-01,Bilga (Talwan ) APMC,2425.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Bilga APMC,2425.0,bilga,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Boha APMC,2425.0,boha,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Budalada APMC,2425.0,budalada,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Budhlada (Phaphre Bhaike) APMC,2425.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2025,4,2025-04-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Chanarthal APMC,2425.0,chanarthal,Bathinda
+Punjab,Wheat,2025,4,2025-04-01,Dakala APMC,,dakala,Patiala
+Punjab,Wheat,2025,4,2025-04-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Wheat,2025,4,2025-04-01,Dera Bassi APMC,2425.0,dera bassi,S.A.S Nagar
+Punjab,Wheat,2025,4,2025-04-01,Dhanaula APMC,2425.0,dhanaula,Barnala
+Punjab,Wheat,2025,4,2025-04-01,Dhanula (Kaleke) APMC,2425.0,dhanula (kaleke),Barnala
+Punjab,Wheat,2025,4,2025-04-01,Dhilwan APMC,2425.0,dhilwan,Kapurthala
+Punjab,Wheat,2025,4,2025-04-01,Dhuri APMC,,dhuri,Sangrur
+Punjab,Wheat,2025,4,2025-04-01,Dinanagar APMC,2425.0,dinanagar,Gurdaspur
+Punjab,Wheat,2025,4,2025-04-01,Doraha APMC,2425.0,doraha,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Firozepur City APMC,2425.0,firozepur city,Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,Garh Shankar APMC,2425.0,garh shankar,Hoshiarpur
+Punjab,Wheat,2025,4,2025-04-01,Garh Shankar(Mahalpur) APMC,2425.0,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2025,4,2025-04-01,GarhShankar (Kotfatuhi) APMC,2425.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2025,4,2025-04-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2025,4,2025-04-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,Harike APMC,,harike,Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Jaitu APMC,2425.0,jaitu,Faridkot
+Punjab,Wheat,2025,4,2025-04-01,Jaitu(Bajakhana) APMC,2425.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2025,4,2025-04-01,Jalalabad APMC,2425.0,jalalabad,Fazilka
+Punjab,Wheat,2025,4,2025-04-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2425.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Jalandhar Cantt. APMC,2425.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Jalandhar City APMC,2426.51,jalandhar city,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Jalandhar City(Faintan Ganj) APMC,2428.97,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2426.2,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Wheat,2025,4,2025-04-01,Kankwal Chahlan APMC,2425.0,kankwal chahlan,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Khadur Sahib APMC,,khadur sahib,Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Kharar APMC,2425.0,kharar,S.A.S Nagar
+Punjab,Wheat,2025,4,2025-04-01,Khem karan APMC,2425.0,khem karan,Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Khemkaran (Amarkot) APMC,2425.0,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Kot ise Khan APMC,2430.0,kot ise khan,Moga
+Punjab,Wheat,2025,4,2025-04-01,Kotkapura APMC,2425.0,kotkapura,Faridkot
+Punjab,Wheat,2025,4,2025-04-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Wheat,2025,4,2025-04-01,Ludhiana(Mandi gill Road) APMC,2425.0,ludhiana(mandi gill road),Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Ludhiana(Salem Tabri) APMC,2425.0,ludhiana(salem tabri),Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Majitha APMC,2425.0,majitha,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Malaoud (Siar) APMC,2425.0,malaoud (siar),Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,Maloud APMC,2425.0,maloud,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Malout (Kilianwali) APMC,2425.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2025,4,2025-04-01,Malout (Panniwala) APMC,2425.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2025,4,2025-04-01,Malout APMC,2425.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2025,4,2025-04-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Wheat,2025,4,2025-04-01,Mansa APMC,2425.0,mansa,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2025,4,2025-04-01,Maur APMC,,maur,Bathinda
+Punjab,Wheat,2025,4,2025-04-01,Mehal Kalan APMC,2425.0,mehal kalan,Barnala
+Punjab,Wheat,2025,4,2025-04-01,Mehal Kallan (ChananWal) APMC,2425.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2025,4,2025-04-01,Mehatpur APMC,2425.0,mehatpur,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Mehta APMC,2425.0,mehta,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Muktsar APMC,2425.0,muktsar,Sri Muktsar Sahib
+Punjab,Wheat,2025,4,2025-04-01,Mullanpur APMC,2430.0,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2025,4,2025-04-01,Mullanpur Dakha (Sawadi) APMC,2425.0,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Nabha APMC,2425.0,nabha,Patiala
+Punjab,Wheat,2025,4,2025-04-01,Nakodar APMC,2425.0,nakodar,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Nakodar(Sarih) APMC,2425.0,nakodar(sarih),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Naushera Pannuan APMC,2425.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Nawan Shahar(Mandi Jadla) APMC,2425.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,4,2025-04-01,Nawan Shahar(MandiRaho) APMC,2425.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,4,2025-04-01,Nawanshahar APMC,2425.0,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,4,2025-04-01,Noor Mehal APMC,2425.0,noor mehal,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Nurpurbet APMC,2425.0,nurpurbet,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Patran APMC,2425.0,patran,Patiala
+Punjab,Wheat,2025,4,2025-04-01,Patran(Ghagga Mandi) APMC,2425.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2025,4,2025-04-01,Patti APMC,,patti,Tarn Taran
+Punjab,Wheat,2025,4,2025-04-01,Phagwara APMC,,phagwara,Kapurthala
+Punjab,Wheat,2025,4,2025-04-01,Phillaur APMC,2425.0,phillaur,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Phillaur(Apra Mandi) APMC,2425.0,phillaur(apra mandi),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Purain APMC,2425.0,purain,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Rajpura APMC,2434.02,rajpura,Patiala
+Punjab,Wheat,2025,4,2025-04-01,Raman APMC,2425.0,raman,Bathinda
+Punjab,Wheat,2025,4,2025-04-01,Rayya APMC,2425.0,rayya,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Rayya(Sathiala) APMC,2425.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Ropar APMC,2425.0,ropar,Rupnagar
+Punjab,Wheat,2025,4,2025-04-01,Sadiq APMC,2425.0,sadiq,Faridkot
+Punjab,Wheat,2025,4,2025-04-01,Sahnewal APMC,2425.36,sahnewal,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Samana APMC,,samana,Patiala
+Punjab,Wheat,2025,4,2025-04-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Wheat,2025,4,2025-04-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Wheat,2025,4,2025-04-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Sangat APMC,2425.0,sangat,Bathinda
+Punjab,Wheat,2025,4,2025-04-01,Sardulgarh APMC,,sardulgarh,Mansa
+Punjab,Wheat,2025,4,2025-04-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Shakot (Malsian) APMC,,shakot (malsian),Jalandhar
+Punjab,Wheat,2025,4,2025-04-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Wheat,2025,4,2025-04-01,Sidhwan Bet (Lodhiwala) APMC,2425.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Sidhwan Bet APMC,2425.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,Sirhind APMC,2425.0,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2025,4,2025-04-01,Sulargharat APMC,2425.0,sulargharat,Sangrur
+Punjab,Wheat,2025,4,2025-04-01,Talwandi Bhai APMC,2425.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,Talwandi Bhai(Mudki) APMC,2425.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,Tapa(Tapa Mandi) APMC,2425.0,tapa(tapa mandi),Barnala
+Punjab,Wheat,2025,4,2025-04-01,Tarantaran APMC,2425.0,tarantaran,Amritsar
+Punjab,Wheat,2025,4,2025-04-01,Zira APMC,2425.0,zira,Ferozepur
+Punjab,Wheat,2025,4,2025-04-01,kum Kalan APMC,2425.0,kum kalan,Ludhiana
+Punjab,Wheat,2025,4,2025-04-01,lakhowal APMC,2425.0,lakhowal,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Abohar APMC,2425.03,abohar,Fazilka
+Punjab,Wheat,2025,5,2025-05-01,Ahemadpur APMC,2425.0,ahemadpur,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Ahmedgarh APMC,2427.13,ahmedgarh,Sangrur
+Punjab,Wheat,2025,5,2025-05-01,Amargarh APMC,2425.0,amargarh,Malerkotla
+Punjab,Wheat,2025,5,2025-05-01,Amloh APMC,2425.0,amloh,Fatehgarh Sahib
+Punjab,Wheat,2025,5,2025-05-01,Amloh(Gobind Garh Mandi) APMC,,amloh(gobind garh mandi),Fatehgarh Sahib
+Punjab,Wheat,2025,5,2025-05-01,Amritsar APMC,2426.34,amritsar,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Attari APMC,,attari,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Badhni Kallan (Bilaspur) APMC,,badhni kallan (bilaspur),Moga
+Punjab,Wheat,2025,5,2025-05-01,Banga APMC,,banga,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,5,2025-05-01,Bareta APMC,2425.0,bareta,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Bariwala APMC,2425.0,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2025,5,2025-05-01,Bassi Pathana APMC,2425.0,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2025,5,2025-05-01,Bhadaur APMC,2425.0,bhadaur,Barnala
+Punjab,Wheat,2025,5,2025-05-01,Bhadaur(Sehna) APMC,2425.0,bhadaur(sehna),Barnala
+Punjab,Wheat,2025,5,2025-05-01,Bhadson APMC,,bhadson,Patiala
+Punjab,Wheat,2025,5,2025-05-01,Bhawanigarh APMC,2425.38,bhawanigarh,Sangrur
+Punjab,Wheat,2025,5,2025-05-01,Bhikhi APMC,2425.0,bhikhi,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Bhikhiwind (Algo) APMC,,bhikhiwind (algo),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Bhikhiwind (Basarke) APMC,2425.0,bhikhiwind (basarke),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Bhikhiwind (Marrimegha) APMC,,bhikhiwind (marrimegha),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Bhikhiwind (Sursingh) APMC,,bhikhiwind (sursingh),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Bhikhiwind APMC,,bhikhiwind,Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Bhikhiwind(Khalra) APMC,2425.0,bhikhiwind(khalra),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Bhucho APMC,,bhucho,Bathinda
+Punjab,Wheat,2025,5,2025-05-01,Bilga (Talwan ) APMC,2425.0,bilga (talwan ),Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Bilga APMC,2425.0,bilga,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Boha APMC,2425.0,boha,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Budalada APMC,2425.0,budalada,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Budhlada (Phaphre Bhaike) APMC,2425.0,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2025,5,2025-05-01,Chabhal APMC,,chabhal,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Chanarthal APMC,2425.0,chanarthal,Bathinda
+Punjab,Wheat,2025,5,2025-05-01,Dakala APMC,,dakala,Patiala
+Punjab,Wheat,2025,5,2025-05-01,Dasuya APMC,,dasuya,Hoshiarpur
+Punjab,Wheat,2025,5,2025-05-01,Dera Bassi APMC,,dera bassi,S.A.S Nagar
+Punjab,Wheat,2025,5,2025-05-01,Dhanaula APMC,2425.0,dhanaula,Barnala
+Punjab,Wheat,2025,5,2025-05-01,Dhanula (Kaleke) APMC,2425.0,dhanula (kaleke),Barnala
+Punjab,Wheat,2025,5,2025-05-01,Dhilwan APMC,2425.19,dhilwan,Kapurthala
+Punjab,Wheat,2025,5,2025-05-01,Dinanagar APMC,2425.0,dinanagar,Gurdaspur
+Punjab,Wheat,2025,5,2025-05-01,Doraha APMC,2425.0,doraha,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Firozepur City APMC,2425.0,firozepur city,Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,Garh Shankar APMC,2425.0,garh shankar,Hoshiarpur
+Punjab,Wheat,2025,5,2025-05-01,Garh Shankar(Mahalpur) APMC,,garh shankar(mahalpur),Hoshiarpur
+Punjab,Wheat,2025,5,2025-05-01,GarhShankar (Kotfatuhi) APMC,2425.0,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2025,5,2025-05-01,Garhshankar(Saila Khurd) APMC,,garhshankar(saila khurd),Hoshiarpur
+Punjab,Wheat,2025,5,2025-05-01,Gehri(Jandiala mandi) APMC,,gehri(jandiala mandi),Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Guru Har Sahai APMC,,guru har sahai,Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,Hathur APMC,,hathur,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Jaitu APMC,2425.0,jaitu,Faridkot
+Punjab,Wheat,2025,5,2025-05-01,Jaitu(Bajakhana) APMC,2425.0,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2025,5,2025-05-01,Jalalabad APMC,2425.0,jalalabad,Fazilka
+Punjab,Wheat,2025,5,2025-05-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,2425.0,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Jalandhar Cantt. APMC,2425.0,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Jalandhar City APMC,2426.12,jalandhar city,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Jalandhar City(Faintan Ganj) APMC,2430.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Jalandhar City(Kartar Pur Dana mandi) APMC,2425.46,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Kahnuwan APMC,,kahnuwan,Gurdaspur
+Punjab,Wheat,2025,5,2025-05-01,Kankwal Chahlan APMC,2425.0,kankwal chahlan,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Khadur Sahib APMC,,khadur sahib,Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Kharar APMC,2425.8,kharar,S.A.S Nagar
+Punjab,Wheat,2025,5,2025-05-01,Khem karan APMC,,khem karan,Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Khemkaran (Amarkot) APMC,,khemkaran (amarkot),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Kot ise Khan APMC,2430.0,kot ise khan,Moga
+Punjab,Wheat,2025,5,2025-05-01,Kotkapura APMC,2425.0,kotkapura,Faridkot
+Punjab,Wheat,2025,5,2025-05-01,Kurali APMC,,kurali,S.A.S Nagar
+Punjab,Wheat,2025,5,2025-05-01,Ludhiana(Mandi gill Road) APMC,2425.0,ludhiana(mandi gill road),Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Ludhiana(Salem Tabri) APMC,2425.0,ludhiana(salem tabri),Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Majitha APMC,2425.06,majitha,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Malaoud (Siar) APMC,,malaoud (siar),Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Mallanwala (KhosaDalSinghwala) APMC,,mallanwala (khosadalsinghwala),Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,Mallanwala APMC,,mallanwala,Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,Maloud APMC,,maloud,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Malout (Kilianwali) APMC,2425.0,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2025,5,2025-05-01,Malout (Panniwala) APMC,2425.0,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2025,5,2025-05-01,Malout APMC,2425.0,malout,Sri Muktsar Sahib
+Punjab,Wheat,2025,5,2025-05-01,Mansa (Khiala kalan) APMC,,mansa (khiala kalan),Mansa
+Punjab,Wheat,2025,5,2025-05-01,Mansa APMC,2425.0,mansa,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Mansa(Ubha Buraj Dhilwan) APMC,,mansa(ubha buraj dhilwan),Mansa
+Punjab,Wheat,2025,5,2025-05-01,Maur APMC,,maur,Bathinda
+Punjab,Wheat,2025,5,2025-05-01,Mehal Kalan APMC,2425.0,mehal kalan,Barnala
+Punjab,Wheat,2025,5,2025-05-01,Mehal Kallan (ChananWal) APMC,2425.0,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2025,5,2025-05-01,Mehatpur APMC,2425.0,mehatpur,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Mehta APMC,2425.0,mehta,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Muktsar APMC,2425.0,muktsar,Sri Muktsar Sahib
+Punjab,Wheat,2025,5,2025-05-01,Mullanpur APMC,,mullanpur,Fatehgarh Sahib
+Punjab,Wheat,2025,5,2025-05-01,Mullanpur Dakha (Sawadi) APMC,,mullanpur dakha (sawadi),Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Nabha APMC,,nabha,Patiala
+Punjab,Wheat,2025,5,2025-05-01,Nakodar APMC,2425.0,nakodar,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Nakodar(Sarih) APMC,2425.0,nakodar(sarih),Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Naushera Pannua (Dhotian) APMC,,naushera pannua (dhotian),Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Naushera Pannuan APMC,2425.0,naushera pannuan,Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Nawan Shahar(Mandi Jadla) APMC,2425.0,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,5,2025-05-01,Nawan Shahar(MandiRaho) APMC,2425.0,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,5,2025-05-01,Nawanshahar APMC,2425.26,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,5,2025-05-01,Noor Mehal APMC,2425.0,noor mehal,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Noor Mehal(Kot Badal Khan) APMC,,noor mehal(kot badal khan),Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Nurpurbet APMC,,nurpurbet,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Patran APMC,2425.12,patran,Patiala
+Punjab,Wheat,2025,5,2025-05-01,Patran(Ghagga Mandi) APMC,2425.0,patran(ghagga mandi),Patiala
+Punjab,Wheat,2025,5,2025-05-01,Patti APMC,,patti,Tarn Taran
+Punjab,Wheat,2025,5,2025-05-01,Phillaur APMC,2425.04,phillaur,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Phillaur(Apra Mandi) APMC,2425.0,phillaur(apra mandi),Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Purain APMC,,purain,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Rajpura APMC,2428.72,rajpura,Patiala
+Punjab,Wheat,2025,5,2025-05-01,Raman APMC,2425.0,raman,Bathinda
+Punjab,Wheat,2025,5,2025-05-01,Rayya APMC,2425.0,rayya,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Rayya(Sathiala) APMC,2425.0,rayya(sathiala),Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Ropar APMC,2425.0,ropar,Rupnagar
+Punjab,Wheat,2025,5,2025-05-01,Sadiq APMC,2425.0,sadiq,Faridkot
+Punjab,Wheat,2025,5,2025-05-01,Sahnewal APMC,2425.0,sahnewal,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Samana APMC,,samana,Patiala
+Punjab,Wheat,2025,5,2025-05-01,Samana(Gajewas) APMC,,samana(gajewas),Patiala
+Punjab,Wheat,2025,5,2025-05-01,Samana(Kakrala) APMC,,samana(kakrala),Patiala
+Punjab,Wheat,2025,5,2025-05-01,Samrala APMC,,samrala,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Sangat APMC,2425.0,sangat,Bathinda
+Punjab,Wheat,2025,5,2025-05-01,Sardulgarh APMC,,sardulgarh,Mansa
+Punjab,Wheat,2025,5,2025-05-01,Shahkot APMC,,shahkot,Jalandhar
+Punjab,Wheat,2025,5,2025-05-01,Sherpur APMC,,sherpur,Gurdaspur
+Punjab,Wheat,2025,5,2025-05-01,Sidhwan Bet (Lodhiwala) APMC,2425.0,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Sidhwan Bet APMC,2425.0,sidhwan bet,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,Sirhind APMC,2425.26,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2025,5,2025-05-01,Sulargharat APMC,2425.0,sulargharat,Sangrur
+Punjab,Wheat,2025,5,2025-05-01,Talwandi Bhai APMC,2425.0,talwandi bhai,Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,Talwandi Bhai(Mudki) APMC,2425.0,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,Tapa(Tapa Mandi) APMC,2425.0,tapa(tapa mandi),Barnala
+Punjab,Wheat,2025,5,2025-05-01,Tarantaran APMC,2425.52,tarantaran,Amritsar
+Punjab,Wheat,2025,5,2025-05-01,Zira APMC,2425.0,zira,Ferozepur
+Punjab,Wheat,2025,5,2025-05-01,kum Kalan APMC,2425.0,kum kalan,Ludhiana
+Punjab,Wheat,2025,5,2025-05-01,lakhowal APMC,2425.0,lakhowal,Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Abohar APMC,,abohar,Fazilka
+Punjab,Wheat,2025,6,2025-06-01,Ahemadpur APMC,,ahemadpur,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Ahmedgarh APMC,,ahmedgarh,Sangrur
+Punjab,Wheat,2025,6,2025-06-01,Amargarh APMC,,amargarh,Malerkotla
+Punjab,Wheat,2025,6,2025-06-01,Amloh APMC,,amloh,Fatehgarh Sahib
+Punjab,Wheat,2025,6,2025-06-01,Amritsar APMC,,amritsar,Amritsar
+Punjab,Wheat,2025,6,2025-06-01,Bareta APMC,,bareta,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Bariwala APMC,,bariwala,Sri Muktsar Sahib
+Punjab,Wheat,2025,6,2025-06-01,Bassi Pathana APMC,,bassi pathana,Fatehgarh Sahib
+Punjab,Wheat,2025,6,2025-06-01,Bhadaur APMC,,bhadaur,Barnala
+Punjab,Wheat,2025,6,2025-06-01,Bhadaur(Sehna) APMC,,bhadaur(sehna),Barnala
+Punjab,Wheat,2025,6,2025-06-01,Bhawanigarh APMC,,bhawanigarh,Sangrur
+Punjab,Wheat,2025,6,2025-06-01,Bhikhi APMC,,bhikhi,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Bhikhiwind (Basarke) APMC,,bhikhiwind (basarke),Tarn Taran
+Punjab,Wheat,2025,6,2025-06-01,Bhikhiwind(Khalra) APMC,,bhikhiwind(khalra),Tarn Taran
+Punjab,Wheat,2025,6,2025-06-01,Bilga (Talwan ) APMC,,bilga (talwan ),Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Bilga APMC,,bilga,Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Boha APMC,,boha,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Budalada APMC,,budalada,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Budhlada (Phaphre Bhaike) APMC,,budhlada (phaphre bhaike),Mansa
+Punjab,Wheat,2025,6,2025-06-01,Chanarthal APMC,,chanarthal,Bathinda
+Punjab,Wheat,2025,6,2025-06-01,Dhanaula APMC,,dhanaula,Barnala
+Punjab,Wheat,2025,6,2025-06-01,Dhanula (Kaleke) APMC,,dhanula (kaleke),Barnala
+Punjab,Wheat,2025,6,2025-06-01,Dhilwan APMC,,dhilwan,Kapurthala
+Punjab,Wheat,2025,6,2025-06-01,Dinanagar APMC,,dinanagar,Gurdaspur
+Punjab,Wheat,2025,6,2025-06-01,Doraha APMC,,doraha,Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Firozepur City APMC,,firozepur city,Ferozepur
+Punjab,Wheat,2025,6,2025-06-01,Garh Shankar APMC,,garh shankar,Hoshiarpur
+Punjab,Wheat,2025,6,2025-06-01,GarhShankar (Kotfatuhi) APMC,,garhshankar (kotfatuhi),Hoshiarpur
+Punjab,Wheat,2025,6,2025-06-01,Jaitu APMC,,jaitu,Faridkot
+Punjab,Wheat,2025,6,2025-06-01,Jaitu(Bajakhana) APMC,,jaitu(bajakhana),Faridkot
+Punjab,Wheat,2025,6,2025-06-01,Jalalabad APMC,,jalalabad,Fazilka
+Punjab,Wheat,2025,6,2025-06-01,Jalandhar Cantt (Jamshedpur Dana Mandi) APMC,,jalandhar cantt (jamshedpur dana mandi),Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Jalandhar Cantt. APMC,,jalandhar cantt.,Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Jalandhar City APMC,,jalandhar city,Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Jalandhar City(Faintan Ganj) APMC,2450.0,jalandhar city(faintan ganj),Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Jalandhar City(Kartar Pur Dana mandi) APMC,,jalandhar city(kartar pur dana mandi),Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Kankwal Chahlan APMC,,kankwal chahlan,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Kharar APMC,,kharar,S.A.S Nagar
+Punjab,Wheat,2025,6,2025-06-01,Kot ise Khan APMC,,kot ise khan,Moga
+Punjab,Wheat,2025,6,2025-06-01,Kotkapura APMC,,kotkapura,Faridkot
+Punjab,Wheat,2025,6,2025-06-01,Kurali APMC,2440.0,kurali,S.A.S Nagar
+Punjab,Wheat,2025,6,2025-06-01,Ludhiana(Mandi gill Road) APMC,,ludhiana(mandi gill road),Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Ludhiana(Salem Tabri) APMC,,ludhiana(salem tabri),Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Majitha APMC,,majitha,Amritsar
+Punjab,Wheat,2025,6,2025-06-01,Malout (Kilianwali) APMC,,malout (kilianwali),Sri Muktsar Sahib
+Punjab,Wheat,2025,6,2025-06-01,Malout (Panniwala) APMC,,malout (panniwala),Sri Muktsar Sahib
+Punjab,Wheat,2025,6,2025-06-01,Malout APMC,,malout,Sri Muktsar Sahib
+Punjab,Wheat,2025,6,2025-06-01,Mansa APMC,,mansa,Mansa
+Punjab,Wheat,2025,6,2025-06-01,Mehal Kalan APMC,,mehal kalan,Barnala
+Punjab,Wheat,2025,6,2025-06-01,Mehal Kallan (ChananWal) APMC,,mehal kallan (chananwal),Barnala
+Punjab,Wheat,2025,6,2025-06-01,Mehatpur APMC,,mehatpur,Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Mehta APMC,,mehta,Amritsar
+Punjab,Wheat,2025,6,2025-06-01,Muktsar APMC,,muktsar,Sri Muktsar Sahib
+Punjab,Wheat,2025,6,2025-06-01,Nakodar APMC,,nakodar,Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Nakodar(Sarih) APMC,,nakodar(sarih),Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Naushera Pannuan APMC,,naushera pannuan,Tarn Taran
+Punjab,Wheat,2025,6,2025-06-01,Nawan Shahar(Mandi Jadla) APMC,,nawan shahar(mandi jadla),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,6,2025-06-01,Nawan Shahar(MandiRaho) APMC,,nawan shahar(mandiraho),Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,6,2025-06-01,Nawanshahar APMC,,nawanshahar,Shahid Bhagat Singh Nagar
+Punjab,Wheat,2025,6,2025-06-01,Noor Mehal APMC,,noor mehal,Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Patran APMC,,patran,Patiala
+Punjab,Wheat,2025,6,2025-06-01,Patran(Ghagga Mandi) APMC,,patran(ghagga mandi),Patiala
+Punjab,Wheat,2025,6,2025-06-01,Phillaur APMC,,phillaur,Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Phillaur(Apra Mandi) APMC,,phillaur(apra mandi),Jalandhar
+Punjab,Wheat,2025,6,2025-06-01,Rajpura APMC,,rajpura,Patiala
+Punjab,Wheat,2025,6,2025-06-01,Raman APMC,,raman,Bathinda
+Punjab,Wheat,2025,6,2025-06-01,Rayya APMC,,rayya,Amritsar
+Punjab,Wheat,2025,6,2025-06-01,Rayya(Sathiala) APMC,,rayya(sathiala),Amritsar
+Punjab,Wheat,2025,6,2025-06-01,Ropar APMC,,ropar,Rupnagar
+Punjab,Wheat,2025,6,2025-06-01,Sadiq APMC,,sadiq,Faridkot
+Punjab,Wheat,2025,6,2025-06-01,Sahnewal APMC,,sahnewal,Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Sangat APMC,,sangat,Bathinda
+Punjab,Wheat,2025,6,2025-06-01,Sidhwan Bet (Lodhiwala) APMC,,sidhwan bet (lodhiwala),Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Sidhwan Bet APMC,,sidhwan bet,Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,Sirhind APMC,,sirhind,Fatehgarh Sahib
+Punjab,Wheat,2025,6,2025-06-01,Sulargharat APMC,,sulargharat,Sangrur
+Punjab,Wheat,2025,6,2025-06-01,Talwandi Bhai APMC,,talwandi bhai,Ferozepur
+Punjab,Wheat,2025,6,2025-06-01,Talwandi Bhai(Mudki) APMC,,talwandi bhai(mudki),Ferozepur
+Punjab,Wheat,2025,6,2025-06-01,Tapa(Tapa Mandi) APMC,,tapa(tapa mandi),Barnala
+Punjab,Wheat,2025,6,2025-06-01,Tarantaran APMC,,tarantaran,Amritsar
+Punjab,Wheat,2025,6,2025-06-01,Zira APMC,,zira,Ferozepur
+Punjab,Wheat,2025,6,2025-06-01,kum Kalan APMC,,kum kalan,Ludhiana
+Punjab,Wheat,2025,6,2025-06-01,lakhowal APMC,,lakhowal,Ludhiana
