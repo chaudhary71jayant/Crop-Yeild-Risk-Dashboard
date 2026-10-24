@@ -1,0 +1,356 @@
+state,district,crop,year,rainfall_mm,avg_price,area_hectares,production,yield_kg_per_hectare,risk_score,risk_data_quality,drivers_available,top_driver_1,top_driver_2,top_driver_3
+Haryana,Ambala,Maize,2024-25,1447.69,2215.3608333333336,0.0,0.0,3714.0,28.524402247358164,Good,3,Price volatility,Rainfall anomaly,
+Haryana,Ambala,Rice,2024-25,1447.69,2320.0,0.84,3.55,4233.0,32.72884917398416,Good,3,Area trend,Rainfall anomaly,
+Haryana,Ambala,Wheat,2024-25,1447.69,2425.0025,0.89,4.13,4640.0,17.73684666824893,Good,3,Rainfall anomaly,Yield trend,
+Haryana,Bhiwani,Maize,2024-25,803.1,2309.84,0.0,0.0,3714.0,65.95266967073505,Limited,2,Rainfall anomaly,Yield trend,
+Haryana,Bhiwani,Rice,2024-25,803.1,,0.32,1.23,3805.0,35.294117647058826,Good,3,Rainfall anomaly,,
+Haryana,Bhiwani,Wheat,2024-25,803.1,2425.0,1.0,4.76,4735.0,35.294117647058826,Good,3,Rainfall anomaly,,
+Haryana,Charkhi Dadri,Rice,2024-25,805.28,,0.1,0.32,3175.0,35.294117647058826,Good,3,Rainfall anomaly,,
+Haryana,Charkhi Dadri,Wheat,2024-25,805.28,,0.43,1.98,4591.0,58.82352941176472,Good,3,Rainfall anomaly,Area trend,
+Haryana,Faridabad,Maize,2024-25,916.61,,0.0,0.0,3714.0,26.606018639207587,Limited,2,Rainfall anomaly,,
+Haryana,Faridabad,Rice,2024-25,916.61,,0.15,0.43,2874.0,43.87519072409992,Good,3,Area trend,Rainfall anomaly,
+Haryana,Faridabad,Wheat,2024-25,916.61,2425.53,0.32,1.33,4135.0,20.345778959394035,Good,3,Rainfall anomaly,,
+Haryana,Fatehabad,Maize,2024-25,689.23,2005.335,0.0,0.0,3714.0,34.15142310485844,Limited,2,Rainfall anomaly,,
+Haryana,Fatehabad,Rice,2024-25,689.23,2320.0,1.4,6.0,4272.0,36.8762673860825,Good,3,Rainfall anomaly,Area trend,
+Haryana,Fatehabad,Wheat,2024-25,689.23,2425.0,1.83,9.74,5308.0,34.59884293530728,Good,3,Rainfall anomaly,Yield trend,Area trend
+Haryana,Gurugram,Maize,2024-25,891.21,,0.0,0.0,3714.0,25.70360098407131,Limited,2,Rainfall anomaly,,
+Haryana,Gurugram,Rice,2024-25,891.21,3446.495,0.04,0.11,2978.0,97.74394675543371,Good,3,Yield trend,Rainfall anomaly,Area trend
+Haryana,Gurugram,Wheat,2024-25,891.21,2425.15,0.33,1.33,4039.0,54.1657992746137,Good,3,Rainfall anomaly,Area trend,Yield trend
+Haryana,Hisar,Maize,2024-25,722.5699999999999,,0.0,0.0,2048.0,44.580871089184214,Limited,2,Rainfall anomaly,,
+Haryana,Hisar,Rice,2024-25,722.5699999999999,2911.925,1.11,3.62,3248.0,43.97756620796974,Complete,4,Rainfall anomaly,Price volatility,
+Haryana,Hisar,Wheat,2024-25,722.5699999999999,2418.0,2.24,10.96,4883.0,51.19793223189144,Good,3,Rainfall anomaly,Yield trend,
+Haryana,Jhajjar,Maize,2024-25,891.21,2500.0,0.0,0.0,3714.0,56.25000000000001,Good,3,Rainfall anomaly,Price volatility,
+Haryana,Jhajjar,Rice,2024-25,891.21,2320.0,0.58,1.82,3169.0,35.98296567021865,Good,3,Rainfall anomaly,Yield trend,
+Haryana,Jhajjar,Wheat,2024-25,891.21,2425.0,0.98,4.5,4616.0,40.57996415439299,Good,3,Rainfall anomaly,Area trend,
+Haryana,Jind,Maize,2024-25,777.09,2761.0,0.0,0.0,3714.0,34.40196257811533,Limited,2,Yield trend,Rainfall anomaly,
+Haryana,Jind,Rice,2024-25,777.09,2628.1966666666667,1.69,5.59,3310.0,46.83792036422545,Good,3,Rainfall anomaly,Area trend,
+Haryana,Jind,Wheat,2024-25,777.09,2450.063333333333,2.03,10.01,4922.0,36.5370766029914,Good,3,Rainfall anomaly,Area trend,
+Haryana,Kaithal,Maize,2024-25,892.31,,0.0,0.0,3714.0,19.49899613634516,Limited,2,Rainfall anomaly,,
+Haryana,Kaithal,Rice,2024-25,892.31,2689.324,1.62,6.59,4060.0,50.143540101319,Good,3,Area trend,Rainfall anomaly,Yield trend
+Haryana,Kaithal,Wheat,2024-25,892.31,2425.0,1.74,8.44,4865.0,30.52357689827808,Good,3,Rainfall anomaly,Area trend,
+Haryana,Karnal,Maize,2024-25,1026.07,,0.0,0.0,3714.0,46.15384615384616,Limited,2,Rainfall anomaly,,
+Haryana,Karnal,Rice,2024-25,1026.07,2321.4933333333333,1.72,7.38,4292.0,56.101662599962744,Good,3,Rainfall anomaly,Area trend,
+Haryana,Karnal,Wheat,2024-25,1026.07,2425.0,1.58,7.75,4896.0,68.37146336595147,Good,3,Rainfall anomaly,Yield trend,Area trend
+Haryana,Kurukshetra,Maize,2024-25,1273.31,1763.0099999999998,0.0,0.0,3714.0,32.701890328286744,Limited,2,Rainfall anomaly,,
+Haryana,Kurukshetra,Rice,2024-25,1273.31,2411.0125000000003,1.1,5.22,4732.0,48.53673966280751,Good,3,Rainfall anomaly,Area trend,
+Haryana,Kurukshetra,Wheat,2024-25,1273.31,2425.0,1.08,4.94,4571.0,29.98586961738835,Good,3,Rainfall anomaly,Area trend,Yield trend
+Haryana,Mahendragarh,Maize,2024-25,885.46,,0.0,0.0,3714.0,,Insufficient,0,,,
+Haryana,Mahendragarh,Rice,2024-25,885.46,,0.0,0.0,3766.0,,Very Limited,1,Rainfall anomaly,,
+Haryana,Mahendragarh,Wheat,2024-25,885.46,2528.182727272728,0.29,1.31,4518.0,48.162392522754644,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Haryana,Nuh,Rice,2024-25,884.79,,0.1,0.26,2510.0,53.5119797608959,Good,3,Rainfall anomaly,Area trend,
+Haryana,Nuh,Wheat,2024-25,884.79,2360.0,0.69,2.93,4271.0,36.22764471426872,Good,3,Rainfall anomaly,Area trend,
+Haryana,Palwal,Rice,2024-25,892.24,2376.9725,0.38,1.08,2820.0,37.93129588511586,Good,3,Area trend,Rainfall anomaly,
+Haryana,Palwal,Wheat,2024-25,892.24,2362.5,0.95,4.2,4439.0,16.963901560189292,Good,3,Rainfall anomaly,Area trend,
+Haryana,Panchkula,Maize,2024-25,1447.69,2225.0,0.03,0.13,3742.0,9.199437409278271,Good,3,Rainfall anomaly,,
+Haryana,Panchkula,Rice,2024-25,1447.69,,0.13,0.52,4052.0,28.513107339922406,Good,3,Area trend,Rainfall anomaly,
+Haryana,Panchkula,Wheat,2024-25,1447.69,2425.0,0.18,0.68,3710.0,22.414053677613733,Good,3,Area trend,Rainfall anomaly,
+Haryana,Panipat,Maize,2024-25,1026.07,,0.0,0.0,3714.0,46.15384615384616,Limited,2,Rainfall anomaly,,
+Haryana,Panipat,Rice,2024-25,1026.07,2977.383333333333,0.71,2.57,3609.0,57.26341719316651,Good,3,Rainfall anomaly,Area trend,
+Haryana,Panipat,Wheat,2024-25,1026.07,2425.0,0.79,3.84,4851.0,44.26117868628643,Good,3,Rainfall anomaly,Area trend,
+Haryana,Rewari,Maize,2024-25,884.79,,0.0,0.0,3714.0,,Insufficient,0,,,
+Haryana,Rewari,Rice,2024-25,884.79,,0.03,0.08,2667.0,32.58883733603147,Good,3,Rainfall anomaly,,
+Haryana,Rewari,Wheat,2024-25,884.79,2573.7375,0.33,1.44,4395.0,47.80566819047836,Good,3,Rainfall anomaly,Area trend,
+Haryana,Rohtak,Maize,2024-25,933.67,,0.0,0.0,3714.0,,Insufficient,0,,,
+Haryana,Rohtak,Rice,2024-25,933.67,2305.685,0.74,2.15,2899.0,38.47231649640532,Good,3,Rainfall anomaly,Area trend,
+Haryana,Rohtak,Wheat,2024-25,933.67,2425.005,1.0,4.47,4476.0,35.294117647058826,Good,3,Rainfall anomaly,,
+Haryana,Sirsa,Maize,2024-25,620.72,,0.0,0.0,3714.0,21.690552717603737,Limited,2,Rainfall anomaly,,
+Haryana,Sirsa,Rice,2024-25,620.72,3153.56125,1.36,5.01,3676.0,32.87613453606394,Complete,4,Price volatility,Rainfall anomaly,Area trend
+Haryana,Sirsa,Wheat,2024-25,620.72,2425.0075,2.81,14.09,5016.0,16.586893254638152,Good,3,Rainfall anomaly,,
+Haryana,Sonipat,Maize,2024-25,933.67,,0.0,0.01,3714.0,46.15384615384616,Limited,2,Rainfall anomaly,,
+Haryana,Sonipat,Rice,2024-25,933.67,2930.0,1.18,3.51,2965.0,49.450148795843404,Good,3,Rainfall anomaly,Area trend,Yield trend
+Haryana,Sonipat,Wheat,2024-25,933.67,2350.0,1.39,6.21,4458.0,41.07123477712548,Good,3,Rainfall anomaly,Area trend,Yield trend
+Haryana,Yamunanagar,Maize,2024-25,1556.73,2150.0,0.0,0.0,3714.0,75.82270532055114,Limited,2,Yield trend,Rainfall anomaly,
+Haryana,Yamunanagar,Rice,2024-25,1556.73,2315.945,0.77,3.55,4621.0,40.335009951009695,Good,3,Area trend,Rainfall anomaly,
+Haryana,Yamunanagar,Wheat,2024-25,1556.73,2425.0,0.99,4.96,5002.0,30.786601246910713,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Amritsar,Maize,2024-25,1158.33,2060.646666666667,0.0,0.01,4600.0,42.948563092001386,Good,3,Yield trend,Rainfall anomaly,
+Punjab,Amritsar,Rice,2024-25,1158.33,2202.5,1.82,6.27,3438.0,21.278824223347442,Good,3,Yield trend,Rainfall anomaly,
+Punjab,Amritsar,Wheat,2024-25,1158.33,2376.6766666666667,1.86,9.67,5188.0,1.7720925037660846,Good,3,Rainfall anomaly,,
+Punjab,Barnala,Maize,2024-25,804.41,2198.48,0.0,0.0,4200.0,,Insufficient,0,,,
+Punjab,Barnala,Rice,2024-25,804.41,2320.0,1.15,5.62,4909.0,17.57602371369062,Good,3,Rainfall anomaly,,
+Punjab,Barnala,Wheat,2024-25,804.41,2476.6666666666665,1.14,6.03,5276.0,17.57602371369062,Good,3,Rainfall anomaly,,
+Punjab,Bathinda,Maize,2024-25,643.8100000000001,2138.47,0.0,0.0,4200.0,41.97239117948088,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Bathinda,Rice,2024-25,643.8100000000001,2320.0,2.17,9.81,4530.0,3.4243613903448593,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Bathinda,Wheat,2024-25,643.8100000000001,2425.0,2.55,13.66,5350.0,3.3433597121211833,Good,3,Rainfall anomaly,,
+Punjab,Faridkot,Rice,2024-25,708.94,2320.0,1.17,5.14,4388.0,12.843452356368795,Good,3,Rainfall anomaly,,
+Punjab,Faridkot,Wheat,2024-25,708.94,2425.0,1.15,6.08,5289.0,12.843452356368795,Good,3,Rainfall anomaly,,
+Punjab,Fatehgarh Sahib,Maize,2024-25,1047.61,2263.875,0.0,0.01,4250.0,38.59490242124553,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Fatehgarh Sahib,Rice,2024-25,1047.61,2320.0,0.88,4.1,4675.0,0.7605741911176767,Good,3,Rainfall anomaly,,
+Punjab,Fatehgarh Sahib,Wheat,2024-25,1047.61,2425.0,0.85,4.47,5249.0,0.7605741911176767,Good,3,Rainfall anomaly,,
+Punjab,Fazilka,Maize,2024-25,633.51,1979.62,0.0,0.02,5600.0,46.15384615384616,Limited,2,Rainfall anomaly,,
+Punjab,Fazilka,Rice,2024-25,633.51,2320.0175,1.28,4.29,3349.0,17.176183723410787,Good,3,Yield trend,Rainfall anomaly,
+Punjab,Fazilka,Wheat,2024-25,633.51,2425.11,1.97,9.73,4947.0,6.95395021855483,Good,3,Rainfall anomaly,Area trend,
+Punjab,Ferozepur,Maize,2024-25,926.82,2165.976,0.0,0.0,4200.0,,Insufficient,0,,,
+Punjab,Ferozepur,Rice,2024-25,926.82,2316.6666666666665,1.87,8.72,4672.0,32.91951348827447,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Ferozepur,Wheat,2024-25,926.82,2425.0,1.87,9.79,5223.0,23.44514179266326,Good,3,Rainfall anomaly,,
+Punjab,Gurdaspur,Maize,2024-25,1158.33,,0.0,0.01,3600.0,54.47729991309792,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Gurdaspur,Rice,2024-25,1158.33,2320.01,1.73,7.04,4072.0,1.7720925037660846,Good,3,Rainfall anomaly,,
+Punjab,Gurdaspur,Wheat,2024-25,1158.33,2425.0,1.86,8.99,4834.0,1.7720925037660846,Good,3,Rainfall anomaly,,
+Punjab,Hoshiarpur,Maize,2024-25,1146.52,1450.0,0.42,1.57,3765.0,49.57673191736339,Good,3,Yield trend,Rainfall anomaly,
+Punjab,Hoshiarpur,Rice,2024-25,1146.52,2320.0,0.8,3.44,4319.0,14.59971093649534,Good,3,Rainfall anomaly,Area trend,
+Punjab,Hoshiarpur,Wheat,2024-25,1146.52,2425.0,1.46,6.33,4345.0,8.400261329128092,Good,3,Rainfall anomaly,,
+Punjab,Jalandhar,Maize,2024-25,1146.52,2386.544,0.04,0.16,4078.0,31.929673093833976,Good,3,Area trend,Rainfall anomaly,
+Punjab,Jalandhar,Rice,2024-25,1146.52,2480.0,1.76,7.91,4507.0,11.25341711433688,Good,3,Rainfall anomaly,Area trend,
+Punjab,Jalandhar,Wheat,2024-25,1146.52,2405.0,1.73,8.69,5012.0,8.400261329128092,Good,3,Rainfall anomaly,,
+Punjab,Kapurthala,Maize,2024-25,963.72,1542.8233333333335,0.01,0.05,4091.0,19.948521160292152,Good,3,Yield trend,Rainfall anomaly,
+Punjab,Kapurthala,Rice,2024-25,963.72,2320.0,1.17,5.59,4791.0,9.481169293701658,Good,3,Rainfall anomaly,,
+Punjab,Kapurthala,Wheat,2024-25,963.72,2425.0950000000003,1.07,5.49,5111.0,16.39156495695966,Good,3,Rainfall anomaly,Area trend,
+Punjab,Ludhiana,Maize,2024-25,926.82,2181.698,0.01,0.02,3660.0,23.44514179266326,Good,3,Rainfall anomaly,,
+Punjab,Ludhiana,Rice,2024-25,926.82,2320.0,2.58,12.42,4812.0,23.44514179266326,Good,3,Rainfall anomaly,,
+Punjab,Ludhiana,Wheat,2024-25,926.82,2498.145,2.4,12.33,5132.0,24.469948768575,Good,3,Rainfall anomaly,Area trend,
+Punjab,Malerkotla,Maize,2024-25,804.41,2320.0,0.0,0.01,4250.0,60.58433641230245,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Malerkotla,Rice,2024-25,804.41,2320.0,0.53,2.83,5328.0,17.57602371369062,Good,3,Rainfall anomaly,,
+Punjab,Malerkotla,Wheat,2024-25,804.41,2425.0,0.52,2.84,5439.0,17.57602371369062,Good,3,Rainfall anomaly,,
+Punjab,Mansa,Maize,2024-25,721.61,,0.0,0.0,4200.0,18.605284288890417,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Mansa,Rice,2024-25,721.61,2320.0,1.44,6.38,4434.0,9.475032918807134,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Mansa,Wheat,2024-25,721.61,2425.0,1.72,9.08,5276.0,5.912434187399274,Good,3,Rainfall anomaly,,
+Punjab,Moga,Maize,2024-25,809.16,,0.0,0.01,4250.0,77.84052892613303,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Moga,Rice,2024-25,809.16,2241.1775,1.85,8.72,4721.0,18.3486397670429,Good,3,Rainfall anomaly,,
+Punjab,Moga,Wheat,2024-25,809.16,2430.0,1.76,9.44,5360.0,18.3486397670429,Good,3,Rainfall anomaly,,
+Punjab,Pathankot,Maize,2024-25,1449.33,,0.06,0.2,3313.0,7.967026720137706,Good,3,Rainfall anomaly,,
+Punjab,Pathankot,Rice,2024-25,1449.33,,0.27,1.0,3648.0,7.967026720137706,Good,3,Rainfall anomaly,,
+Punjab,Pathankot,Wheat,2024-25,1449.33,,0.4,1.68,4184.0,8.207468795255142,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Patiala,Maize,2024-25,892.31,1927.575,0.01,0.04,5029.0,22.1543199283323,Good,3,Rainfall anomaly,,
+Punjab,Patiala,Rice,2024-25,892.31,2320.0,2.33,10.45,4483.0,22.1543199283323,Good,3,Rainfall anomaly,,
+Punjab,Patiala,Wheat,2024-25,892.31,2421.3766666666666,2.31,11.65,5038.0,22.1543199283323,Good,3,Rainfall anomaly,,
+Punjab,Rupnagar,Maize,2024-25,1191.48,,0.2,1.12,5534.0,20.160441335072424,Good,3,Area trend,Rainfall anomaly,
+Punjab,Rupnagar,Rice,2024-25,1191.48,2320.0,0.42,1.71,4108.0,8.204359949435606,Good,3,Rainfall anomaly,,
+Punjab,Rupnagar,Wheat,2024-25,1191.48,2425.0,0.67,3.12,4630.0,11.89667920088229,Good,3,Rainfall anomaly,Area trend,
+Punjab,S.A.S Nagar,Maize,2024-25,1447.69,1868.6933333333327,0.05,0.2,4551.0,9.199437409278271,Good,3,Rainfall anomaly,,
+Punjab,S.A.S Nagar,Rice,2024-25,1447.69,2320.0,0.33,1.27,3884.0,32.72884917398416,Good,3,Area trend,Rainfall anomaly,
+Punjab,S.A.S Nagar,Wheat,2024-25,1447.69,2732.628571428572,0.52,2.41,4680.0,13.936752675285318,Good,3,Rainfall anomaly,Area trend,
+Punjab,Sangrur,Maize,2024-25,721.61,2034.07,0.0,0.0,4200.0,18.605284288890417,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Sangrur,Rice,2024-25,721.61,2320.0,2.41,11.69,4853.0,5.912434187399274,Good,3,Rainfall anomaly,,
+Punjab,Sangrur,Wheat,2024-25,721.61,2425.19,2.4,13.25,5519.0,5.912434187399274,Good,3,Rainfall anomaly,,
+Punjab,Shahid Bhagat Singh Nagar,Maize,2024-25,781.01,2356.35,0.05,0.26,4819.0,39.892512994540304,Good,3,Yield trend,Rainfall anomaly,
+Punjab,Shahid Bhagat Singh Nagar,Rice,2024-25,781.01,2321.6666666666665,0.63,2.87,4538.0,8.204359949435606,Good,3,Rainfall anomaly,,
+Punjab,Shahid Bhagat Singh Nagar,Wheat,2024-25,781.01,2556.07875,0.78,3.9,5019.0,15.589908234947602,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Sri Muktsar Sahib,Rice,2024-25,633.51,2320.0,2.02,8.41,4173.0,6.5430728234147475,Good,3,Rainfall anomaly,Yield trend,
+Punjab,Sri Muktsar Sahib,Wheat,2024-25,633.51,2425.0,2.18,11.71,5379.0,4.443173127571092,Good,3,Rainfall anomaly,,
+Punjab,Tarn Taran,Maize,2024-25,963.72,,0.0,0.0,4200.0,41.758086995676955,Limited,2,Yield trend,Rainfall anomaly,
+Punjab,Tarn Taran,Rice,2024-25,963.72,2320.0,1.85,7.93,4280.0,19.138004259023738,Good,3,Area trend,Rainfall anomaly,
+Punjab,Tarn Taran,Wheat,2024-25,963.72,2425.0,1.93,9.59,4973.0,9.481169293701658,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Agra,Maize,2024-25,1104.7,2281.54,0.01,0.05,3483.0,21.654915415951148,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Agra,Rice,2024-25,1104.7,,0.17,0.47,2729.0,50.334081196654544,Good,3,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Agra,Wheat,2024-25,1104.7,2670.1158333333333,1.25,5.22,4165.0,40.387913400720244,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Aligarh,Maize,2024-25,887.1,2292.4925,0.16,0.48,2997.0,24.101833995390006,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Aligarh,Rice,2024-25,887.1,2187.454444444445,1.89,4.91,2600.0,40.53864291608406,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Aligarh,Wheat,2024-25,887.1,2600.8754166666663,1.84,6.94,3764.0,33.04665089309418,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Ambedkar Nagar,Maize,2024-25,1058.02,,0.0,0.01,2127.0,17.05775302027302,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Ambedkar Nagar,Rice,2024-25,1058.02,,1.52,4.76,3129.0,36.53792010549163,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Ambedkar Nagar,Wheat,2024-25,1058.02,,1.1,4.26,3890.0,29.824416194766552,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Amethi,Maize,2024-25,1111.83,,0.01,0.02,3391.0,21.873249273165026,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Amethi,Rice,2024-25,1111.83,2268.6181818181817,0.97,2.73,2796.0,36.90839892510887,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Amethi,Wheat,2024-25,1111.83,2625.18,1.17,3.73,3175.0,45.08387938299908,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Amroha,Maize,2024-25,1016.37,,0.04,0.13,3314.0,39.43817581135206,Good,3,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Amroha,Rice,2024-25,1016.37,,0.32,0.81,2526.0,54.6186498227399,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Amroha,Wheat,2024-25,1016.37,2500.20625,0.87,3.19,3665.0,54.259943859346556,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Auraiya,Maize,2024-25,995.18,2363.943333333333,0.06,0.13,2222.0,37.082033956778226,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Auraiya,Rice,2024-25,995.18,2236.916,0.85,2.62,3084.0,80.26629015878203,Good,3,Yield trend,Rainfall anomaly,Area trend
+Uttar Pradesh,Auraiya,Wheat,2024-25,995.18,2658.7425,0.97,3.17,3252.0,55.31042976921074,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Ayodhya,Maize,2024-25,1111.83,2521.931666666667,0.04,0.12,3094.0,35.55359508757919,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Ayodhya,Rice,2024-25,1111.83,2243.8166666666666,0.94,2.81,2987.0,33.472453716389374,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Ayodhya,Wheat,2024-25,1111.83,2627.7758333333336,1.04,3.67,3521.0,53.675608813176495,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Azamgarh,Maize,2024-25,994.29,,0.04,0.11,2617.0,48.81511159786333,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Azamgarh,Rice,2024-25,994.29,2313.2870000000003,1.65,4.02,2434.0,52.78916472967265,Good,3,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Azamgarh,Wheat,2024-25,994.29,2634.6670833333333,2.28,8.2,3602.0,41.3770256261726,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Baghpat,Maize,2024-25,1065.14,,0.0,0.01,3474.0,28.173686855120643,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Baghpat,Rice,2024-25,1065.14,,0.13,0.35,2728.0,21.544584065680493,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Baghpat,Wheat,2024-25,1065.14,2657.14,0.48,2.09,4398.0,56.68487315335543,Good,3,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Bahraich,Maize,2024-25,1521.7,2285.9666666666667,0.51,1.01,1999.0,22.982673186457266,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Bahraich,Rice,2024-25,1521.7,2159.295,1.66,5.09,3066.0,36.821317628065664,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Bahraich,Wheat,2024-25,1521.7,2582.85375,1.9,6.69,3528.0,26.58513665260588,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Ballia,Maize,2024-25,847.26,,0.18,0.49,2711.0,18.31349675102751,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Ballia,Rice,2024-25,847.26,2408.348571428571,0.69,1.75,2527.0,35.96548970964013,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Ballia,Wheat,2024-25,847.26,2621.0416666666665,1.41,5.15,3653.0,44.121338043312996,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Balrampur,Maize,2024-25,1740.86,2304.8975,0.03,0.07,2414.0,25.78444562380658,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Balrampur,Rice,2024-25,1740.86,2185.266666666667,1.21,3.32,2743.0,38.04274163259815,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Balrampur,Wheat,2024-25,1740.86,2660.182916666666,1.02,3.21,3135.0,21.098914710523704,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Banda,Maize,2024-25,919.74,,0.0,0.01,3403.0,32.25162397092988,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Banda,Rice,2024-25,919.74,2300.0,1.21,2.96,2438.0,47.23061541670575,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Banda,Wheat,2024-25,919.74,2572.8995833333333,1.82,5.06,2790.0,54.11825472154383,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Bara Banki,Maize,2024-25,1278.6,,0.05,0.11,2433.0,12.644128274493717,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Bara Banki,Rice,2024-25,1278.6,2232.2325,2.08,5.97,2872.0,29.914023609302465,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Bara Banki,Wheat,2024-25,1278.6,2662.6141666666667,1.52,6.31,4141.0,36.08780645759151,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Bareilly,Maize,2024-25,1239.27,2284.1666666666665,0.08,0.27,3474.0,10.22034278072884,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Bareilly,Rice,2024-25,1239.27,2298.1066666666666,1.58,4.46,2825.0,31.986830632442093,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Bareilly,Wheat,2024-25,1239.27,2582.8783333333336,1.67,6.74,4031.0,34.09441408980849,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Basti,Maize,2024-25,1459.09,,0.02,0.06,2998.0,10.79233336731529,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Basti,Rice,2024-25,1459.09,2285.0958333333333,1.39,3.71,2661.0,26.532717630092545,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Basti,Wheat,2024-25,1459.09,2630.3683333333333,1.28,4.46,3476.0,29.222965139545096,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Bhadohi,Maize,2024-25,899.49,,0.0,0.01,3161.0,20.002223211214588,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Bhadohi,Rice,2024-25,899.49,2302.108,0.6,1.9,3179.0,37.936345289669866,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Bhadohi,Wheat,2024-25,899.49,2579.6175,0.48,1.66,3471.0,27.022281788712636,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Bijnor,Maize,2024-25,1345.3,2222.8290909090906,0.0,0.02,3523.0,17.42250577288786,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Bijnor,Rice,2024-25,1345.3,2300.0,0.29,0.76,2606.0,30.942581007635987,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Bijnor,Wheat,2024-25,1345.3,2604.454166666667,1.28,4.61,3596.0,43.30570534663306,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Budaun,Maize,2024-25,956.85,2283.47875,0.25,0.85,3353.0,20.465163224142273,Complete,4,Price volatility,Rainfall anomaly,
+Uttar Pradesh,Budaun,Rice,2024-25,956.85,2241.697083333333,1.69,4.41,2620.0,37.98536128318552,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Budaun,Wheat,2024-25,956.85,2617.5241666666666,1.91,7.73,4044.0,15.07742402374961,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Bulandshahr,Maize,2024-25,923.0,2418.1240000000003,0.45,1.3,2888.0,27.927794234862393,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Bulandshahr,Rice,2024-25,923.0,,1.43,3.86,2706.0,51.26047697676546,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Bulandshahr,Wheat,2024-25,923.0,2669.9958333333334,1.78,7.04,3954.0,50.16258236624534,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Chandauli,Maize,2024-25,1031.34,,0.0,0.01,3458.0,79.15092448842081,Limited,2,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Chandauli,Rice,2024-25,1031.34,2300.0,1.21,4.17,3434.0,39.00026680421493,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Chandauli,Wheat,2024-25,1031.34,2634.9525,1.06,3.84,3615.0,24.72126917627093,Complete,4,Rainfall anomaly,Price volatility,Area trend
+Uttar Pradesh,Chitrakoot,Maize,2024-25,1125.46,,0.03,0.09,3479.0,39.61367205343001,Limited,2,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Chitrakoot,Rice,2024-25,1125.46,,0.36,0.83,2282.0,11.362840457950462,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Chitrakoot,Wheat,2024-25,1125.46,2629.556666666667,0.61,1.75,2860.0,39.57627659600471,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Deoria,Maize,2024-25,1150.39,,0.05,0.13,2666.0,23.761909155647672,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Deoria,Rice,2024-25,1150.39,2236.1275,1.4,3.67,2628.0,50.72501539029117,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Deoria,Wheat,2024-25,1150.39,2615.521111111111,1.44,5.16,3568.0,39.91875244466417,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Etah,Maize,2024-25,968.49,2226.335833333333,0.25,0.88,3552.0,18.809096500937155,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Etah,Rice,2024-25,968.49,2770.0,0.88,2.29,2584.0,13.62012118592813,Good,3,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Etah,Wheat,2024-25,968.49,2569.5575,1.15,4.15,3625.0,42.411322161859374,Complete,4,Area trend,Yield trend,Rainfall anomaly
+Uttar Pradesh,Etawah,Maize,2024-25,995.18,2287.619,0.14,0.47,3454.0,26.539095810585984,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Etawah,Rice,2024-25,995.18,2355.9025,0.73,2.32,3166.0,31.46218814584822,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Etawah,Wheat,2024-25,995.18,2632.9791666666665,0.91,3.73,4083.0,47.58078430614493,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Farrukhabad,Maize,2024-25,957.23,2348.9925,0.53,1.67,3148.0,33.83559612646325,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Farrukhabad,Rice,2024-25,957.23,2303.3725,1.02,3.27,3196.0,34.62832511458932,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Farrukhabad,Wheat,2024-25,957.23,2639.320416666667,0.68,3.15,4617.0,49.14565834112175,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Fatehpur,Maize,2024-25,749.56,1950.0,0.02,0.07,3270.0,91.97863021026373,Limited,2,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Fatehpur,Rice,2024-25,749.56,2162.0091666666667,1.81,4.79,2653.0,55.02927404044749,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Fatehpur,Wheat,2024-25,749.56,2630.562083333333,1.71,5.75,3359.0,33.293877073261484,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Firozabad,Maize,2024-25,1078.94,2367.742083333333,0.05,0.17,3361.0,21.432025686144137,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Firozabad,Rice,2024-25,1078.94,,0.49,1.65,3366.0,19.39296716968794,Good,3,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Firozabad,Wheat,2024-25,1078.94,2719.258333333333,0.93,3.51,3766.0,48.69875624951772,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Gautam Buddha Nagar,Maize,2024-25,916.61,2407.05,0.01,0.03,2908.0,42.05711813406315,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Gautam Buddha Nagar,Rice,2024-25,916.61,2577.905714285714,0.28,0.78,2803.0,48.4073684742771,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Gautam Buddha Nagar,Wheat,2024-25,916.61,2639.9291666666663,0.51,2.01,3962.0,42.170442444708065,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Ghaziabad,Maize,2024-25,1065.14,2434.3283333333334,0.0,0.02,3459.0,48.783490335801545,Good,3,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Ghaziabad,Rice,2024-25,1065.14,,0.05,0.14,2661.0,45.07399583038638,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Ghaziabad,Wheat,2024-25,1065.14,2653.1891666666666,0.27,1.02,3773.0,43.72535724313405,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Ghazipur,Maize,2024-25,991.84,,0.01,0.03,3414.0,42.53249569017414,Good,3,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Ghazipur,Rice,2024-25,991.84,2350.0,1.8,5.35,2970.0,66.36082539331335,Good,3,Yield trend,Rainfall anomaly,Area trend
+Uttar Pradesh,Ghazipur,Wheat,2024-25,991.84,2711.25,1.71,6.5,3806.0,25.913198789342346,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Gonda,Maize,2024-25,1512.1,2342.840833333333,0.21,0.33,1593.0,22.19024529254256,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Gonda,Rice,2024-25,1512.1,2194.1670833333333,1.37,3.54,2590.0,34.46430937276674,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Gonda,Wheat,2024-25,1512.1,2672.478333333333,1.42,5.25,3688.0,39.57706800275529,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Gorakhpur,Maize,2024-25,1172.31,2426.096666666667,0.03,0.09,2960.0,24.688682215585857,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Gorakhpur,Rice,2024-25,1172.31,2273.8058333333333,1.54,4.42,2877.0,31.868924881402002,Complete,4,Rainfall anomaly,Price volatility,Area trend
+Uttar Pradesh,Gorakhpur,Wheat,2024-25,1172.31,2574.2975,1.73,6.93,4002.0,43.53020331572454,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Hamirpur,Maize,2024-25,844.3,,0.01,0.03,3455.0,,Very Limited,1,Rainfall anomaly,,
+Uttar Pradesh,Hamirpur,Rice,2024-25,844.3,2449.2905,0.2,0.41,2100.0,61.747996890274365,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Hamirpur,Wheat,2024-25,844.3,2541.0750000000003,1.36,4.51,3312.0,48.83651889708477,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Hapur,Maize,2024-25,923.0,,0.0,0.0,3092.0,34.732730198105905,Good,3,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Hapur,Rice,2024-25,923.0,,0.15,0.38,2470.0,51.26047697676546,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Hapur,Wheat,2024-25,923.0,,0.41,1.56,3840.0,51.26047697676546,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Hardoi,Maize,2024-25,947.26,2259.7583333333337,0.21,0.49,2291.0,20.67860349285894,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Hardoi,Rice,2024-25,947.26,2242.14,1.81,5.01,2765.0,30.063524407025827,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Hardoi,Wheat,2024-25,947.26,2608.0066666666667,3.07,11.37,3699.0,39.11945592585952,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Hathras,Maize,2024-25,961.4,2202.310833333333,0.1,0.35,3426.0,27.048192496314737,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Hathras,Rice,2024-25,961.4,2357.02,0.62,1.61,2604.0,27.96746114339958,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Hathras,Wheat,2024-25,961.4,2633.968333333333,0.68,2.69,3958.0,45.063866942522516,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Jalaun,Maize,2024-25,1027.09,,0.02,0.05,3449.0,34.926785730676684,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Jalaun,Rice,2024-25,1027.09,2410.0,0.52,1.17,2261.0,34.926785730676684,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Jalaun,Wheat,2024-25,1027.09,2603.5141666666664,1.59,6.04,3790.0,27.60055948177253,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Jaunpur,Maize,2024-25,863.9,2348.532083333333,0.21,0.49,2308.0,64.67920701292003,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Jaunpur,Rice,2024-25,863.9,2299.35125,1.69,4.69,2775.0,33.20729499655359,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Jaunpur,Wheat,2024-25,863.9,2647.4591666666665,2.02,7.92,3922.0,43.59361733296804,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Jhansi,Maize,2024-25,1216.67,,0.02,0.03,1160.0,37.80783482257931,Good,3,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Jhansi,Rice,2024-25,1216.67,2339.13,0.63,1.38,2197.0,19.49267091638364,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Jhansi,Wheat,2024-25,1216.67,2658.6041666666665,1.69,5.74,3393.0,25.92289860338816,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Kannauj,Maize,2024-25,866.9,2342.971666666667,0.58,1.86,3232.0,40.04930839279387,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Kannauj,Rice,2024-25,866.9,2296.9533333333334,0.43,1.43,3348.0,50.7973876803032,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Kannauj,Wheat,2024-25,866.9,2636.39875,0.6,2.75,4548.0,36.23047132003758,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Kanpur Dehat,Maize,2024-25,836.71,2311.2000000000003,0.12,0.34,2759.0,67.10642849159117,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Kanpur Dehat,Rice,2024-25,836.71,2316.137222222222,0.73,2.22,3061.0,48.13575654211318,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Kanpur Dehat,Wheat,2024-25,836.71,2616.855833333333,1.38,6.11,4438.0,31.795730622170847,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Kanpur Nagar,Maize,2024-25,836.71,,0.13,0.43,3272.0,68.56352480532044,Good,3,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Kanpur Nagar,Rice,2024-25,836.71,,0.52,1.59,3061.0,46.88876406886489,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Kanpur Nagar,Wheat,2024-25,836.71,,1.07,4.5,4225.0,45.34105064977183,Good,3,Rainfall anomaly,Yield trend,Area trend
+Uttar Pradesh,Kasganj,Maize,2024-25,956.85,2324.645,0.34,1.02,2964.0,17.096272057075012,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Kasganj,Rice,2024-25,956.85,,0.45,1.19,2679.0,35.264772082596906,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Kasganj,Wheat,2024-25,956.85,2603.1841666666664,0.94,3.59,3811.0,23.373051215028628,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Kaushambi,Maize,2024-25,902.28,,0.01,0.03,3447.0,81.24954116586733,Limited,2,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Kaushambi,Rice,2024-25,902.28,2297.06,0.77,2.66,3471.0,48.74064274381804,Good,3,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Kaushambi,Wheat,2024-25,902.28,2631.837916666667,0.8,3.51,4367.0,31.552361570595952,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Kheri,Maize,2024-25,1253.71,2157.8475,0.05,0.14,2924.0,20.31010434140235,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Kheri,Rice,2024-25,1253.71,2100.6525,1.13,3.8,3352.0,35.29741464200573,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Kheri,Wheat,2024-25,1253.71,2583.8595833333334,1.82,7.28,3993.0,47.66930057884872,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Kushinagar,Maize,2024-25,1545.58,,0.05,0.14,3158.0,19.968650435014485,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Kushinagar,Rice,2024-25,1545.58,2324.715,0.87,2.4,2749.0,30.09275160833602,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Kushinagar,Wheat,2024-25,1545.58,2411.575,1.12,4.3,3839.0,43.475361640997654,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Lalitpur,Maize,2024-25,1412.13,2197.2229166666666,0.11,0.09,856.0,30.698458350058008,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Lalitpur,Rice,2024-25,1412.13,2123.2445833333336,0.01,0.01,1231.0,70.707853919229,Complete,4,Yield trend,Rainfall anomaly,Area trend
+Uttar Pradesh,Lalitpur,Wheat,2024-25,1412.13,2592.020833333333,1.72,5.83,3401.0,27.974359615190934,Complete,4,Rainfall anomaly,Price volatility,Yield trend
+Uttar Pradesh,Lucknow,Maize,2024-25,957.96,,0.01,0.02,2059.0,21.98352116730839,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Lucknow,Rice,2024-25,957.96,2445.45625,0.36,1.0,2774.0,36.52665136139389,Complete,4,Rainfall anomaly,Price volatility,Area trend
+Uttar Pradesh,Lucknow,Wheat,2024-25,957.96,2662.563333333333,0.72,2.4,3310.0,43.32814891155022,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Mahoba,Maize,2024-25,970.6,,0.0,0.0,327.0,32.08113458658926,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Mahoba,Rice,2024-25,970.6,,0.02,0.05,2100.0,34.47753472545844,Limited,2,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Mahoba,Wheat,2024-25,970.6,2601.3725,0.77,2.43,3160.0,30.271247258664385,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Mahrajganj,Maize,2024-25,1545.58,,0.07,0.25,3475.0,19.968650435014485,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Mahrajganj,Rice,2024-25,1545.58,2229.65375,1.56,4.29,2759.0,23.317866780068297,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Mahrajganj,Wheat,2024-25,1545.58,2492.1383333333333,1.31,4.83,3699.0,35.78421189959512,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Mainpuri,Maize,2024-25,949.43,2340.6095833333334,0.32,1.12,3528.0,23.524677391902195,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Mainpuri,Rice,2024-25,949.43,,0.66,2.0,3016.0,46.66786004375791,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Mainpuri,Wheat,2024-25,949.43,2613.681666666667,1.34,4.96,3712.0,26.647781112953027,Complete,4,Rainfall anomaly,Price volatility,Area trend
+Uttar Pradesh,Mathura,Maize,2024-25,970.68,2208.155,0.06,0.21,3483.0,13.592728750980125,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Mathura,Rice,2024-25,970.68,2300.0,1.14,2.51,2211.0,33.923851397808335,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Mathura,Wheat,2024-25,970.68,2675.681666666667,1.69,6.27,3717.0,34.122977379491324,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Mau,Maize,2024-25,996.27,,0.0,0.0,2249.0,25.675052256074242,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Mau,Rice,2024-25,996.27,,0.9,2.41,2682.0,89.33952893982877,Good,3,Yield trend,Rainfall anomaly,Area trend
+Uttar Pradesh,Mau,Wheat,2024-25,996.27,,0.92,3.24,3505.0,54.02631982734065,Good,3,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Meerut,Maize,2024-25,1065.14,2410.843333333333,0.03,0.09,3463.0,32.04958245877881,Good,3,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Meerut,Rice,2024-25,1065.14,,0.13,0.33,2560.0,38.28309800557203,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Meerut,Wheat,2024-25,1065.14,2648.435833333333,0.72,2.93,4049.0,46.52978900176131,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Mirzapur,Maize,2024-25,1052.88,,0.02,0.04,2459.0,76.48262912623323,Good,3,Yield trend,Area trend,Rainfall anomaly
+Uttar Pradesh,Mirzapur,Rice,2024-25,1052.88,2345.299375,1.14,3.52,3081.0,42.086738899002626,Good,3,Yield trend,Area trend,Rainfall anomaly
+Uttar Pradesh,Mirzapur,Wheat,2024-25,1052.88,2564.8129166666668,1.22,4.16,3421.0,40.67077523068297,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Moradabad,Maize,2024-25,1163.71,,0.0,0.02,3576.0,17.43261657664563,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Moradabad,Rice,2024-25,1163.71,,0.91,2.6,2873.0,23.792395653396525,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Moradabad,Wheat,2024-25,1163.71,,1.14,4.54,3987.0,41.45859744135321,Good,3,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Muzaffarnagar,Maize,2024-25,1295.52,2532.7316666666666,0.02,0.07,3463.0,50.27472272295285,Limited,2,Rainfall anomaly,Yield trend,
+Uttar Pradesh,Muzaffarnagar,Rice,2024-25,1295.52,,0.06,0.15,2540.0,39.461850756631314,Good,3,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Muzaffarnagar,Wheat,2024-25,1295.52,2575.835,0.71,2.81,3960.0,50.084785612824994,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Pilibhit,Maize,2024-25,1345.94,,0.01,0.03,3462.0,21.768326785562657,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Pilibhit,Rice,2024-25,1345.94,2245.98,1.09,3.48,3209.0,66.64853068195643,Complete,4,Yield trend,Rainfall anomaly,Area trend
+Uttar Pradesh,Pilibhit,Wheat,2024-25,1345.94,2631.1283333333336,1.4,6.33,4509.0,32.07872522590587,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Pratapgarh,Maize,2024-25,933.2,2384.85,0.01,0.03,3289.0,65.31360903537521,Good,3,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Pratapgarh,Rice,2024-25,933.2,2262.0675,1.47,3.57,2437.0,52.615423145234814,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Pratapgarh,Wheat,2024-25,933.2,2643.8083333333334,1.49,4.87,3272.0,31.43816583135004,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Prayagraj,Maize,2024-25,940.39,2491.927,0.02,0.07,3467.0,80.30281416399686,Limited,2,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Prayagraj,Rice,2024-25,940.39,2275.0995,1.95,6.15,3157.0,36.32628871467164,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Prayagraj,Wheat,2024-25,940.39,2625.3250000000003,2.26,6.34,2800.0,20.892461467677414,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Rae Bareli,Maize,2024-25,944.02,,0.02,0.05,3195.0,25.563509007282246,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Rae Bareli,Rice,2024-25,944.02,2333.084166666667,1.78,5.22,2933.0,30.7945989034334,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Rae Bareli,Wheat,2024-25,944.02,2590.4108333333334,1.72,5.52,3212.0,26.53494280342263,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Rampur,Maize,2024-25,1359.38,1872.29,0.04,0.14,3561.0,14.552167050942995,Limited,2,Rainfall anomaly,,
+Uttar Pradesh,Rampur,Rice,2024-25,1359.38,2191.04,1.22,3.52,2883.0,37.286869231500496,Complete,4,Area trend,Price volatility,Rainfall anomaly
+Uttar Pradesh,Rampur,Wheat,2024-25,1359.38,2647.6695833333333,1.38,5.92,4281.0,32.62833703365779,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Saharanpur,Maize,2024-25,1556.73,2502.6200000000003,0.03,0.08,2351.0,53.8938894706244,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Saharanpur,Rice,2024-25,1556.73,2293.0133333333333,0.53,1.34,2514.0,34.12130226205369,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Saharanpur,Wheat,2024-25,1556.73,2663.76125,1.14,4.93,4322.0,29.416507415903894,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Sambhal,Maize,2024-25,1019.86,2098.8566666666666,0.15,0.48,3292.0,19.2370949268946,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Sambhal,Rice,2024-25,1019.86,2326.964,1.02,2.75,2695.0,38.426521187260384,Good,3,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Sambhal,Wheat,2024-25,1019.86,2631.525416666667,1.33,5.19,3912.0,42.53760609593546,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Sant Kabir Nagar,Maize,2024-25,1559.12,,0.02,0.06,2987.0,21.24799851360908,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Sant Kabir Nagar,Rice,2024-25,1559.12,,0.85,2.37,2776.0,39.76701633207464,Good,3,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Sant Kabir Nagar,Wheat,2024-25,1559.12,2623.0,1.01,3.79,3754.0,55.63833847062686,Good,3,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Shahjahanpur,Maize,2024-25,1129.67,2252.603888888889,0.16,0.55,3406.0,58.66721629352647,Good,3,Yield trend,Rainfall anomaly,
+Uttar Pradesh,Shahjahanpur,Rice,2024-25,1129.67,2080.7045,1.61,5.18,3219.0,36.02356741323731,Complete,4,Rainfall anomaly,Yield trend,Area trend
+Uttar Pradesh,Shahjahanpur,Wheat,2024-25,1129.67,2624.0016666666666,2.26,10.06,4459.0,19.888486562826245,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Shamli,Maize,2024-25,1295.52,2508.4616666666666,0.01,0.03,3429.0,70.9124270542903,Good,3,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Shamli,Rice,2024-25,1295.52,,0.23,0.63,2778.0,31.732678363027357,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Shamli,Wheat,2024-25,1295.52,2661.7341666666666,0.53,2.27,4306.0,47.22470820652287,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Shrawasti,Maize,2024-25,1220.8,,0.05,0.12,2436.0,21.643649972227557,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Shrawasti,Rice,2024-25,1220.8,,1.01,2.96,2924.0,36.41292697801421,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Shrawasti,Wheat,2024-25,1220.8,,0.92,3.48,3780.0,26.767684851786207,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Siddharthnagar,Maize,2024-25,1875.46,,0.0,0.01,3325.0,21.97589768221205,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Siddharthnagar,Rice,2024-25,1875.46,2287.74125,1.37,3.81,2776.0,41.01939857609744,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Siddharthnagar,Wheat,2024-25,1875.46,2625.26375,1.81,6.41,3531.0,30.07400914552173,Complete,4,Rainfall anomaly,Yield trend,Price volatility
+Uttar Pradesh,Sitapur,Maize,2024-25,1103.51,,0.1,0.38,3748.0,22.22621943896411,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Sitapur,Rice,2024-25,1103.51,2148.9079166666666,2.05,6.08,2964.0,35.35603827025913,Complete,4,Rainfall anomaly,Area trend,Price volatility
+Uttar Pradesh,Sitapur,Wheat,2024-25,1103.51,2588.318333333333,2.01,7.42,3693.0,43.9046945360067,Complete,4,Area trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Sonbhadra,Maize,2024-25,1161.54,,0.16,0.27,1695.0,12.622722589977103,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Sonbhadra,Rice,2024-25,1161.54,2287.905,1.18,2.93,2473.0,40.5513115958964,Good,3,Yield trend,Rainfall anomaly,Area trend
+Uttar Pradesh,Sonbhadra,Wheat,2024-25,1161.54,2521.3725,0.67,2.01,3019.0,39.673327086195805,Complete,4,Area trend,Rainfall anomaly,Yield trend
+Uttar Pradesh,Sultanpur,Maize,2024-25,1058.02,,0.03,0.05,1825.0,17.05775302027302,Good,3,Rainfall anomaly,,
+Uttar Pradesh,Sultanpur,Rice,2024-25,1058.02,,1.4,4.6,3281.0,40.5871647849789,Good,3,Area trend,Rainfall anomaly,
+Uttar Pradesh,Sultanpur,Wheat,2024-25,1058.02,,1.17,4.72,4030.0,19.203716345900133,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Unnao,Maize,2024-25,804.49,2261.015,0.23,0.65,2816.0,26.40028822543006,Complete,4,Rainfall anomaly,Price volatility,
+Uttar Pradesh,Unnao,Rice,2024-25,804.49,2255.935833333333,1.37,2.97,2173.0,53.01796056185967,Complete,4,Rainfall anomaly,Yield trend,Area trend
+Uttar Pradesh,Unnao,Wheat,2024-25,804.49,2612.3625,2.23,6.89,3094.0,57.47965074243435,Complete,4,Rainfall anomaly,Area trend,Yield trend
+Uttar Pradesh,Varanasi,Maize,2024-25,968.52,2418.238333333333,0.02,0.05,2662.0,58.03525497113626,Complete,4,Yield trend,Rainfall anomaly,Price volatility
+Uttar Pradesh,Varanasi,Rice,2024-25,968.52,,0.77,2.35,3069.0,27.983773656618883,Good,3,Rainfall anomaly,Area trend,
+Uttar Pradesh,Varanasi,Wheat,2024-25,968.52,2676.4516666666664,0.63,2.23,3561.0,43.566086586074455,Complete,4,Area trend,Rainfall anomaly,Price volatility
