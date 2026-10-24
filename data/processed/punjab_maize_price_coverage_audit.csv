@@ -1,0 +1,80 @@
+State,District,Crop,Year,Months_Available,_merge
+Punjab,Amritsar,Maize,2021-22,1.0,both
+Punjab,Amritsar,Maize,2022-23,3.0,both
+Punjab,Amritsar,Maize,2023-24,3.0,both
+Punjab,Amritsar,Maize,2024-25,3.0,both
+Punjab,Barnala,Maize,2024-25,3.0,both
+Punjab,Bathinda,Maize,2021-22,,left_only
+Punjab,Bathinda,Maize,2022-23,,left_only
+Punjab,Bathinda,Maize,2023-24,1.0,both
+Punjab,Bathinda,Maize,2024-25,1.0,both
+Punjab,Faridkot,Maize,2021-22,,left_only
+Punjab,Fatehgarh Sahib,Maize,2022-23,1.0,both
+Punjab,Fatehgarh Sahib,Maize,2023-24,3.0,both
+Punjab,Fatehgarh Sahib,Maize,2024-25,4.0,both
+Punjab,Fazilka,Maize,2021-22,,left_only
+Punjab,Fazilka,Maize,2022-23,,left_only
+Punjab,Fazilka,Maize,2024-25,1.0,both
+Punjab,Ferozepur,Maize,2021-22,0.0,both
+Punjab,Ferozepur,Maize,2024-25,5.0,both
+Punjab,Gurdaspur,Maize,2021-22,,left_only
+Punjab,Gurdaspur,Maize,2022-23,,left_only
+Punjab,Gurdaspur,Maize,2023-24,,left_only
+Punjab,Gurdaspur,Maize,2024-25,,left_only
+Punjab,Hoshiarpur,Maize,2021-22,3.0,both
+Punjab,Hoshiarpur,Maize,2022-23,1.0,both
+Punjab,Hoshiarpur,Maize,2023-24,3.0,both
+Punjab,Hoshiarpur,Maize,2024-25,2.0,both
+Punjab,Jalandhar,Maize,2021-22,8.0,both
+Punjab,Jalandhar,Maize,2022-23,6.0,both
+Punjab,Jalandhar,Maize,2023-24,5.0,both
+Punjab,Jalandhar,Maize,2024-25,10.0,both
+Punjab,Kapurthala,Maize,2021-22,2.0,both
+Punjab,Kapurthala,Maize,2022-23,2.0,both
+Punjab,Kapurthala,Maize,2023-24,2.0,both
+Punjab,Kapurthala,Maize,2024-25,3.0,both
+Punjab,Ludhiana,Maize,2021-22,2.0,both
+Punjab,Ludhiana,Maize,2022-23,4.0,both
+Punjab,Ludhiana,Maize,2023-24,4.0,both
+Punjab,Ludhiana,Maize,2024-25,5.0,both
+Punjab,Malerkotla,Maize,2021-22,,left_only
+Punjab,Malerkotla,Maize,2022-23,,left_only
+Punjab,Malerkotla,Maize,2023-24,1.0,both
+Punjab,Malerkotla,Maize,2024-25,1.0,both
+Punjab,Mansa,Maize,2021-22,,left_only
+Punjab,Mansa,Maize,2022-23,,left_only
+Punjab,Mansa,Maize,2023-24,,left_only
+Punjab,Mansa,Maize,2024-25,,left_only
+Punjab,Moga,Maize,2021-22,0.0,both
+Punjab,Moga,Maize,2022-23,,left_only
+Punjab,Moga,Maize,2023-24,,left_only
+Punjab,Moga,Maize,2024-25,,left_only
+Punjab,Pathankot,Maize,2021-22,,left_only
+Punjab,Pathankot,Maize,2022-23,,left_only
+Punjab,Pathankot,Maize,2023-24,,left_only
+Punjab,Pathankot,Maize,2024-25,,left_only
+Punjab,Patiala,Maize,2022-23,3.0,both
+Punjab,Patiala,Maize,2023-24,4.0,both
+Punjab,Patiala,Maize,2024-25,2.0,both
+Punjab,Rupnagar,Maize,2021-22,,left_only
+Punjab,Rupnagar,Maize,2022-23,,left_only
+Punjab,Rupnagar,Maize,2023-24,,left_only
+Punjab,Rupnagar,Maize,2024-25,,left_only
+Punjab,S.A.S Nagar,Maize,2021-22,,left_only
+Punjab,S.A.S Nagar,Maize,2022-23,1.0,both
+Punjab,S.A.S Nagar,Maize,2023-24,1.0,both
+Punjab,S.A.S Nagar,Maize,2024-25,3.0,both
+Punjab,Sangrur,Maize,2021-22,3.0,both
+Punjab,Sangrur,Maize,2022-23,1.0,both
+Punjab,Sangrur,Maize,2023-24,5.0,both
+Punjab,Sangrur,Maize,2024-25,5.0,both
+Punjab,Shahid Bhagat Singh Nagar,Maize,2021-22,3.0,both
+Punjab,Shahid Bhagat Singh Nagar,Maize,2022-23,4.0,both
+Punjab,Shahid Bhagat Singh Nagar,Maize,2023-24,1.0,both
+Punjab,Shahid Bhagat Singh Nagar,Maize,2024-25,6.0,both
+Punjab,Sri Muktsar Sahib,Maize,2021-22,3.0,both
+Punjab,Sri Muktsar Sahib,Maize,2022-23,3.0,both
+Punjab,Tarn Taran,Maize,2021-22,,left_only
+Punjab,Tarn Taran,Maize,2022-23,,left_only
+Punjab,Tarn Taran,Maize,2023-24,,left_only
+Punjab,Tarn Taran,Maize,2024-25,,left_only

@@ -1,0 +1,27 @@
+{
+  "model_type": "Explainable Weighted Rule-Based Risk Model",
+  "interpretation": "Historical-signal-based yield risk assessment",
+  "weights": {
+    "yield_trend": 0.35,
+    "rainfall_anomaly": 0.3,
+    "area_trend": 0.2,
+    "price_volatility": 0.15
+  },
+  "scaling_method": "95th percentile of historical adverse signals",
+  "scaling_years": [
+    "2022-23",
+    "2023-24"
+  ],
+  "reference_values": {
+    "Yield": 21.417356499831723,
+    "Area": 9.371366279069777,
+    "Rainfall": 35.16355942791774,
+    "Price": 12.303935433226039
+  },
+  "score_range": [
+    0,
+    100
+  ],
+  "minimum_dashboard_drivers": 2,
+  "missing_driver_handling": "Exclude missing driver and re-normalize remaining available weights"
+}
