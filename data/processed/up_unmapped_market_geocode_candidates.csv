@@ -1,0 +1,5 @@
+Market,Market_Key,Geocode_Found,Candidate_District,Candidate_Place,Full_Address,Latitude,Longitude
+Change (Over Previous Month) = [Price - Price(Over Previous Month)/Price(Over Previous Month)] * 100,change (over previous month) = [price - price(over previous month)/price(over previous month)] * 100,False,,,,,
+Change (Over Previous Year) = [Price - Price(Over Previous Year)/Price(Over Previous Year)] * 100,change (over previous year) = [price - price(over previous year)/price(over previous year)] * 100,False,,,,,
+Note:,note:,False,,,,,
+Weighted Average Price = ∑(arrival quantity * modal price) / ∑arrival quantity,weighted average price = ∑(arrival quantity * modal price) / ∑arrival quantity,False,,,,,
