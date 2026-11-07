@@ -14,7 +14,7 @@ const formatDistrict = (d) => {
     production : d.production,
     yield_kg_per_hectare: d.yieldKgPerHectare,
     risk_score: latestScore?.riskScore ?? null,
-    risk_data_quality : latestScore?.riskScore ?? null,
+    risk_data_quality : latestScore?.riskDataQuality ?? null,
     drivers_avaialable : latestScore?.driversAvailable ?? null,
     top_driver_1: latestScore?.topDriver1 ?? null,
     top_driver_2: latestScore?.topDriver2 ?? null,
