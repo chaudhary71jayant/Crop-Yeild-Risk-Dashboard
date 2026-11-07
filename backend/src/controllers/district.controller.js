@@ -11,7 +11,7 @@ const formatDistrict = (d) => {
     rainfall_mm: d.rainfallMm,
     avg_price: d.avgPrice,
     area_hectares: d.areaHectares,
-    yield_tonnes: d.yieldTonnes,
+    yield_kg_per_hectare: d.yieldKgPerHectare,
     risk_score: latestScore?.riskScore ?? null,
     top_driver_1: latestScore?.topDriver1 ?? null,
     top_driver_2: latestScore?.topDriver2 ?? null,
