@@ -11,8 +11,11 @@ const formatDistrict = (d) => {
     rainfall_mm: d.rainfallMm,
     avg_price: d.avgPrice,
     area_hectares: d.areaHectares,
+    production : d.production,
     yield_kg_per_hectare: d.yieldKgPerHectare,
     risk_score: latestScore?.riskScore ?? null,
+    risk_data_quality : latestScore?.riskScore ?? null,
+    drivers_avaialable : latestScore?.driversAvailable ?? null,
     top_driver_1: latestScore?.topDriver1 ?? null,
     top_driver_2: latestScore?.topDriver2 ?? null,
     top_driver_3: latestScore?.topDriver3 ?? null
@@ -26,7 +29,12 @@ const getAllDistricts = async (req, res, next) => {
     const where = {};
     if(state) where.state = state;
     if(crop) where.crop = crop;
-    if(year) where.year = parseInt(year);
+    if(year) {
+      where.year = year;
+    } else {
+      const latest = await prisma.districtData.aggregate({ _max : { year : true }});
+      where.year = latest._max.year;
+    }
 
     const skip = (parseInt(page) - 1) * parseInt(limit);
 
@@ -68,7 +76,20 @@ const getDistrictById = async (req, res, next) => {
       return next(error);
     }
 
-    res.json(formatDistrict(district));
+    const history = await prisma.districtData.findMany({
+      where : {
+        state : district.state,
+        district : district.district,
+        crop : district.crop
+      },
+      include : { riskScores : true},
+      orderBy : { year : "asc"}
+    });
+
+    res.json({
+      ...formatDistrict(district),
+      trend : history.map(formatDistrict)
+    });
   } catch (error) {
     next(error);
   }
