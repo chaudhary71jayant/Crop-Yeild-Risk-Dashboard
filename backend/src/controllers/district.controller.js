@@ -123,7 +123,7 @@ const compareDistricts = async (req, res, next) => {
   }
 };
 
-const healtCheck = async( req, res, next) => {
+const healthCheck = async( req, res, next) => {
   try {
     res.status(200).json({success : true, message : "Server is Healthy", timestamp : new Date().toISOString()});
   } catch (error) {
@@ -131,4 +131,34 @@ const healtCheck = async( req, res, next) => {
   }
 }
 
-export { getAllDistricts, getDistrictById, compareDistricts, healtCheck };
+const getFilterOption = async(req,res,next) => {
+  try {
+    const [ states, crops, years] = await Promise.all([
+      prisma.districtData.findMany({
+        select : {state : true},
+        distinct : ["state"],
+        orderBy : { state : "asc"}
+      }),
+      prisma.districtData.findMany({
+        select : {crop : true},
+        distinct : ["crop"],
+        orderBy : {crop : "asc"}
+      }),
+      prisma.districtData.findMany({
+        select : {year : true},
+        distinct : ["year"],
+        orderBy : {year : "desc"},
+      })
+    ]);
+
+    res.json({
+      states : states.map((s) => s.state),
+      crops : crops.map((c) => c.crop),
+      years : years.map((y) => y.year)
+    });
+  } catch (error) {
+    next(error);
+  }
+}
+
+export { getAllDistricts, getDistrictById, compareDistricts, healthCheck, getFilterOption };
