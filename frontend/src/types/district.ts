@@ -39,3 +39,9 @@ export interface DistrictsResponse {
 export interface DistrictDetail extends District {
   trend: District[];
 }
+
+export interface FilterOptions {
+    states : string[];
+    crops : string[];
+    years : string[];
+}
