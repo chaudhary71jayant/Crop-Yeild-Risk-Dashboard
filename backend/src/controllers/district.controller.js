@@ -54,7 +54,7 @@ const getAllDistricts = async (req, res, next) => {
             total,
             page : parseInt(page),
             limit : parseInt(limit),
-            totalPage : Math.ceil(total / parseInt(limit))
+            totalPages : Math.ceil(total / parseInt(limit))
         }
     });
   } catch (error) {
