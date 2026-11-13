@@ -1,5 +1,5 @@
 
-import type { DistrictsResponse, FilterOptions } from "../types/district";
+import type { DistrictDetail, DistrictsResponse, FilterOptions } from "../types/district";
 
 const API_URL : string = import.meta.env.VITE_API_URL ?? "http://localhost:8080/api/v1";
 
@@ -38,5 +38,8 @@ const fetchFilterOptions = () : Promise<FilterOptions> => {
     return request<FilterOptions>("/filters");
 }
 
+const fetchDistrictByID = (id : string) : Promise<DistrictDetail> => {
+    return request<DistrictDetail>(`/district/${id}`);
+}
 
-export { fetchDistricts,fetchFilterOptions};
+export { fetchDistricts,fetchFilterOptions, fetchDistrictByID};
