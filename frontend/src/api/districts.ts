@@ -1,6 +1,7 @@
 import type { District, DistrictDetail, DistrictsResponse, FilterOptions } from "../types/district";
 
-const API_URL: string = import.meta.env.VITE_API_URL ?? "http://localhost:8080/api/v1";
+const rawApiUrl: string = import.meta.env.VITE_API_URL ?? "http://localhost:8080/api/v1";
+const API_URL: string = rawApiUrl.replace(/\/+$/, "");
 
 export interface DistricFilters {
   state?: string;
