@@ -1,17 +1,16 @@
+import type { District, DistrictDetail, DistrictsResponse, FilterOptions } from "../types/district";
 
-import type { DistrictDetail, DistrictsResponse, FilterOptions } from "../types/district";
-
-const API_URL : string = import.meta.env.VITE_API_URL ?? "http://localhost:8080/api/v1";
+const API_URL: string = import.meta.env.VITE_API_URL ?? "http://localhost:8080/api/v1";
 
 export interface DistricFilters {
-    state?  : string;
-    crop? : string;
-    year? : string;
-    page? : number;
-    limit? : number;
+  state?: string;
+  crop?: string;
+  year?: string;
+  page?: number;
+  limit?: number;
 }
 
-const request = async <T>(path: string): Promise<T> => {
+const request = async <T,>(path: string): Promise<T> => {
   const res = await fetch(`${API_URL}${path}`);
 
   if (!res.ok) {
@@ -22,24 +21,26 @@ const request = async <T>(path: string): Promise<T> => {
   return res.json() as Promise<T>;
 };
 
-
-
-const fetchDistricts = async(filters : DistricFilters = {}) : Promise<DistrictsResponse> => {
-    const params = new URLSearchParams();
-    for(const [key,value] of Object.entries(filters)){
-        if(value !== undefined && value !== ""){
-            params.set(key, String(value));
-        }
+const fetchDistricts = async (filters: DistricFilters = {}): Promise<DistrictsResponse> => {
+  const params = new URLSearchParams();
+  for (const [key, value] of Object.entries(filters)) {
+    if (value !== undefined && value !== "") {
+      params.set(key, String(value));
     }
-    return request<DistrictsResponse>(`/districts?${params}`);
-}
+  }
+  return request<DistrictsResponse>(`/districts?${params.toString()}`);
+};
 
-const fetchFilterOptions = () : Promise<FilterOptions> => {
-    return request<FilterOptions>("/filters");
-}
+const fetchFilterOptions = (): Promise<FilterOptions> => {
+  return request<FilterOptions>("/filters");
+};
 
-const fetchDistrictByID = (id : string) : Promise<DistrictDetail> => {
-    return request<DistrictDetail>(`/district/${id}`);
-}
+const fetchDistrictByID = (id: string | number): Promise<DistrictDetail> => {
+  return request<DistrictDetail>(`/district/${id}`);
+};
 
-export { fetchDistricts,fetchFilterOptions, fetchDistrictByID};
+const fetchCompareDistricts = (ids: (string | number)[]): Promise<District[]> => {
+  return request<District[]>(`/compare?ids=${ids.join(",")}`);
+};
+
+export { fetchDistricts, fetchFilterOptions, fetchDistrictByID, fetchCompareDistricts };

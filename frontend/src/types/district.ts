@@ -1,28 +1,30 @@
 export type RiskDataQuality =
-    | "Complete"
-    | "Good"
-    | "Limited"
-    | "Very Limited"
-    | "Insuficient";
+  | "Complete"
+  | "Good"
+  | "Limited"
+  | "Very Limited"
+  | "Insufficient";
 
 export interface District {
-    id: number;
-    state: string;
-    district: string;
-    crop: string;
-    year: string;
-    rainfall_mm: number | null;
-    avg_price: number | null;
-    area_hectare: number | null;
-    production: number | null;
-    yield_kg_per_hectare: number | null;
-    risk_score: number | null;
-    risk_data_quality: RiskDataQuality | null;
-    drivers_available: number | null;
-    top_driver_1: string | null;
-    top_driver_2: string | null;
-    top_driver_3: string | null;
-};
+  id: number;
+  state: string;
+  district: string;
+  crop: string;
+  year: string;
+  rainfall_mm: number | null;
+  avg_price: number | null;
+  area_hectares: number | null;
+  area_hectare?: number | null;
+  production: number | null;
+  production_tonnes: number | null;
+  yield_kg_per_hectare: number | null;
+  risk_score: number | null;
+  risk_data_quality: RiskDataQuality | string | null;
+  drivers_available: number | null;
+  top_driver_1: string | null;
+  top_driver_2: string | null;
+  top_driver_3: string | null;
+}
 
 export interface Pagination {
   total: number;
@@ -41,7 +43,7 @@ export interface DistrictDetail extends District {
 }
 
 export interface FilterOptions {
-    states : string[];
-    crops : string[];
-    years : string[];
+  states: string[];
+  crops: string[];
+  years: string[];
 }
