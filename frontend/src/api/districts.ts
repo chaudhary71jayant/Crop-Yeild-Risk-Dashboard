@@ -1,6 +1,15 @@
 import type { District, DistrictDetail, DistrictsResponse, FilterOptions } from "../types/district";
 
-const rawApiUrl: string = import.meta.env.VITE_API_URL ?? "http://localhost:8080/api/v1";
+const isProd = import.meta.env.PROD;
+const defaultApiUrl = isProd
+  ? "https://crop-yield-risk-dashboard.onrender.com/api/v1"
+  : "http://localhost:8080/api/v1";
+
+const rawApiUrl: string =
+  import.meta.env.VITE_API_URL && import.meta.env.VITE_API_URL.trim() !== ""
+    ? import.meta.env.VITE_API_URL
+    : defaultApiUrl;
+
 const API_URL: string = rawApiUrl.replace(/\/+$/, "");
 
 export interface DistricFilters {
