@@ -57,12 +57,12 @@ If historical data is missing for a signal, that signal is excluded and the rema
 > [!IMPORTANT]
 > **A `null` or dash (`—`) risk score NEVER means zero risk.** It means there is insufficient historical baseline data to calculate trend anomalies (common in baseline years `2021-22` and `2022-23`).
 
-### Metric Units
+### Metric Units (All Confirmed)
 - **Cultivated Area:** `area_hectares` (hectares / ha)
 - **Production:** `production_tonnes` (tonnes)
 - **Yield:** `yield_kg_per_hectare` (kg/ha)
 - **Precipitation:** `rainfall_mm` (mm)
-- **Average Price:** `avg_price` (unit unconfirmed, suspected ₹ per quintal — displayed without unit label)
+- **Average Price:** `avg_price` (₹ per quintal / ₹/quintal — 1 quintal = 100 kg)
 
 ---
 

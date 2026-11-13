@@ -164,7 +164,7 @@ const DistrictDetailPage = () => {
                 <p className="mt-1 text-xl font-bold text-slate-800">
                   {fmt(detail.avg_price, 1)}
                 </p>
-                <p className="text-[11px] text-slate-400">unit unconfirmed</p>
+                <p className="text-[11px] text-slate-400">₹ / quintal</p>
               </div>
             </div>
           </div>
@@ -234,7 +234,7 @@ const DistrictDetailPage = () => {
                     <th className="p-3 font-semibold text-slate-700 text-right">Production (tonnes)</th>
                     <th className="p-3 font-semibold text-slate-700 text-right">Yield (kg/ha)</th>
                     <th className="p-3 font-semibold text-slate-700 text-right">Rainfall (mm)</th>
-                    <th className="p-3 font-semibold text-slate-700 text-right">Avg Price</th>
+                    <th className="p-3 font-semibold text-slate-700 text-right">Avg Price (₹/quintal)</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">

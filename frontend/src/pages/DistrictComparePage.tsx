@@ -264,12 +264,12 @@ const DistrictComparePage = () => {
                     <td className="p-3 font-medium text-slate-600">
                       Average Price
                       <span className="block text-[11px] font-normal text-slate-400">
-                        (Unit unconfirmed)
+                        ₹ / quintal
                       </span>
                     </td>
                     {districts.map((d) => (
                       <td key={d.id} className="p-3 text-slate-800">
-                        {fmt(d.avg_price, 1)}
+                        ₹{fmt(d.avg_price, 1)} <span className="text-xs text-slate-500">/ quintal</span>
                       </td>
                     ))}
                   </tr>
