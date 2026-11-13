@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import type { DistrictDetail } from "../types/district";
 import { fetchDistrictByID } from "../api/districts";
+import { RiskTrendChart } from "../components/RiskTrendChart";
 
 const fmt = (value: number | null, digits = 1) =>
   value === null ? "—" : value.toFixed(digits);
@@ -97,6 +98,11 @@ const DistrictDetailPage = () => {
               ))}
             </ul>
           )}
+
+          <h2 className="mb-2 text-lg font-semibold">Risk trend</h2>
+          <div className="mb-6">
+            <RiskTrendChart trend={detail.trend}/>
+          </div>
 
           <h2 className="mb-2 text-lg font-semibold">History</h2>
           <table className="w-full border text-left text-sm">
