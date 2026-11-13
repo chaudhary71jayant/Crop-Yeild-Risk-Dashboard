@@ -1,11 +1,15 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This is the backend of Crop yeild project",
+  "description": "This is the backend of Crop yield risk project",
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "prisma generate",
+    "postinstall": "prisma generate",
+    "db:migrate": "prisma migrate deploy",
+    "db:import": "node prisma/importHandoff.js"
   },
   "author": "Jayant Chaudhary",
   "license": "ISC",
