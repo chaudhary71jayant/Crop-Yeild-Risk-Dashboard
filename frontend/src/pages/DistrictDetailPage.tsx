@@ -131,22 +131,32 @@ const DistrictDetailPage = () => {
                 <p className="text-[11px] text-slate-400">kg/hectare</p>
               </div>
 
-              {/* Area Card (ha) */}
+              {/* Area Card */}
               <div className="rounded-lg border border-slate-200 bg-white p-3 shadow-sm">
                 <p className="text-xs font-medium text-slate-500">Cultivated Area</p>
                 <p className="mt-1 text-xl font-bold text-slate-800">
-                  {fmt(detail.area_hectares ?? detail.area_hectare, 1)}
+                  {fmt(detail.area_hectares ?? detail.area_hectare, 2)}{" "}
+                  <span className="text-xs font-normal text-slate-500">lakh ha</span>
                 </p>
-                <p className="text-[11px] text-slate-400">hectares (ha)</p>
+                <p className="text-[11px] text-slate-400">
+                  {detail.area_hectares !== null && detail.area_hectares !== undefined
+                    ? `~${Math.round(detail.area_hectares * 100000).toLocaleString()} ha`
+                    : "lakh hectares"}
+                </p>
               </div>
 
-              {/* Production Card (tonnes) */}
+              {/* Production Card */}
               <div className="rounded-lg border border-slate-200 bg-white p-3 shadow-sm">
                 <p className="text-xs font-medium text-slate-500">Production</p>
                 <p className="mt-1 text-xl font-bold text-slate-800">
-                  {fmt(detail.production_tonnes ?? detail.production, 1)}
+                  {fmt(detail.production_tonnes ?? detail.production, 2)}{" "}
+                  <span className="text-xs font-normal text-slate-500">lakh tonnes</span>
                 </p>
-                <p className="text-[11px] text-slate-400">tonnes</p>
+                <p className="text-[11px] text-slate-400">
+                  {detail.production_tonnes !== null && detail.production_tonnes !== undefined
+                    ? `~${Math.round(detail.production_tonnes * 100000).toLocaleString()} tonnes`
+                    : "lakh tonnes"}
+                </p>
               </div>
 
               {/* Rainfall Card */}
@@ -230,8 +240,8 @@ const DistrictDetailPage = () => {
                     <th className="p-3 font-semibold text-slate-700">Year</th>
                     <th className="p-3 font-semibold text-slate-700">Risk Score</th>
                     <th className="p-3 font-semibold text-slate-700">Data Quality</th>
-                    <th className="p-3 font-semibold text-slate-700 text-right">Area (ha)</th>
-                    <th className="p-3 font-semibold text-slate-700 text-right">Production (tonnes)</th>
+                    <th className="p-3 font-semibold text-slate-700 text-right">Area (lakh ha)</th>
+                    <th className="p-3 font-semibold text-slate-700 text-right">Production (lakh tonnes)</th>
                     <th className="p-3 font-semibold text-slate-700 text-right">Yield (kg/ha)</th>
                     <th className="p-3 font-semibold text-slate-700 text-right">Rainfall (mm)</th>
                     <th className="p-3 font-semibold text-slate-700 text-right">Avg Price (₹/quintal)</th>
@@ -263,10 +273,10 @@ const DistrictDetailPage = () => {
                         />
                       </td>
                       <td className="p-3 text-right text-slate-700">
-                        {fmt(t.area_hectares ?? t.area_hectare, 1)}
+                        {fmt(t.area_hectares ?? t.area_hectare, 2)}
                       </td>
                       <td className="p-3 text-right text-slate-700">
-                        {fmt(t.production_tonnes ?? t.production, 1)}
+                        {fmt(t.production_tonnes ?? t.production, 2)}
                       </td>
                       <td className="p-3 text-right font-medium text-slate-800">
                         {fmt(t.yield_kg_per_hectare, 0)}

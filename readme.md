@@ -21,8 +21,8 @@ A full-stack agricultural decision-support dashboard that visualises calculated 
 | Role / Collaborator | Responsibilities & Deliverables |
 |---|---|
 | **Backend / Project Owner**<br>*(Jayant Chaudhary)* | • Initial Node/Express REST API architecture (ES modules, arrow function style, central error handling, winston/morgan logging).<br>• Prisma 7 database schema (`district_data` & `risk_scores`), initial migrations, and Supabase PostgreSQL setup.<br>• REST endpoints (`/health`, `/districts`, `/district/:id`, `/filters`, `/compare`).<br>• Initial React + Vite + TypeScript frontend scaffolding and baseline list/detail pages. |
-| **Data Analyst Teammate**<br>*(Data Pipeline)* | • Analytical model design (`docs/risk_model_config.json`) for agricultural yield risk scoring.<br>• Historical data processing, anomaly scoring, and CSV generation (`data/backend_handoff_2021_2025.csv`).<br>• Confirmation of metric definitions and units: `area_hectares` (ha), `production_tonnes` (tonnes), `yield_kg_per_hectare` (kg/ha), `rainfall_mm` (mm). |
-| **Full-Stack Handoff Engineer**<br>*(Current Phase)* | • **Trend Chart Bug Fix:** Resolved blank chart rendering via Tailwind v4 entry configuration and explicit pixel-height containment for Recharts `ResponsiveContainer`.<br>• **Compare View:** Designed and built `/compare` feature with multi-district selection, side-by-side metric comparison table, URL synchronization, and comparative bar chart.<br>• **Confirmed Units:** Integrated confirmed units for cultivated area (`ha`) and production (`tonnes`) across detail and compare views.<br>• **UI/UX Polish:** Added color-coded risk badges (Low, Medium, High, Unscored), data quality badges with explanatory tooltips, an interactive "How the Score Works" card, fully clickable table rows, and responsive layouts.<br>• **Backend Hardening:** Added stable multi-column sorting, input validation/capping for pagination, 5xx error sanitization, dynamic production CORS via `FRONTEND_URL`, and made data importing idempotent with upsert.<br>• **Deployment & Docs:** Configured SPA rewrites for Vercel/Netlify, deployment automation scripts, and this handoff guide. |
+| **Data Analyst Teammate**<br>*(Data Pipeline)* | • Analytical model design (`docs/risk_model_config.json`) for agricultural yield risk scoring.<br>• Historical data processing, anomaly scoring, and CSV generation (`data/backend_handoff_2021_2025.csv`).<br>• Confirmation of metric definitions and units: `area_hectares` (lakh ha), `production_tonnes` (lakh tonnes), `yield_kg_per_hectare` (kg/ha), `rainfall_mm` (mm), `avg_price` (₹/quintal). |
+| **Full-Stack Handoff Engineer**<br>*(Current Phase)* | • **Trend Chart Bug Fix:** Resolved blank chart rendering via Tailwind v4 entry configuration and explicit pixel-height containment for Recharts `ResponsiveContainer`.<br>• **Compare View:** Designed and built `/compare` feature with multi-district selection, side-by-side metric comparison table, URL synchronization, and comparative bar chart.<br>• **Confirmed Units:** Integrated confirmed official units for cultivated area (`lakh ha`) and production (`lakh tonnes`) alongside equivalent conversions (`ha` and `tonnes`) and average mandi price (`₹/quintal`) across detail and compare views.<br>• **UI/UX Polish:** Added color-coded risk badges (Low, Medium, High, Unscored), data quality badges with explanatory tooltips, an interactive "How the Score Works" card, fully clickable table rows, and responsive layouts.<br>• **Backend Hardening:** Added stable multi-column sorting, input validation/capping for pagination, 5xx error sanitization, dynamic production CORS via `FRONTEND_URL`, and made data importing idempotent with upsert.<br>• **Deployment & Docs:** Configured SPA rewrites for Vercel/Netlify, deployment automation scripts, and this handoff guide. |
 
 ---
 
@@ -52,15 +52,15 @@ If historical data is missing for a signal, that signal is excluded and the rema
 - **Complete:** All 4 signals available and computed.
 - **Good:** 3 signals available; reliable score.
 - **Limited:** 2 signals available (minimum threshold required to compute a score).
-- **Very Limited / Insufficient:** &lt; 2 signals available; score is withheld to preserve data integrity.
+- **Very Limited / Insufficient:** < 2 signals available; score is withheld to preserve data integrity.
 
 > [!IMPORTANT]
 > **A `null` or dash (`—`) risk score NEVER means zero risk.** It means there is insufficient historical baseline data to calculate trend anomalies (common in baseline years `2021-22` and `2022-23`).
 
 ### Metric Units (All Confirmed)
-- **Cultivated Area:** `area_hectares` (hectares / ha)
-- **Production:** `production_tonnes` (tonnes)
-- **Yield:** `yield_kg_per_hectare` (kg/ha)
+- **Cultivated Area:** `area_hectares` (Lakh Hectares / lakh ha — 1 lakh ha = 100,000 ha)
+- **Production:** `production_tonnes` (Lakh Tonnes / lakh tonnes — 1 lakh tonne = 100,000 tonnes)
+- **Yield:** `yield_kg_per_hectare` (kg/ha; relationship: $\text{Yield (kg/ha)} = \frac{\text{Production (lakh tonnes)} \times 1,000}{\text{Area (lakh ha)}}$)
 - **Precipitation:** `rainfall_mm` (mm)
 - **Average Price:** `avg_price` (₹ per quintal / ₹/quintal — 1 quintal = 100 kg)
 

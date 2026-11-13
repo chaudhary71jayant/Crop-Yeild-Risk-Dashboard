@@ -234,21 +234,53 @@ const DistrictComparePage = () => {
                   </tr>
 
                   <tr className="hover:bg-slate-50">
-                    <td className="p-3 font-medium text-slate-600">Area (Cultivated)</td>
-                    {districts.map((d) => (
-                      <td key={d.id} className="p-3 text-slate-800">
-                        {fmt(d.area_hectares ?? d.area_hectare, 1)} <span className="text-xs text-slate-500">ha</span>
-                      </td>
-                    ))}
+                    <td className="p-3 font-medium text-slate-600">
+                      Area (Cultivated)
+                      <span className="block text-[11px] font-normal text-slate-400">
+                        lakh hectares
+                      </span>
+                    </td>
+                    {districts.map((d) => {
+                      const areaVal = d.area_hectares ?? d.area_hectare;
+                      return (
+                        <td key={d.id} className="p-3 text-slate-800">
+                          <div>
+                            {fmt(areaVal, 2)}{" "}
+                            <span className="text-xs text-slate-500">lakh ha</span>
+                          </div>
+                          {areaVal !== null && areaVal !== undefined && (
+                            <div className="text-[11px] text-slate-400">
+                              ~{Math.round(areaVal * 100000).toLocaleString()} ha
+                            </div>
+                          )}
+                        </td>
+                      );
+                    })}
                   </tr>
 
                   <tr className="hover:bg-slate-50">
-                    <td className="p-3 font-medium text-slate-600">Production</td>
-                    {districts.map((d) => (
-                      <td key={d.id} className="p-3 text-slate-800">
-                        {fmt(d.production_tonnes ?? d.production, 1)} <span className="text-xs text-slate-500">tonnes</span>
-                      </td>
-                    ))}
+                    <td className="p-3 font-medium text-slate-600">
+                      Production
+                      <span className="block text-[11px] font-normal text-slate-400">
+                        lakh tonnes
+                      </span>
+                    </td>
+                    {districts.map((d) => {
+                      const prodVal = d.production_tonnes ?? d.production;
+                      return (
+                        <td key={d.id} className="p-3 text-slate-800">
+                          <div>
+                            {fmt(prodVal, 2)}{" "}
+                            <span className="text-xs text-slate-500">lakh tonnes</span>
+                          </div>
+                          {prodVal !== null && prodVal !== undefined && (
+                            <div className="text-[11px] text-slate-400">
+                              ~{Math.round(prodVal * 100000).toLocaleString()} tonnes
+                            </div>
+                          )}
+                        </td>
+                      );
+                    })}
                   </tr>
 
                   <tr className="hover:bg-slate-50">
