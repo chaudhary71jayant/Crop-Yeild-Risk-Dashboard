@@ -78,16 +78,25 @@ const DistrictComparePage = () => {
   return (
     <main className="mx-auto max-w-6xl p-4 sm:p-6 space-y-6">
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 border-b pb-4">
-        <div>
-          <Link to="/" className="text-sm font-medium text-blue-600 hover:underline">
-            ← Back to district directory
+        <div className="flex items-center gap-3.5">
+          <Link to="/" title="Back to directory">
+            <img
+              src="/logo.svg"
+              alt="Logo"
+              className="h-11 w-11 rounded-lg object-contain shrink-0 shadow-sm hover:opacity-85 transition-opacity"
+            />
           </Link>
-          <h1 className="mt-2 text-2xl font-bold text-slate-900">
-            District Comparison
-          </h1>
-          <p className="text-sm text-slate-500">
-            Side-by-side risk score, environmental, and production metrics comparison
-          </p>
+          <div>
+            <Link to="/" className="text-xs font-medium text-blue-600 hover:underline">
+              ← Back to district directory
+            </Link>
+            <h1 className="mt-1 text-2xl font-bold text-slate-900">
+              District Comparison
+            </h1>
+            <p className="text-xs text-slate-500">
+              Side-by-side risk score, environmental, and production metrics comparison
+            </p>
+          </div>
         </div>
 
         {/* Add district by ID form */}

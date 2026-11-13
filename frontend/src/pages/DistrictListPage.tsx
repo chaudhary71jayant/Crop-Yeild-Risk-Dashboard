@@ -90,13 +90,20 @@ const DistrictListPage = () => {
     <main className="mx-auto max-w-6xl p-4 sm:p-6 space-y-6">
       {/* Header */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 border-b border-slate-200 pb-4">
-        <div>
-          <h1 className="text-2xl font-bold tracking-tight text-slate-900">
-            Crop Yield Risk & Advisory Dashboard
-          </h1>
-          <p className="text-sm text-slate-500">
-            Yield-risk scores, historical drivers, and comparative analytics across India's agricultural districts
-          </p>
+        <div className="flex items-center gap-3.5">
+          <img
+            src="/logo.svg"
+            alt="Crop Yield Risk Logo"
+            className="h-11 w-11 rounded-lg object-contain shrink-0 shadow-sm"
+          />
+          <div>
+            <h1 className="text-2xl font-bold tracking-tight text-slate-900">
+              Crop Yield Risk & Advisory Dashboard
+            </h1>
+            <p className="text-sm text-slate-500">
+              Yield-risk scores, historical drivers, and comparative analytics across India's agricultural districts
+            </p>
+          </div>
         </div>
 
         <div className="flex items-center gap-3">

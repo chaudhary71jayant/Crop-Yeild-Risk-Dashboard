@@ -9,6 +9,13 @@ dist/
 logs/
 *.log
 
+# Private photos and user assets
+data/*.png
+data/*.jpg
+data/*.jpeg
+data/*phoro*
+*phoro*
+
 # OS & IDE
 .DS_Store
 Thumbs.db
